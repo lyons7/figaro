@@ -81,6 +81,7 @@ result
 result = result[result['CID'].str.contains("Performance")]
 result
 
+
 # print(result.to_string())
 
 # Just get stuff past... 2007?
@@ -88,9 +89,19 @@ result
 met_2007_2018 = result[['role','opera', 'artist', 'date', 'CID']]
 
 # Just get stuff past 2006
+# Help from here: https://stackoverflow.com/questions/22898824/filtering-pandas-dataframes-on-dates
 met_2007_2018 = met_2007_2018[(met_2007_2018['date']>datetime.date(2007,9,1))]
+# Get rid of buggy stuff that might mess up spotify
+met_2007_2018 = met_2007_2018[~met_2007_2018['role'].str.contains("\"")]
 met_2007_2018 = met_2007_2018.reset_index(drop=True)
 met_2007_2018
 
 # Save this in our SQL database
 met_2007_2018.to_sql('met_archive', engine, if_exists='replace')
+
+# Play around a bit
+sql_query = """SELECT * FROM met_archive WHERE artist ='Juan Diego Flórez';"""
+
+# Start with combining all Met Archive files
+play = pd.read_sql_query(sql_query,con)
+play
