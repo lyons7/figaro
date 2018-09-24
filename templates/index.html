@@ -1,11 +1,7 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Kate Lyons Figaro App</title>
-  </head>
-  <body>
+<body>
     <div class="container">
-      <h1>Kate Lyons Figaro Application</h1>
+      <h1>Kate Lyons Figaro App</h1>
       <form role="form" method='POST' action='/'>
         <div class="form-group">
           <input type="text" name="word" placeholder="Enter word" style="max-width: 300px;" autofocus required>
@@ -13,6 +9,21 @@
         <button type="submit">Submit</button>
       </form>
       <br>
+      {% for error in errors %}
+        <h4>{{ error }}</h4>
+      {% endfor %}
     </div>
-  </body>
-</html>
+    <div>
+        {% if letters %}
+            <h2>Letters Of Your Word</h2>
+            <br>
+            <div id="results">
+                <ol>
+                {% for letter in letters %}
+                    <li>{{ letter }}</li>
+                {% endfor %}
+              </table>
+            </div>
+        {% endif %}
+    </div>
+</body>

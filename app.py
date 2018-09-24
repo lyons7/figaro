@@ -1,20 +1,21 @@
 from flask import Flask, render_template, request
+from get_letters import get_letters
+
 app = Flask(__name__)
-@app.route('/')
 @app.route('/', methods=['GET', 'POST'])
 def index():
     errors = []
-    trends = ''
+    letters = []
     if request.method == "POST":
         # get url that the user has entered
         try:
             word = request.form['word']
-            # print statements just print to terminal
-            print("word was:")
-            print(word)
+            letters = get_letters(word)
         except:
-            print("error")
-    return render_template('index.html')
+            errors.append(
+                "Unable to get URL. Please make sure it's valid and try again."
+            )
+    return render_template('index.html', letters=letters, errors=errors)
 
 # Want to keep this always probably?
 if __name__ == '__main__':
