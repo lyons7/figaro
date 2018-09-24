@@ -3,3 +3,4 @@
 # platform: osx-64
 flask==1.0.2
 gunicorn==19.9.0
+requests==2.19.1
