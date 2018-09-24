@@ -38,3 +38,7 @@ opera2
 
 # For later this will be useful!
 # URL composition of web archive stuff: 'https://web.archive.org/web', '20170928060212', 'www.metopera.org'
+
+# Automate this process
+# Figure out patterns of URLs ... or just adapt dates to web archive way and if there is nothing, move on?
+# Think on this...
