@@ -11,54 +11,83 @@ from sqlalchemy_utils import database_exists, create_database
 import psycopg2
 import time
 import os
+import dateutil.parser
+
 
 # Figure out how to get stuff that we want
 os.getcwd()
-os.chdir('/Users/katelyons/Documents/Insight/figaro/data')
+os.chdir('/Users/katelyons/Downloads/rush/20150920184759/www.metopera.org/Season/Tickets/Rush-Page/')
 HtmlFile = open('index.html', 'r', encoding='utf-8')
 source_code = HtmlFile.read()
 
 soup = BeautifulSoup(source_code, 'html.parser')
 
 # Figure out how to isolate aspects of page
-movie_containers = html_soup.find_all('div', class_ = 'lister-item mode-advanced')
 
-spans = soup.find('')
+# Date of scraping
+scripts = soup.find_all('script')
+page_date = re.sub('\D', '', str(scripts[3]))
+page_date = page_date[:-8]
+page_date = datetime.strptime(page_date, "%Y%m%d").date()
+page_date
+
+# Date of performance
+perf_date = soup.find('p', class_ = 'performance-list-day-text')
+perf_date = re.sub('<[^>]+>', '', str(perf_date))
+perf_date = re.sub('\\n', '', str(perf_date))
+perf_date = str.strip(perf_date)
+perf_date = datetime.strptime(perf_date, "%a, %b %d").strftime("%m-%d")
 
 
-
-lines = [span.get_text() for span in spans]
-lines
-
+# Availability
+avail = soup.find('div', class_ = 'performance-list-performance-purchase force-show-btn')
+avail = re.sub('<[^>]+>', '', str(avail))
+avail = re.sub('\\n', '', str(avail))
+avail
 
 # At the end make sure to close
 HtmlFile.close
 
-# Slowly figure out how to identify price
-# Help from here: https://stackoverflow.com/questions/16248723/how-to-find-spans-with-a-specific-class-containing-specific-text-using-beautiful
-spans = soup.find_all('span', class_ = 'purchase-btn-price')
-lines = [span.get_text() for span in spans]
-# Check if this worked
-# lines[0]
-price = re.sub('\D', '', str(lines[1]))
-price
-
-# Date
-scripts = soup.find_all('script')
-page_date = re.sub('\D', '', str(scripts[3]))
-page_date
-
-# Opera
-opera = soup.find('title')
-opera = re.sub('\\n', '', opera.text)
-opera2 = re.sub('\\t', '', opera)
-opera2
+# Iterate!
+page_date = []
+perf_date = []
+avail = []
 
 
-
-file = open('index.html', 'r')
-
-for root, dirs, files in os.walk(/Users/katelyons/Downloads/rush):
+for root, dirs, files in os.walk("/Users/katelyons/Downloads/rush"):
     for name in files:
         if name.endswith((".html", ".htm")):
-            file = open("test.html", "r")
+            HtmlFile = open('index.html', 'r', encoding='utf-8')
+            source_code = HtmlFile.read()
+
+            soup = BeautifulSoup(source_code, 'html.parser')
+
+            # Figure out how to isolate aspects of page
+            # Date of scraping
+            scripts = soup.find_all('script')
+            page_date1 = re.sub('\D', '', str(scripts[3]))
+            page_date2 = page_date1[:-8]
+            page_date3 = datetime.strptime(page_date2, "%Y%m%d").date()
+            page_date.append(str(page_date3))
+
+            try: 
+                # Date of performance
+                perf_date1 = soup.find('p', class_ = 'performance-list-day-text')
+                perf_date2 = re.sub('<[^>]+>', '', str(perf_date1))
+                perf_date3 = re.sub('\\n', '', str(perf_date2))
+                perf_date4 = str.strip(perf_date3)
+                perf_date5 = datetime.strptime(perf_date4, "%a, %b %d").strftime("%m-%d")
+                perf_date.append(strperf_date5)
+            except:
+                perf_date1 = None
+
+            # Availability
+            avail1 = soup.find('div', class_ = 'performance-list-performance-purchase force-show-btn')
+            avail2 = re.sub('<[^>]+>', '', str(avail1))
+            avail3 = re.sub('\\n', '', str(avail2))
+            avail.append(avail3)
+            HtmlFile.close
+
+rush_data = pd.DataFrame({'page_date': page_date,
+                           'perf_date': perf_date,
+                           'avail': avail})
