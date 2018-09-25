@@ -8,6 +8,7 @@ from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
 import time
+import os
 
 
 # Collect page on one performance
