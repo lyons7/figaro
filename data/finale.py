@@ -1,5 +1,6 @@
 # Putting everything together
 
+# Concatenating all of our scraped Met Archive pages
 import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
@@ -105,3 +106,6 @@ sql_query = """SELECT * FROM met_archive WHERE artist ='Juan Diego Flórez';"""
 # Start with combining all Met Archive files
 play = pd.read_sql_query(sql_query,con)
 play
+
+# Get length info for each one.... would be the number of entries per name
+# Basically, create a new data frame with opera name and # of scenes -- the more scenes, the longer the opera!
