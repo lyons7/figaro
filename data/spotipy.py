@@ -56,9 +56,8 @@ con = None
 con = psycopg2.connect(database = dbname, user = username)
 
 # query:
-sql_query = """SELECT * FROM met_archive WHERE opera='Roméo et Juliette ';"""
+sql_query = """SELECT * FROM met_archive;"""
 met_data = pd.read_sql_query(sql_query,con)
-met_data
 
 # We have duplicates of artist's names in this dataset, let's slim it down!
 # All we need are artist scores, so just pull out those and get rid of duplicates
@@ -92,9 +91,9 @@ masterDF = pd.concat(dfs, ignore_index=True)
 masterDF
 # Save / update SQL database
 # Just keep stuff we are interested in
-met_data3 = masterDF.drop(['index'], axis=1)
+# met_data3 = masterDF.drop(['index'], axis=1)
 
-artist_data = met_data3
+artist_data = masterDF
 
 # Save in database
 artist_data.to_sql('artist_data', engine, if_exists='replace')
