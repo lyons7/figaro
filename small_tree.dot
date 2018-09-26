@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="opera_Les Contes d'Hoffmann <= 0.5\nmse = 4295.1\nsamples = 890\nvalue = 122.5"] ;
+1 [label="opera_Die Fledermaus <= 0.5\nmse = 3684.4\nsamples = 869\nvalue = 118.6"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="composer_Verdi <= 0.5\nmse = 3146.9\nsamples = 856\nvalue = 115.8"] ;
+1 -> 2 ;
+3 [label="mse = 3045.9\nsamples = 648\nvalue = 123.5"] ;
+2 -> 3 ;
+4 [label="mse = 2661.4\nsamples = 208\nvalue = 90.9"] ;
+2 -> 4 ;
+5 [label="week <= 2.5\nmse = 888.0\nsamples = 13\nvalue = 319.2"] ;
+1 -> 5 ;
+6 [label="mse = 4489.0\nsamples = 2\nvalue = 262.0"] ;
+5 -> 6 ;
+7 [label="mse = 34.8\nsamples = 11\nvalue = 325.9"] ;
+5 -> 7 ;
+8 [label="week <= 25.5\nmse = 4245.3\nsamples = 21\nvalue = 274.9"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="week <= 8.5\nmse = 425.4\nsamples = 8\nvalue = 311.4"] ;
+8 -> 9 ;
+10 [label="mse = 0.0\nsamples = 4\nvalue = 329.0"] ;
+9 -> 10 ;
+11 [label="mse = 32.0\nsamples = 4\nvalue = 288.0"] ;
+9 -> 11 ;
+12 [label="day_of_week_Saturday <= 0.5\nmse = 5310.4\nsamples = 13\nvalue = 250.6"] ;
+8 -> 12 ;
+13 [label="mse = 575.8\nsamples = 9\nvalue = 227.8"] ;
+12 -> 13 ;
+14 [label="mse = 10801.2\nsamples = 4\nvalue = 287.5"] ;
+12 -> 14 ;
+}

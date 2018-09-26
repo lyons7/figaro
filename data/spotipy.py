@@ -43,8 +43,8 @@ artist
 # Now do this ... iteratively
 # Get popularity and artist ids from a data frame that has a column of singers
 # First have to access database where this information is stored
-dbname = 'figaro'
-username = 'katelyons'
+os.chdir("/Users/katelyons/Documents/Insight/figaro/data")
+from sql import dbname, username
 
 ## 'engine' is a connection to a database
 ## Here, we're using postgres, but sqlalchemy can connect to other things too.
@@ -98,4 +98,6 @@ artist_data = masterDF
 # Save in database
 artist_data.to_sql('artist_data', engine, if_exists='replace')
 
+# Close connection
+con.close()
 # Next --> get song attributes / most popular tracks in an opera!

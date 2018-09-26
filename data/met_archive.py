@@ -78,3 +78,90 @@ df['date'] = date
 print(df)
 
 # Ok, now we have a series of commands we can use on each url to get the information that we want... how do we do it iteratively?
+# Iterate through URLs
+pages = []
+dfs = []
+headers = {
+    'User-Agent': 'Kate Lyons, https://lyons7.github.io/',
+    'From': 'k.lyons7@gmail.com'
+}
+
+# Eventually
+# for i in range(130000, 356995):
+# YOU JUST DID THESE NUMBERS just update them
+# Had to do 500 at a time so that it wouldn't kick me out :O
+for i in range(351795, 352295):
+    url = 'http://69.18.170.204/archives/scripts/cgiip.exe/WService=BibSpeed/fullcit.w?xCID=' + str(i) + '&limit=5000&xBranch=ALL&xsdate=08/01/1940&xedate=09/01/2018&theterm=&x=0&xhomepath=&xhome='
+    pages.append(url)
+    t0 = time.time()
+
+for item in pages:
+    page = requests.get(item, headers = headers)
+    soup = BeautifulSoup(page.text, 'html.parser')
+
+    # Identify opera
+    tag = soup.find("cite")
+    opera = str(tag)
+    try:
+        opera2 = re.sub('<.*?>', '', opera)
+        opera3 = re.sub('{.*?}','', opera2)
+        opera4 = re.sub('\[.*?\]','', opera3)
+    except:
+        opera = None
+
+    # Turn into list for easier processing
+    test = soup.get_text('<br/>', strip=False)
+    test = "\n".join(test.split("<br/>"))
+
+    # Get dates
+    # Have to do it this way in case you don't find a date for an entry
+    try:
+        match = re.search(r'\d{2}/\d{1,2}/\d{4}', test)
+        date = datetime.strptime(match.group(), '%m/%d/%Y').date()
+    except:
+        match = None
+
+    # Make list
+    def Convert(string):
+        li = list(string.split("\n"))
+        return li
+    test2 = Convert(test)
+
+    # roles
+    roles = [k for k in test2 if '...' in k and 'Director' not in k and 'Conductor' not in k and 'Set designer' not in k and 'Costume designer' not in k and 'Dance' not in k and 'Choreographer' not in k and 'Production' not in k and 'Lighting designer' not in k and 'Choreography' not in k and 'Designer' not in k and 'Projection Designer' not in k and 'Associate Designer' not in k and 'Dramaturg' not in k and 'Harpsichord' not in k]
+    roles2 = [i.split('..', 1)[0] for i in roles]
+
+    # artists
+    performers = [k for k in test2 if '...' in k and 'Director' not in k and 'Conductor' not in k and 'Set designer' not in k and 'Costume designer' not in k and 'Dance' not in k and 'Choreographer' not in k and 'Production' not in k and 'Lighting designer' not in k and 'Choreography' not in k and 'Designer' not in k and 'Projection Designer' not in k and 'Associate Designer' not in k and 'Dramaturg' not in k and 'Harpsichord' not in k]
+    performers2 = [i.split('..', 1)[1] for i in performers]
+    performers3 = [re.sub(r'\.', '', i) for i in performers2]
+    performers4 = [re.sub(r' \[Debut\]', '', i) for i in performers3]
+    performers5 = [re.sub(r' \[First appearance\]', '', i) for i in performers4]
+    performers6 = [re.sub(r' \[Last performance\]', '', i) for i in performers5]
+    performers7 = [re.sub(r' \[Last appearance\]', '', i) for i in performers6]
+
+
+    # Performance id
+    CID = [k for k in test2 if 'CID' in k]
+    CID2 = [re.sub(r'CID:', '', i) for i in CID]
+    # CID3 = [re.sub(r'\[Met Performance\] ', '', i) for i in CID2]
+    # CID4 = [re.sub(r'\[Met Concert/Gala\] ', '', i) for i in CID3]
+    # CID5 = [re.sub(r'\[Met Presentation\] ', '', i) for i in CID4]
+    CID6 = str(CID2)
+
+
+    # Put these in a temporary dataframe
+    tempdf = pd.DataFrame({'role':roles2})
+    tempdf['artist'] = performers5
+    tempdf['opera'] = opera4
+    tempdf['date'] = date
+    tempdf['CID'] = CID6
+
+    dfs.append(tempdf)
+    # time.sleep(5)
+    # response_delay = time.time() - t0
+    # time.sleep(10*response_delay)  # wait 10x longer than it took them to respond
+
+# Create a master data frame when we are all finished!
+masterDF = pd.concat(dfs, ignore_index=True)
+masterDF

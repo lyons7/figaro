@@ -9,8 +9,8 @@ import datetime
 
 # Define a database name
 # Set your postgres username
-dbname = 'figaro'
-username = 'katelyons' # change this to your username
+os.chdir("/Users/katelyons/Documents/Insight/figaro/data")
+from sql import dbname, username
 
 ## 'engine' is a connection to a database
 ## Here, we're using postgres, but sqlalchemy can connect to other things too.

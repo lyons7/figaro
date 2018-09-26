@@ -1,0 +1,1864 @@
+,date,opera,language,composer,artist_popularity
+0,2007-09-24,Lucia di Lammermoor,Italian,Donizetti,85
+1,2007-09-27,Lucia di Lammermoor,Italian,Donizetti,79
+2,2007-09-29,Aida,Italian,Verdi,132
+3,2007-10-01,Lucia di Lammermoor,Italian,Donizetti,79
+4,2007-10-02,Le Nozze di Figaro,Italian,Mozart,209
+5,2007-10-04,Aida,Italian,Verdi,120
+6,2007-10-05,Lucia di Lammermoor,Italian,Donizetti,74
+7,2007-10-06,Le Nozze di Figaro,Italian,Mozart,105
+8,2007-10-09,Lucia di Lammermoor,Italian,Donizetti,79
+9,2007-10-10,Le Nozze di Figaro,Italian,Mozart,71
+10,2007-10-13,Le Nozze di Figaro,Italian,Mozart,105
+11,2007-10-13,Lucia di Lammermoor,Italian,Donizetti,79
+12,2007-10-16,Aida,Italian,Verdi,139
+13,2007-10-17,Lucia di Lammermoor,Italian,Donizetti,58
+14,2007-10-18,Le Nozze di Figaro,Italian,Mozart,105
+15,2007-10-20,Aida,Italian,Verdi,67
+16,2007-10-20,Lucia di Lammermoor,Italian,Donizetti,58
+17,2007-10-22,Macbeth,Italian,Verdi,77
+18,2007-10-24,Aida,Italian,Verdi,75
+19,2007-10-25,Lucia di Lammermoor,Italian,Donizetti,61
+20,2007-10-26,Macbeth,Italian,Verdi,77
+21,2007-10-27,Aida,Italian,Verdi,93
+22,2007-10-29,Die Zauberflöte,German,Mozart,262
+23,2007-10-30,Aida,Italian,Verdi,75
+24,2007-10-31,Macbeth,Italian,Verdi,77
+25,2007-11-01,Die Zauberflöte,German,Mozart,238
+26,2007-11-02,Aida,Italian,Verdi,77
+27,2007-11-03,La Traviata,Italian,Verdi,116
+28,2007-11-03,Macbeth,Italian,Verdi,77
+29,2007-11-05,Aida,Italian,Verdi,81
+30,2007-11-06,Die Zauberflöte,German,Mozart,238
+31,2007-11-07,La Traviata,Italian,Verdi,116
+32,2007-11-08,Aida,Italian,Verdi,81
+33,2007-11-09,Die Zauberflöte,German,Mozart,238
+34,2007-11-10,La Traviata,Italian,Verdi,116
+35,2007-11-10,Le Nozze di Figaro,Italian,Mozart,147
+36,2007-11-12,Norma,Italian,Bellini,74
+37,2007-11-13,Die Zauberflöte,German,Mozart,242
+38,2007-11-14,Le Nozze di Figaro,Italian,Mozart,147
+39,2007-11-15,La Traviata,Italian,Verdi,116
+40,2007-11-16,Norma,Italian,Bellini,74
+41,2007-11-17,Die Zauberflöte,German,Mozart,242
+42,2007-11-17,Le Nozze di Figaro,Italian,Mozart,147
+43,2007-11-19,Norma,Italian,Bellini,74
+44,2007-11-20,Die Zauberflöte,German,Mozart,222
+45,2007-11-21,Le Nozze di Figaro,Italian,Mozart,147
+46,2007-11-23,Norma,Italian,Bellini,74
+47,2007-11-24,Die Zauberflöte,German,Mozart,161
+48,2007-11-24,Le Nozze di Figaro,Italian,Mozart,147
+49,2007-11-26,Norma,Italian,Bellini,83
+50,2007-11-27,Iphigénie en Tauride,French,Gluck,179
+51,2007-11-28,Le Nozze di Figaro,Italian,Mozart,147
+52,2007-11-30,Norma,Italian,Bellini,55
+53,2007-12-01,Iphigénie en Tauride,French,Gluck,144
+54,2007-12-01,Le Nozze di Figaro,Italian,Mozart,147
+55,2007-12-04,Norma,Italian,Bellini,83
+56,2007-12-05,Iphigénie en Tauride,French,Gluck,144
+57,2007-12-07,Norma,Italian,Bellini,83
+58,2007-12-08,Iphigénie en Tauride,French,Gluck,158
+59,2007-12-11,Iphigénie en Tauride,French,Gluck,144
+60,2007-12-14,Iphigénie en Tauride,French,Gluck,144
+61,2007-12-19,Iphigénie en Tauride,French,Gluck,144
+62,2007-12-22,Iphigénie en Tauride,French,Gluck,144
+63,2007-12-24,Hänsel und Gretel,German,Humperdinck,156
+64,2007-12-29,Hänsel und Gretel,German,Humperdinck,156
+65,2008-01-01,Hänsel und Gretel,German,Humperdinck,156
+66,2008-01-04,Hänsel und Gretel,German,Humperdinck,156
+67,2008-01-05,Macbeth,Italian,Verdi,77
+68,2008-01-07,Die Walküre,German,Wagner,137
+69,2008-01-08,Hänsel und Gretel,German,Humperdinck,134
+70,2008-01-09,Macbeth,Italian,Verdi,77
+71,2008-01-11,Hänsel und Gretel,German,Humperdinck,156
+72,2008-01-12,Il Barbiere di Siviglia,Italian,Rossini,143
+73,2008-01-12,Macbeth,Italian,Verdi,77
+74,2008-01-14,Die Walküre,German,Wagner,135
+75,2008-01-15,Macbeth,Italian,Verdi,51
+76,2008-01-22,Il Barbiere di Siviglia,Italian,Rossini,26
+77,2008-01-23,Hänsel und Gretel,German,Humperdinck,156
+78,2008-01-26,Hänsel und Gretel,German,Humperdinck,156
+79,2008-01-26,Il Barbiere di Siviglia,Italian,Rossini,26
+80,2008-01-28,Die Walküre,German,Wagner,121
+81,2008-01-29,Manon Lescaut,French,Auber,182
+82,2008-01-29,Manon Lescaut,Italian,Puccini,182
+83,2008-01-30,Il Barbiere di Siviglia,Italian,Rossini,3
+84,2008-01-31,Hänsel und Gretel,German,Humperdinck,154
+85,2008-02-01,Manon Lescaut,French,Auber,156
+86,2008-02-01,Manon Lescaut,Italian,Puccini,156
+87,2008-02-02,Die Walküre,German,Wagner,121
+88,2008-02-02,Il Barbiere di Siviglia,Italian,Rossini,26
+89,2008-02-04,Carmen,French,Bizet,73
+90,2008-02-05,Manon Lescaut,French,Auber,156
+91,2008-02-05,Manon Lescaut,Italian,Puccini,156
+92,2008-02-06,Die Walküre,German,Wagner,121
+93,2008-02-07,Il Barbiere di Siviglia,Italian,Rossini,74
+94,2008-02-08,Carmen,French,Bizet,73
+95,2008-02-09,Die Walküre,German,Wagner,135
+96,2008-02-09,Manon Lescaut,French,Auber,140
+97,2008-02-09,Manon Lescaut,Italian,Puccini,140
+98,2008-02-11,Otello,Italian,Rossini,120
+99,2008-02-11,Otello,Italian,Verdi,120
+100,2008-02-12,Manon Lescaut,French,Auber,166
+101,2008-02-12,Manon Lescaut,Italian,Puccini,166
+102,2008-02-13,Carmen,French,Bizet,60
+103,2008-02-14,Il Barbiere di Siviglia,Italian,Rossini,177
+104,2008-02-15,Otello,Italian,Rossini,120
+105,2008-02-15,Otello,Italian,Verdi,120
+106,2008-02-16,Carmen,French,Bizet,60
+107,2008-02-16,Manon Lescaut,French,Auber,166
+108,2008-02-16,Manon Lescaut,Italian,Puccini,166
+109,2008-02-18,Otello,Italian,Rossini,120
+110,2008-02-18,Otello,Italian,Verdi,120
+111,2008-02-19,Carmen,French,Bizet,74
+112,2008-02-20,Manon Lescaut,French,Auber,166
+113,2008-02-20,Manon Lescaut,Italian,Puccini,166
+114,2008-02-21,Il Barbiere di Siviglia,Italian,Rossini,177
+115,2008-02-22,Otello,Italian,Rossini,120
+116,2008-02-22,Otello,Italian,Verdi,120
+117,2008-02-23,Carmen,French,Bizet,74
+118,2008-02-23,Manon Lescaut,French,Auber,137
+119,2008-02-23,Manon Lescaut,Italian,Puccini,137
+120,2008-02-25,Il Barbiere di Siviglia,Italian,Rossini,177
+121,2008-02-26,Otello,Italian,Rossini,120
+122,2008-02-26,Otello,Italian,Verdi,120
+123,2008-02-27,Carmen,French,Bizet,61
+124,2008-02-28,Peter Grimes,English,Britten,96
+125,2008-02-29,Il Barbiere di Siviglia,Italian,Rossini,177
+126,2008-03-01,Carmen,French,Bizet,77
+127,2008-03-01,Otello,Italian,Rossini,120
+128,2008-03-01,Otello,Italian,Verdi,120
+129,2008-03-03,Peter Grimes,English,Britten,46
+130,2008-03-04,Otello,Italian,Rossini,120
+131,2008-03-04,Otello,Italian,Verdi,120
+132,2008-03-05,Lucia di Lammermoor,Italian,Donizetti,81
+133,2008-03-06,La Traviata,Italian,Verdi,47
+134,2008-03-07,Peter Grimes,English,Britten,46
+135,2008-03-08,Lucia di Lammermoor,Italian,Donizetti,81
+136,2008-03-08,Otello,Italian,Rossini,120
+137,2008-03-08,Otello,Italian,Verdi,120
+138,2008-03-10,Tristan und Isolde,German,Wagner,72
+139,2008-03-11,Peter Grimes,English,Britten,46
+140,2008-03-12,La Traviata,Italian,Verdi,94
+141,2008-03-13,Lucia di Lammermoor,Italian,Donizetti,81
+142,2008-03-14,Tristan und Isolde,German,Wagner,68
+143,2008-03-15,La Traviata,Italian,Verdi,91
+144,2008-03-15,Peter Grimes,English,Britten,46
+145,2008-03-17,Ernani,Italian,Verdi,111
+146,2008-03-18,Tristan und Isolde,German,Wagner,79
+147,2008-03-19,La Traviata,Italian,Verdi,69
+148,2008-03-20,Peter Grimes,English,Britten,96
+149,2008-03-21,Ernani,Italian,Verdi,82
+150,2008-03-22,La Traviata,Italian,Verdi,69
+151,2008-03-22,Tristan und Isolde,German,Wagner,90
+152,2008-03-24,Peter Grimes,English,Britten,46
+153,2008-03-25,Tristan und Isolde,German,Wagner,77
+154,2008-03-26,Ernani,Italian,Verdi,111
+155,2008-03-28,Tristan und Isolde,German,Wagner,86
+156,2008-03-29,Ernani,Italian,Verdi,111
+157,2008-03-29,La Bohème,Italian,Puccini,202
+158,2008-04-01,La Bohème,Italian,Puccini,192
+159,2008-04-02,Ernani,Italian,Verdi,85
+160,2008-04-05,Ernani,Italian,Verdi,84
+161,2008-04-05,La Bohème,Italian,Puccini,192
+162,2008-04-09,La Bohème,Italian,Puccini,192
+163,2008-04-10,Ernani,Italian,Verdi,85
+164,2008-04-12,La Bohème,Italian,Puccini,192
+165,2008-04-15,La Bohème,Italian,Puccini,161
+166,2008-04-18,La Bohème,Italian,Puccini,161
+167,2008-04-26,Die Entführung aus dem Serail,German,Mozart,157
+168,2008-04-30,Die Entführung aus dem Serail,German,Mozart,117
+169,2008-05-03,Die Entführung aus dem Serail,German,Mozart,117
+170,2008-05-03,La Clemenza di Tito,Italian,Mozart,57
+171,2008-05-06,La Clemenza di Tito,Italian,Mozart,57
+172,2008-05-07,Die Entführung aus dem Serail,German,Mozart,117
+173,2008-05-09,Macbeth,Italian,Verdi,92
+174,2008-05-10,La Clemenza di Tito,Italian,Mozart,57
+175,2008-05-13,Macbeth,Italian,Verdi,92
+176,2008-05-15,La Clemenza di Tito,Italian,Mozart,57
+177,2008-05-17,Macbeth,Italian,Verdi,92
+178,2008-09-23,Salome,German,Strauss,99
+179,2008-09-24,La Gioconda,Italian,Ponchielli,78
+180,2008-09-26,Salome,German,Strauss,97
+181,2008-09-27,Don Giovanni,Italian,Mozart,174
+182,2008-09-27,La Gioconda,Italian,Ponchielli,59
+183,2008-09-30,Salome,German,Strauss,97
+184,2008-10-01,Don Giovanni,Italian,Mozart,166
+185,2008-10-02,La Gioconda,Italian,Ponchielli,74
+186,2008-10-03,Lucia di Lammermoor,Italian,Donizetti,141
+187,2008-10-04,Don Giovanni,Italian,Mozart,166
+188,2008-10-04,Salome,German,Strauss,97
+189,2008-10-06,La Gioconda,Italian,Ponchielli,74
+190,2008-10-07,Salome,German,Strauss,97
+191,2008-10-08,Lucia di Lammermoor,Italian,Donizetti,125
+192,2008-10-09,La Gioconda,Italian,Ponchielli,74
+193,2008-10-10,Don Giovanni,Italian,Mozart,120
+194,2008-10-11,Lucia di Lammermoor,Italian,Donizetti,125
+195,2008-10-11,Salome,German,Strauss,97
+196,2008-10-14,Don Giovanni,Italian,Mozart,101
+197,2008-10-15,Lucia di Lammermoor,Italian,Donizetti,125
+198,2008-10-16,Salome,German,Strauss,97
+199,2008-10-18,Lucia di Lammermoor,Italian,Donizetti,125
+200,2008-10-20,La Traviata,Italian,Verdi,71
+201,2008-10-22,Lucia di Lammermoor,Italian,Donizetti,125
+202,2008-10-23,La Traviata,Italian,Verdi,71
+203,2008-10-25,Lucia di Lammermoor,Italian,Donizetti,125
+204,2008-10-27,La Traviata,Italian,Verdi,71
+205,2008-10-31,La Traviata,Italian,Verdi,71
+206,2008-11-03,La Traviata,Italian,Verdi,71
+207,2008-11-06,La Traviata,Italian,Verdi,71
+208,2008-11-07,La Damnation de Faust,French,Berlioz,51
+209,2008-11-10,La Damnation de Faust,French,Berlioz,51
+210,2008-11-12,La Traviata,Italian,Verdi,71
+211,2008-11-14,La Damnation de Faust,French,Berlioz,51
+212,2008-11-15,La Traviata,Italian,Verdi,71
+213,2008-11-18,La Damnation de Faust,French,Berlioz,51
+214,2008-11-20,La Traviata,Italian,Verdi,71
+215,2008-11-21,The Queen of Spades,Russian,Tchaikovsky,153
+216,2008-11-22,La Damnation de Faust,French,Berlioz,51
+217,2008-11-24,The Queen of Spades,Russian,Tchaikovsky,153
+218,2008-11-25,La Damnation de Faust,French,Berlioz,51
+219,2008-11-28,Tristan und Isolde,German,Wagner,111
+220,2008-11-29,La Damnation de Faust,French,Berlioz,51
+221,2008-11-29,The Queen of Spades,Russian,Tchaikovsky,153
+222,2008-12-01,Don Giovanni,Italian,Mozart,163
+223,2008-12-02,Tristan und Isolde,German,Wagner,72
+224,2008-12-03,The Queen of Spades,Russian,Tchaikovsky,153
+225,2008-12-04,La Damnation de Faust,French,Berlioz,51
+226,2008-12-05,Don Giovanni,Italian,Mozart,185
+227,2008-12-06,The Queen of Spades,Russian,Tchaikovsky,153
+228,2008-12-06,Tristan und Isolde,German,Wagner,75
+229,2008-12-09,Don Giovanni,Italian,Mozart,185
+230,2008-12-10,The Queen of Spades,Russian,Tchaikovsky,153
+231,2008-12-12,Tristan und Isolde,German,Wagner,94
+232,2008-12-13,Don Giovanni,Italian,Mozart,185
+233,2008-12-13,The Queen of Spades,Russian,Tchaikovsky,153
+234,2008-12-15,La Bohème,Italian,Puccini,186
+235,2008-12-16,Tristan und Isolde,German,Wagner,71
+236,2008-12-18,La Bohème,Italian,Puccini,136
+237,2008-12-19,Don Giovanni,Italian,Mozart,185
+238,2008-12-20,Tristan und Isolde,German,Wagner,96
+239,2008-12-22,Die Zauberflöte,German,Mozart,135
+240,2008-12-22,La Bohème,Italian,Puccini,136
+241,2008-12-26,La Bohème,Italian,Puccini,136
+242,2008-12-27,Die Zauberflöte,German,Mozart,81
+243,2008-12-29,La Bohème,Italian,Puccini,136
+244,2008-12-30,Die Zauberflöte,German,Mozart,91
+245,2008-12-31,Die Zauberflöte,German,Mozart,81
+246,2008-12-31,La Rondine,Italian,Puccini,179
+247,2009-01-01,Die Zauberflöte,German,Mozart,81
+248,2009-01-03,La Bohème,Italian,Puccini,136
+249,2009-01-03,La Rondine,Italian,Puccini,116
+250,2009-01-06,La Bohème,Italian,Puccini,105
+251,2009-01-07,La Rondine,Italian,Puccini,153
+252,2009-01-09,Orfeo ed Euridice,Italian,Gluck,50
+253,2009-01-10,La Bohème,Italian,Puccini,105
+254,2009-01-10,La Rondine,Italian,Puccini,152
+255,2009-01-13,La Rondine,Italian,Puccini,74
+256,2009-01-14,Orfeo ed Euridice,Italian,Gluck,30
+257,2009-01-17,Orfeo ed Euridice,Italian,Gluck,50
+258,2009-01-20,Orfeo ed Euridice,Italian,Gluck,50
+259,2009-01-24,Orfeo ed Euridice,Italian,Gluck,50
+260,2009-01-24,Rigoletto,Italian,Verdi,77
+261,2009-01-26,Lucia di Lammermoor,Italian,Donizetti,127
+262,2009-01-27,Rigoletto,Italian,Verdi,52
+263,2009-01-28,Orfeo ed Euridice,Italian,Gluck,65
+264,2009-01-29,Lucia di Lammermoor,Italian,Donizetti,121
+265,2009-01-30,Eugene Onegin,Russian,Tchaikovsky,143
+266,2009-01-31,Orfeo ed Euridice,Italian,Gluck,65
+267,2009-01-31,Rigoletto,Italian,Verdi,52
+268,2009-02-02,Eugene Onegin,Russian,Tchaikovsky,141
+269,2009-02-03,Lucia di Lammermoor,Italian,Donizetti,84
+270,2009-02-04,Rigoletto,Italian,Verdi,52
+271,2009-02-05,Eugene Onegin,Russian,Tchaikovsky,135
+272,2009-02-06,Adriana Lecouvreur,Italian,Cilea,127
+273,2009-02-07,Lucia di Lammermoor,Italian,Donizetti,100
+274,2009-02-07,Rigoletto,Italian,Verdi,52
+275,2009-02-09,Eugene Onegin,Russian,Tchaikovsky,195
+276,2009-02-10,Adriana Lecouvreur,Italian,Cilea,127
+277,2009-02-11,La Rondine,Italian,Puccini,120
+278,2009-02-12,Rigoletto,Italian,Verdi,68
+279,2009-02-13,Adriana Lecouvreur,Italian,Cilea,127
+280,2009-02-14,Eugene Onegin,Russian,Tchaikovsky,201
+281,2009-02-14,La Rondine,Italian,Puccini,120
+282,2009-02-16,Il Trovatore,Italian,Verdi,107
+283,2009-02-17,Adriana Lecouvreur,Italian,Cilea,74
+284,2009-02-18,Eugene Onegin,Russian,Tchaikovsky,201
+285,2009-02-19,La Rondine,Italian,Puccini,120
+286,2009-02-20,Il Trovatore,Italian,Verdi,107
+287,2009-02-21,Adriana Lecouvreur,Italian,Cilea,127
+288,2009-02-21,Eugene Onegin,Russian,Tchaikovsky,201
+289,2009-02-23,La Rondine,Italian,Puccini,79
+290,2009-02-24,Il Trovatore,Italian,Verdi,107
+291,2009-02-25,Adriana Lecouvreur,Italian,Cilea,127
+292,2009-02-26,La Rondine,Italian,Puccini,120
+293,2009-02-28,Adriana Lecouvreur,Italian,Cilea,127
+294,2009-02-28,Il Trovatore,Italian,Verdi,107
+295,2009-03-02,La Sonnambula,Italian,Bellini,142
+296,2009-03-04,Il Trovatore,Italian,Verdi,107
+297,2009-03-06,La Sonnambula,Italian,Bellini,142
+298,2009-03-07,Il Trovatore,Italian,Verdi,75
+299,2009-03-09,Rusalka,Czech,Dvorak,107
+300,2009-03-10,Il Trovatore,Italian,Verdi,107
+301,2009-03-11,La Sonnambula,Italian,Bellini,142
+302,2009-03-12,Rusalka,Czech,Dvorak,105
+303,2009-03-13,Il Trovatore,Italian,Verdi,107
+304,2009-03-14,La Sonnambula,Italian,Bellini,142
+305,2009-03-14,Rusalka,Czech,Dvorak,105
+306,2009-03-16,Il Trovatore,Italian,Verdi,103
+307,2009-03-17,Rusalka,Czech,Dvorak,105
+308,2009-03-18,La Sonnambula,Italian,Bellini,142
+309,2009-03-20,Il Trovatore,Italian,Verdi,131
+310,2009-03-21,La Sonnambula,Italian,Bellini,142
+311,2009-03-21,Rusalka,Czech,Dvorak,105
+312,2009-03-24,La Sonnambula,Italian,Bellini,142
+313,2009-03-25,Das Rheingold,German,Wagner,212
+314,2009-03-28,La Sonnambula,Italian,Bellini,142
+315,2009-04-01,Rigoletto,Italian,Verdi,164
+316,2009-04-03,La Sonnambula,Italian,Bellini,172
+317,2009-04-04,Rigoletto,Italian,Verdi,164
+318,2009-04-06,Die Walküre,German,Wagner,194
+319,2009-04-09,Rigoletto,Italian,Verdi,148
+320,2009-04-13,Don Giovanni,Italian,Mozart,253
+321,2009-04-14,Rigoletto,Italian,Verdi,148
+322,2009-04-16,Don Giovanni,Italian,Mozart,165
+323,2009-04-17,Rigoletto,Italian,Verdi,121
+324,2009-04-20,Don Giovanni,Italian,Mozart,173
+325,2009-04-23,Das Rheingold,German,Wagner,232
+326,2009-04-24,Don Giovanni,Italian,Mozart,227
+327,2009-04-24,Il Trovatore,Italian,Verdi,46
+328,2009-04-29,Il Trovatore,Italian,Verdi,46
+329,2009-05-01,La Cenerentola,Italian,Rossini,71
+330,2009-05-02,Il Trovatore,Italian,Verdi,46
+331,2009-05-06,La Cenerentola,Italian,Rossini,188
+332,2009-05-08,Il Trovatore,Italian,Verdi,14
+333,2009-05-09,La Cenerentola,Italian,Rossini,196
+334,2009-09-21,Tosca,Italian,Puccini,109
+335,2009-09-22,Le Nozze di Figaro,Italian,Mozart,161
+336,2009-09-23,Die Zauberflöte,German,Mozart,187
+337,2009-09-24,Tosca,Italian,Puccini,109
+338,2009-09-26,Die Zauberflöte,German,Mozart,129
+339,2009-09-26,Le Nozze di Figaro,Italian,Mozart,169
+340,2009-09-28,Tosca,Italian,Puccini,124
+341,2009-09-30,Die Zauberflöte,German,Mozart,129
+342,2009-10-01,Le Nozze di Figaro,Italian,Mozart,169
+343,2009-10-02,Aida,Italian,Verdi,109
+344,2009-10-03,Il Barbiere di Siviglia,Italian,Rossini,137
+345,2009-10-03,Tosca,Italian,Puccini,109
+346,2009-10-05,Le Nozze di Figaro,Italian,Mozart,141
+347,2009-10-06,Tosca,Italian,Puccini,109
+348,2009-10-07,Aida,Italian,Verdi,109
+349,2009-10-08,Il Barbiere di Siviglia,Italian,Rossini,137
+350,2009-10-09,Le Nozze di Figaro,Italian,Mozart,169
+351,2009-10-10,Il Barbiere di Siviglia,Italian,Rossini,137
+352,2009-10-10,Tosca,Italian,Puccini,109
+353,2009-10-12,Aida,Italian,Verdi,109
+354,2009-10-13,Der Rosenkavalier,German,Strauss,207
+355,2009-10-14,Tosca,Italian,Puccini,80
+356,2009-10-15,Il Barbiere di Siviglia,Italian,Rossini,137
+357,2009-10-16,Der Rosenkavalier,German,Strauss,145
+358,2009-10-17,Aida,Italian,Verdi,109
+359,2009-10-17,Tosca,Italian,Puccini,109
+360,2009-10-19,Der Rosenkavalier,German,Strauss,181
+361,2009-10-21,Aida,Italian,Verdi,101
+362,2009-10-22,Der Rosenkavalier,German,Strauss,140
+363,2009-10-23,La Damnation de Faust,French,Berlioz,75
+364,2009-10-24,Aida,Italian,Verdi,109
+365,2009-10-24,Il Barbiere di Siviglia,Italian,Rossini,137
+366,2009-10-26,La Damnation de Faust,French,Berlioz,75
+367,2009-10-27,Il Barbiere di Siviglia,Italian,Rossini,137
+368,2009-10-28,Turandot,Italian,Puccini,95
+369,2009-10-29,Aida,Italian,Verdi,108
+370,2009-10-30,La Damnation de Faust,French,Berlioz,75
+371,2009-10-31,Il Barbiere di Siviglia,Italian,Rossini,143
+372,2009-10-31,Turandot,Italian,Puccini,93
+373,2009-11-02,Aida,Italian,Verdi,102
+374,2009-11-03,Turandot,Italian,Puccini,93
+375,2009-11-04,Il Barbiere di Siviglia,Italian,Rossini,143
+376,2009-11-05,La Damnation de Faust,French,Berlioz,75
+377,2009-11-06,Aida,Italian,Verdi,102
+378,2009-11-07,Il Barbiere di Siviglia,Italian,Rossini,143
+379,2009-11-07,Turandot,Italian,Puccini,93
+380,2009-11-09,La Damnation de Faust,French,Berlioz,75
+381,2009-11-10,Turandot,Italian,Puccini,95
+382,2009-11-14,La Damnation de Faust,French,Berlioz,75
+383,2009-11-14,Turandot,Italian,Puccini,95
+384,2009-11-17,La Damnation de Faust,French,Berlioz,75
+385,2009-11-18,Turandot,Italian,Puccini,94
+386,2009-11-21,Turandot,Italian,Puccini,94
+387,2009-11-23,Le Nozze di Figaro,Italian,Mozart,185
+388,2009-11-27,Le Nozze di Figaro,Italian,Mozart,185
+389,2009-11-30,Le Nozze di Figaro,Italian,Mozart,185
+390,2009-12-03,Les Contes d'Hoffmann,French,Offenbach,246
+391,2009-12-04,Le Nozze di Figaro,Italian,Mozart,145
+392,2009-12-07,Les Contes d'Hoffmann,French,Offenbach,246
+393,2009-12-08,Le Nozze di Figaro,Italian,Mozart,194
+394,2009-12-10,Elektra,German,Strauss,125
+395,2009-12-11,Les Contes d'Hoffmann,French,Offenbach,246
+396,2009-12-12,Le Nozze di Figaro,Italian,Mozart,194
+397,2009-12-14,Hänsel und Gretel,German,Humperdinck,174
+398,2009-12-15,Elektra,German,Strauss,53
+399,2009-12-16,Les Contes d'Hoffmann,French,Offenbach,246
+400,2009-12-17,Hänsel und Gretel,German,Humperdinck,174
+401,2009-12-18,Elektra,German,Strauss,69
+402,2009-12-19,Hänsel und Gretel,German,Humperdinck,174
+403,2009-12-19,Les Contes d'Hoffmann,French,Offenbach,244
+404,2009-12-21,Hänsel und Gretel,German,Humperdinck,174
+405,2009-12-22,Elektra,German,Strauss,83
+406,2009-12-23,Les Contes d'Hoffmann,French,Offenbach,196
+407,2009-12-24,Hänsel und Gretel,German,Humperdinck,174
+408,2009-12-26,Elektra,German,Strauss,69
+409,2009-12-26,Les Contes d'Hoffmann,French,Offenbach,244
+410,2009-12-28,Hänsel und Gretel,German,Humperdinck,174
+411,2009-12-29,Elektra,German,Strauss,69
+412,2009-12-30,Hänsel und Gretel,German,Humperdinck,174
+413,2009-12-30,Les Contes d'Hoffmann,French,Offenbach,207
+414,2009-12-31,Carmen,French,Bizet,198
+415,2010-01-01,Der Rosenkavalier,German,Strauss,149
+416,2010-01-02,Hänsel und Gretel,German,Humperdinck,151
+417,2010-01-02,Les Contes d'Hoffmann,French,Offenbach,207
+418,2010-01-04,Turandot,Italian,Puccini,64
+419,2010-01-05,Carmen,French,Bizet,198
+420,2010-01-06,Der Rosenkavalier,German,Strauss,149
+421,2010-01-07,Turandot,Italian,Puccini,63
+422,2010-01-08,Carmen,French,Bizet,198
+423,2010-01-09,Der Rosenkavalier,German,Strauss,149
+424,2010-01-09,Turandot,Italian,Puccini,44
+425,2010-01-11,Stiffelio,Italian,Verdi,51
+426,2010-01-12,Carmen,French,Bizet,198
+427,2010-01-13,Turandot,Italian,Puccini,64
+428,2010-01-14,Stiffelio,Italian,Verdi,51
+429,2010-01-15,Der Rosenkavalier,German,Strauss,149
+430,2010-01-16,Carmen,French,Bizet,243
+431,2010-01-16,Turandot,Italian,Puccini,64
+432,2010-01-18,Simon Boccanegra,Italian,Verdi,164
+433,2010-01-19,Stiffelio,Italian,Verdi,41
+434,2010-01-20,Turandot,Italian,Puccini,64
+435,2010-01-21,Carmen,French,Bizet,198
+436,2010-01-22,Simon Boccanegra,Italian,Verdi,164
+437,2010-01-23,Stiffelio,Italian,Verdi,41
+438,2010-01-23,Turandot,Italian,Puccini,64
+439,2010-01-25,Simon Boccanegra,Italian,Verdi,164
+440,2010-01-26,Stiffelio,Italian,Verdi,41
+441,2010-01-27,Carmen,French,Bizet,52
+442,2010-01-28,Turandot,Italian,Puccini,28
+443,2010-01-29,Simon Boccanegra,Italian,Verdi,162
+444,2010-01-30,Carmen,French,Bizet,24
+445,2010-01-30,Stiffelio,Italian,Verdi,41
+446,2010-02-01,Carmen,French,Bizet,48
+447,2010-02-02,Simon Boccanegra,Italian,Verdi,162
+448,2010-02-04,Ariadne auf Naxos,German,Strauss,149
+449,2010-02-05,Carmen,French,Bizet,48
+450,2010-02-06,Simon Boccanegra,Italian,Verdi,162
+451,2010-02-08,Ariadne auf Naxos,German,Strauss,119
+452,2010-02-09,Carmen,French,Bizet,93
+453,2010-02-11,Ariadne auf Naxos,German,Strauss,101
+454,2010-02-13,Carmen,French,Bizet,93
+455,2010-02-15,Ariadne auf Naxos,German,Strauss,101
+456,2010-02-20,Ariadne auf Naxos,German,Strauss,101
+457,2010-02-20,La Bohème,Italian,Puccini,273
+458,2010-02-23,Attila,Italian,Verdi,126
+459,2010-02-24,La Bohème,Italian,Puccini,239
+460,2010-02-26,Il Barbiere di Siviglia,Italian,Rossini,164
+461,2010-02-27,Attila,Italian,Verdi,126
+462,2010-02-27,La Bohème,Italian,Puccini,239
+463,2010-03-01,Il Barbiere di Siviglia,Italian,Rossini,216
+464,2010-03-02,La Bohème,Italian,Puccini,239
+465,2010-03-03,Attila,Italian,Verdi,126
+466,2010-03-04,Il Barbiere di Siviglia,Italian,Rossini,164
+467,2010-03-06,Attila,Italian,Verdi,126
+468,2010-03-06,La Bohème,Italian,Puccini,273
+469,2010-03-09,Attila,Italian,Verdi,126
+470,2010-03-10,La Bohème,Italian,Puccini,189
+471,2010-03-12,Attila,Italian,Verdi,93
+472,2010-03-13,La Bohème,Italian,Puccini,169
+473,2010-03-15,Attila,Italian,Verdi,126
+474,2010-03-16,Hamlet,French,Thomas,224
+475,2010-03-17,La Bohème,Italian,Puccini,167
+476,2010-03-19,Attila,Italian,Verdi,93
+477,2010-03-20,Hamlet,French,Thomas,180
+478,2010-03-20,La Bohème,Italian,Puccini,161
+479,2010-03-22,Attila,Italian,Verdi,126
+480,2010-03-24,Hamlet,French,Thomas,180
+481,2010-03-26,Aida,Italian,Verdi,158
+482,2010-03-27,Attila,Italian,Verdi,126
+483,2010-03-27,Hamlet,French,Thomas,180
+484,2010-03-29,La Traviata,Italian,Verdi,130
+485,2010-03-30,Hamlet,French,Thomas,180
+486,2010-03-31,Aida,Italian,Verdi,126
+487,2010-04-01,Die Zauberflöte,German,Mozart,136
+488,2010-04-02,Hamlet,French,Thomas,180
+489,2010-04-03,Aida,Italian,Verdi,158
+490,2010-04-03,La Traviata,Italian,Verdi,130
+491,2010-04-05,Hamlet,French,Thomas,177
+492,2010-04-06,Die Zauberflöte,German,Mozart,80
+493,2010-04-07,La Traviata,Italian,Verdi,130
+494,2010-04-08,Die Zauberflöte,German,Mozart,80
+495,2010-04-09,Hamlet,French,Thomas,155
+496,2010-04-10,Die Zauberflöte,German,Mozart,80
+497,2010-04-10,La Traviata,Italian,Verdi,130
+498,2010-04-12,Armida,Italian,Haydn,173
+499,2010-04-12,Armida,Italian,Rossini,173
+500,2010-04-13,La Traviata,Italian,Verdi,123
+501,2010-04-14,Tosca,Italian,Puccini,132
+502,2010-04-15,Die Zauberflöte,German,Mozart,69
+503,2010-04-16,Armida,Italian,Haydn,173
+504,2010-04-16,Armida,Italian,Rossini,173
+505,2010-04-17,La Traviata,Italian,Verdi,130
+506,2010-04-17,Tosca,Italian,Puccini,132
+507,2010-04-19,Armida,Italian,Haydn,173
+508,2010-04-19,Armida,Italian,Rossini,173
+509,2010-04-20,Tosca,Italian,Puccini,116
+510,2010-04-21,La Traviata,Italian,Verdi,130
+511,2010-04-22,Armida,Italian,Haydn,173
+512,2010-04-22,Armida,Italian,Rossini,173
+513,2010-04-23,Der Fliegende Holländer,German,Wagner,80
+514,2010-04-24,La Traviata,Italian,Verdi,123
+515,2010-04-24,Tosca,Italian,Puccini,116
+516,2010-04-26,Der Fliegende Holländer,German,Wagner,40
+517,2010-04-27,Armida,Italian,Haydn,242
+518,2010-04-27,Armida,Italian,Rossini,242
+519,2010-04-28,Carmen,French,Bizet,78
+520,2010-04-29,Tosca,Italian,Puccini,101
+521,2010-04-30,Der Fliegende Holländer,German,Wagner,40
+522,2010-05-01,Armida,Italian,Haydn,173
+523,2010-05-01,Armida,Italian,Rossini,173
+524,2010-05-01,Carmen,French,Bizet,85
+525,2010-05-03,Der Fliegende Holländer,German,Wagner,30
+526,2010-05-04,Armida,Italian,Haydn,173
+527,2010-05-04,Armida,Italian,Rossini,173
+528,2010-05-05,Tosca,Italian,Puccini,67
+529,2010-05-06,Der Fliegende Holländer,German,Wagner,40
+530,2010-05-07,Armida,Italian,Haydn,173
+531,2010-05-07,Armida,Italian,Rossini,173
+532,2010-05-08,Tosca,Italian,Puccini,65
+533,2010-05-10,Der Fliegende Holländer,German,Wagner,40
+534,2010-05-11,Armida,Italian,Haydn,173
+535,2010-05-11,Armida,Italian,Rossini,173
+536,2010-05-13,Tosca,Italian,Puccini,65
+537,2010-05-14,Der Fliegende Holländer,German,Wagner,58
+538,2010-05-15,Armida,Italian,Haydn,173
+539,2010-05-15,Armida,Italian,Rossini,173
+540,2010-09-27,Das Rheingold,German,Wagner,220
+541,2010-09-28,Les Contes d'Hoffmann,French,Offenbach,209
+542,2010-09-29,Rigoletto,Italian,Verdi,118
+543,2010-09-30,Das Rheingold,German,Wagner,220
+544,2010-10-02,Les Contes d'Hoffmann,French,Offenbach,163
+545,2010-10-02,Rigoletto,Italian,Verdi,80
+546,2010-10-04,Das Rheingold,German,Wagner,220
+547,2010-10-05,Rigoletto,Italian,Verdi,26
+548,2010-10-06,Les Contes d'Hoffmann,French,Offenbach,162
+549,2010-10-08,Rigoletto,Italian,Verdi,80
+550,2010-10-09,Das Rheingold,German,Wagner,220
+551,2010-10-09,Les Contes d'Hoffmann,French,Offenbach,162
+552,2010-10-11,Boris Godunov,Russian,Mussorgsky,125
+553,2010-10-12,Les Contes d'Hoffmann,French,Offenbach,162
+554,2010-10-14,Rigoletto,Italian,Verdi,80
+555,2010-10-15,Boris Godunov,Russian,Mussorgsky,125
+556,2010-10-16,La Bohème,Italian,Puccini,210
+557,2010-10-16,Les Contes d'Hoffmann,French,Offenbach,162
+558,2010-10-18,Boris Godunov,Russian,Mussorgsky,125
+559,2010-10-19,Les Contes d'Hoffmann,French,Offenbach,162
+560,2010-10-20,La Bohème,Italian,Puccini,150
+561,2010-10-23,Boris Godunov,Russian,Mussorgsky,121
+562,2010-10-23,La Bohème,Italian,Puccini,150
+563,2010-10-25,Boris Godunov,Russian,Mussorgsky,125
+564,2010-10-26,Il Trovatore,Italian,Verdi,45
+565,2010-10-28,La Bohème,Italian,Puccini,150
+566,2010-10-29,Don Pasquale,Italian,Donizetti,74
+567,2010-10-30,Boris Godunov,Russian,Mussorgsky,128
+568,2010-10-30,Il Trovatore,Italian,Verdi,7
+569,2010-11-01,La Bohème,Italian,Puccini,150
+570,2010-11-02,Don Pasquale,Italian,Donizetti,74
+571,2010-11-03,Il Trovatore,Italian,Verdi,11
+572,2010-11-04,Carmen,French,Bizet,223
+573,2010-11-05,La Bohème,Italian,Puccini,150
+574,2010-11-06,Don Pasquale,Italian,Donizetti,74
+575,2010-11-06,Il Trovatore,Italian,Verdi,11
+576,2010-11-08,Carmen,French,Bizet,223
+577,2010-11-10,Don Pasquale,Italian,Donizetti,74
+578,2010-11-11,Il Trovatore,Italian,Verdi,7
+579,2010-11-12,Carmen,French,Bizet,223
+580,2010-11-13,Don Pasquale,Italian,Donizetti,74
+581,2010-11-15,Il Trovatore,Italian,Verdi,11
+582,2010-11-16,Carmen,French,Bizet,223
+583,2010-11-18,Don Pasquale,Italian,Donizetti,121
+584,2010-11-19,Il Trovatore,Italian,Verdi,11
+585,2010-11-20,Carmen,French,Bizet,223
+586,2010-11-24,Carmen,French,Bizet,223
+587,2010-11-27,Carmen,French,Bizet,223
+588,2010-11-30,Carmen,French,Bizet,223
+589,2010-12-01,La Bohème,Italian,Puccini,203
+590,2010-12-04,Carmen,French,Bizet,187
+591,2010-12-04,La Bohème,Italian,Puccini,177
+592,2010-12-08,La Bohème,Italian,Puccini,177
+593,2010-12-09,Carmen,French,Bizet,70
+594,2010-12-11,La Bohème,Italian,Puccini,177
+595,2010-12-21,Die Zauberflöte,German,Mozart,155
+596,2010-12-24,Die Zauberflöte,German,Mozart,155
+597,2010-12-28,Die Zauberflöte,German,Mozart,155
+598,2010-12-29,Die Zauberflöte,German,Mozart,62
+599,2010-12-30,Die Zauberflöte,German,Mozart,155
+600,2010-12-31,La Traviata,Italian,Verdi,67
+601,2011-01-01,Die Zauberflöte,German,Mozart,155
+602,2011-01-03,Die Zauberflöte,German,Mozart,144
+603,2011-01-04,La Traviata,Italian,Verdi,55
+604,2011-01-05,Carmen,French,Bizet,126
+605,2011-01-06,Die Zauberflöte,German,Mozart,134
+606,2011-01-07,La Traviata,Italian,Verdi,55
+607,2011-01-08,Carmen,French,Bizet,162
+608,2011-01-10,Tosca,Italian,Puccini,125
+609,2011-01-11,Rigoletto,Italian,Verdi,67
+610,2011-01-12,La Traviata,Italian,Verdi,55
+611,2011-01-13,Carmen,French,Bizet,162
+612,2011-01-14,Tosca,Italian,Puccini,87
+613,2011-01-15,La Traviata,Italian,Verdi,55
+614,2011-01-15,Rigoletto,Italian,Verdi,47
+615,2011-01-17,Tosca,Italian,Puccini,87
+616,2011-01-18,Rigoletto,Italian,Verdi,49
+617,2011-01-19,La Traviata,Italian,Verdi,55
+618,2011-01-20,Simon Boccanegra,Italian,Verdi,88
+619,2011-01-21,Tosca,Italian,Puccini,87
+620,2011-01-22,La Traviata,Italian,Verdi,55
+621,2011-01-22,Rigoletto,Italian,Verdi,49
+622,2011-01-24,Simon Boccanegra,Italian,Verdi,116
+623,2011-01-25,Tosca,Italian,Puccini,87
+624,2011-01-26,La Traviata,Italian,Verdi,55
+625,2011-01-27,Rigoletto,Italian,Verdi,33
+626,2011-01-28,Simon Boccanegra,Italian,Verdi,116
+627,2011-01-29,La Traviata,Italian,Verdi,55
+628,2011-01-29,Tosca,Italian,Puccini,87
+629,2011-01-31,La Bohème,Italian,Puccini,193
+630,2011-02-01,Simon Boccanegra,Italian,Verdi,116
+631,2011-02-02,Nixon in China,English,Adams,49
+632,2011-02-03,La Bohème,Italian,Puccini,193
+633,2011-02-04,Don Pasquale,Italian,Donizetti,121
+634,2011-02-05,Nixon in China,English,Adams,17
+635,2011-02-05,Simon Boccanegra,Italian,Verdi,116
+636,2011-02-07,La Bohème,Italian,Puccini,193
+637,2011-02-08,Don Pasquale,Italian,Donizetti,74
+638,2011-02-09,Nixon in China,English,Adams,17
+639,2011-02-10,La Bohème,Italian,Puccini,193
+640,2011-02-11,Don Pasquale,Italian,Donizetti,74
+641,2011-02-12,Iphigénie en Tauride,French,Gluck,128
+642,2011-02-12,Nixon in China,English,Adams,17
+643,2011-02-14,Don Pasquale,Italian,Donizetti,69
+644,2011-02-15,Nixon in China,English,Adams,17
+645,2011-02-16,Iphigénie en Tauride,French,Gluck,88
+646,2011-02-17,La Bohème,Italian,Puccini,205
+647,2011-02-18,Armida,Italian,Haydn,157
+648,2011-02-18,Armida,Italian,Rossini,157
+649,2011-02-19,Don Pasquale,Italian,Donizetti,27
+650,2011-02-19,Nixon in China,English,Adams,17
+651,2011-02-21,Iphigénie en Tauride,French,Gluck,88
+652,2011-02-22,La Bohème,Italian,Puccini,205
+653,2011-02-23,Armida,Italian,Haydn,157
+654,2011-02-23,Armida,Italian,Rossini,157
+655,2011-02-24,Lucia di Lammermoor,Italian,Donizetti,121
+656,2011-02-25,La Bohème,Italian,Puccini,205
+657,2011-02-26,Armida,Italian,Haydn,157
+658,2011-02-26,Armida,Italian,Rossini,157
+659,2011-02-26,Iphigénie en Tauride,French,Gluck,98
+660,2011-02-28,Lucia di Lammermoor,Italian,Donizetti,121
+661,2011-03-01,Armida,Italian,Haydn,157
+662,2011-03-01,Armida,Italian,Rossini,157
+663,2011-03-02,Iphigénie en Tauride,French,Gluck,98
+664,2011-03-04,Lucia di Lammermoor,Italian,Donizetti,121
+665,2011-03-05,Armida,Italian,Haydn,157
+666,2011-03-05,Armida,Italian,Rossini,157
+667,2011-03-05,Iphigénie en Tauride,French,Gluck,98
+668,2011-03-08,Lucia di Lammermoor,Italian,Donizetti,121
+669,2011-03-09,Boris Godunov,Russian,Mussorgsky,125
+670,2011-03-11,The Queen of Spades,Russian,Tchaikovsky,212
+671,2011-03-12,Boris Godunov,Russian,Mussorgsky,125
+672,2011-03-12,Lucia di Lammermoor,Italian,Donizetti,121
+673,2011-03-15,The Queen of Spades,Russian,Tchaikovsky,212
+674,2011-03-16,Lucia di Lammermoor,Italian,Donizetti,121
+675,2011-03-17,Boris Godunov,Russian,Mussorgsky,99
+676,2011-03-18,The Queen of Spades,Russian,Tchaikovsky,212
+677,2011-03-19,Lucia di Lammermoor,Italian,Donizetti,121
+678,2011-03-21,The Queen of Spades,Russian,Tchaikovsky,212
+679,2011-03-25,Tosca,Italian,Puccini,175
+680,2011-03-26,The Queen of Spades,Russian,Tchaikovsky,212
+681,2011-03-30,Das Rheingold,German,Wagner,208
+682,2011-03-31,Tosca,Italian,Puccini,175
+683,2011-04-02,Das Rheingold,German,Wagner,200
+684,2011-04-04,Tosca,Italian,Puccini,175
+685,2011-04-06,Wozzeck,German,Berg,137
+686,2011-04-08,Tosca,Italian,Puccini,175
+687,2011-04-09,Wozzeck,German,Berg,99
+688,2011-04-12,Tosca,Italian,Puccini,175
+689,2011-04-13,Wozzeck,German,Berg,99
+690,2011-04-16,Tosca,Italian,Puccini,123
+691,2011-04-16,Wozzeck,German,Berg,99
+692,2011-04-20,Il Trovatore,Italian,Verdi,78
+693,2011-04-22,Die Walküre,German,Wagner,136
+694,2011-04-23,Il Trovatore,Italian,Verdi,78
+695,2011-04-25,Die Walküre,German,Wagner,136
+696,2011-04-26,Rigoletto,Italian,Verdi,25
+697,2011-04-27,Il Trovatore,Italian,Verdi,78
+698,2011-04-28,Die Walküre,German,Wagner,136
+699,2011-04-29,Orfeo ed Euridice,Italian,Gluck,69
+700,2011-04-30,Il Trovatore,Italian,Verdi,78
+701,2011-04-30,Rigoletto,Italian,Verdi,25
+702,2011-05-02,Die Walküre,German,Wagner,136
+703,2011-05-03,Rigoletto,Italian,Verdi,25
+704,2011-05-04,Orfeo ed Euridice,Italian,Gluck,21
+705,2011-05-05,Die Walküre,German,Wagner,136
+706,2011-05-06,Rigoletto,Italian,Verdi,25
+707,2011-05-07,Ariadne auf Naxos,German,Strauss,155
+708,2011-05-07,Orfeo ed Euridice,Italian,Gluck,21
+709,2011-05-09,Die Walküre,German,Wagner,136
+710,2011-05-10,Ariadne auf Naxos,German,Strauss,145
+711,2011-05-11,Orfeo ed Euridice,Italian,Gluck,21
+712,2011-05-12,Rigoletto,Italian,Verdi,25
+713,2011-05-13,Ariadne auf Naxos,German,Strauss,147
+714,2011-05-14,Die Walküre,German,Wagner,136
+715,2011-05-14,Orfeo ed Euridice,Italian,Gluck,21
+716,2011-06-04,La Bohème,Italian,Puccini,235
+717,2011-06-08,La Bohème,Italian,Puccini,235
+718,2011-06-09,Lucia di Lammermoor,Italian,Donizetti,132
+719,2011-06-11,La Bohème,Italian,Puccini,235
+720,2011-06-12,Lucia di Lammermoor,Italian,Donizetti,90
+721,2011-06-16,Lucia di Lammermoor,Italian,Donizetti,111
+722,2011-06-17,La Bohème,Italian,Puccini,214
+723,2011-06-19,La Bohème,Italian,Puccini,214
+724,2011-06-19,Lucia di Lammermoor,Italian,Donizetti,111
+725,2011-09-26,Anna Bolena,Italian,Donizetti,107
+726,2011-09-27,Nabucco,Italian,Verdi,94
+727,2011-09-30,Anna Bolena,Italian,Donizetti,107
+728,2011-10-01,Il Barbiere di Siviglia,Italian,Rossini,196
+729,2011-10-01,Nabucco,Italian,Verdi,95
+730,2011-10-03,Anna Bolena,Italian,Donizetti,107
+731,2011-10-04,Il Barbiere di Siviglia,Italian,Rossini,196
+732,2011-10-05,Nabucco,Italian,Verdi,92
+733,2011-10-06,Anna Bolena,Italian,Donizetti,107
+734,2011-10-08,Il Barbiere di Siviglia,Italian,Rossini,196
+735,2011-10-08,Nabucco,Italian,Verdi,92
+736,2011-10-10,Anna Bolena,Italian,Donizetti,107
+737,2011-10-11,Il Barbiere di Siviglia,Italian,Rossini,135
+738,2011-10-12,Nabucco,Italian,Verdi,92
+739,2011-10-13,Don Giovanni,Italian,Mozart,252
+740,2011-10-14,Il Barbiere di Siviglia,Italian,Rossini,135
+741,2011-10-15,Anna Bolena,Italian,Donizetti,107
+742,2011-10-15,Nabucco,Italian,Verdi,92
+743,2011-10-17,Don Giovanni,Italian,Mozart,148
+744,2011-10-18,Anna Bolena,Italian,Donizetti,97
+745,2011-10-19,Il Barbiere di Siviglia,Italian,Rossini,135
+746,2011-10-20,Nabucco,Italian,Verdi,92
+747,2011-10-21,Anna Bolena,Italian,Donizetti,63
+748,2011-10-22,Don Giovanni,Italian,Mozart,148
+749,2011-10-22,Il Barbiere di Siviglia,Italian,Rossini,148
+750,2011-10-24,Anna Bolena,Italian,Donizetti,67
+751,2011-10-25,Don Giovanni,Italian,Mozart,89
+752,2011-10-26,Il Barbiere di Siviglia,Italian,Rossini,123
+753,2011-10-27,Siegfried,German,Wagner,207
+754,2011-10-28,Anna Bolena,Italian,Donizetti,67
+755,2011-10-29,Don Giovanni,Italian,Mozart,89
+756,2011-10-29,Il Barbiere di Siviglia,Italian,Rossini,122
+757,2011-10-31,Don Giovanni,Italian,Mozart,89
+758,2011-11-01,Siegfried,German,Wagner,207
+759,2011-11-02,Nabucco,Italian,Verdi,95
+760,2011-11-03,Don Giovanni,Italian,Mozart,89
+761,2011-11-05,Nabucco,Italian,Verdi,16
+762,2011-11-05,Siegfried,German,Wagner,207
+763,2011-11-07,Don Giovanni,Italian,Mozart,56
+764,2011-11-09,Nabucco,Italian,Verdi,16
+765,2011-11-11,Don Giovanni,Italian,Mozart,89
+766,2011-11-12,Nabucco,Italian,Verdi,16
+767,2011-11-14,Rodelinda,Italian,Handel,207
+768,2011-11-17,Nabucco,Italian,Verdi,9
+769,2011-11-18,La Bohème,Italian,Puccini,222
+770,2011-11-19,Rodelinda,Italian,Handel,161
+771,2011-11-22,La Bohème,Italian,Puccini,180
+772,2011-11-23,Rodelinda,Italian,Handel,161
+773,2011-11-25,La Bohème,Italian,Puccini,166
+774,2011-11-26,Rodelinda,Italian,Handel,161
+775,2011-11-28,La Bohème,Italian,Puccini,166
+776,2011-11-29,Faust,French,Gounod,95
+777,2011-11-30,Rodelinda,Italian,Handel,161
+778,2011-12-02,La Bohème,Italian,Puccini,166
+779,2011-12-03,Faust,French,Gounod,95
+780,2011-12-03,Rodelinda,Italian,Handel,161
+781,2011-12-06,Faust,French,Gounod,95
+782,2011-12-07,Rodelinda,Italian,Handel,161
+783,2011-12-08,La Bohème,Italian,Puccini,166
+784,2011-12-10,Faust,French,Gounod,95
+785,2011-12-10,Rodelinda,Italian,Handel,161
+786,2011-12-13,Faust,French,Gounod,95
+787,2011-12-16,Hänsel und Gretel,German,Humperdinck,75
+788,2011-12-17,Faust,French,Gounod,78
+789,2011-12-20,Faust,French,Gounod,78
+790,2011-12-21,Hänsel und Gretel,German,Humperdinck,75
+791,2011-12-23,Faust,French,Gounod,64
+792,2011-12-24,Hänsel und Gretel,German,Humperdinck,75
+793,2011-12-26,Hänsel und Gretel,German,Humperdinck,81
+794,2011-12-28,Faust,French,Gounod,64
+795,2011-12-29,Hänsel und Gretel,German,Humperdinck,61
+796,2011-12-30,Hänsel und Gretel,German,Humperdinck,81
+797,2012-01-03,Hänsel und Gretel,German,Humperdinck,81
+798,2012-01-05,Faust,French,Gounod,61
+799,2012-01-07,Hänsel und Gretel,German,Humperdinck,81
+800,2012-01-09,Faust,French,Gounod,99
+801,2012-01-10,Tosca,Italian,Puccini,93
+802,2012-01-13,Faust,French,Gounod,98
+803,2012-01-14,Tosca,Italian,Puccini,93
+804,2012-01-16,Faust,French,Gounod,98
+805,2012-01-18,Tosca,Italian,Puccini,155
+806,2012-01-19,Faust,French,Gounod,98
+807,2012-01-21,Tosca,Italian,Puccini,155
+808,2012-01-24,Tosca,Italian,Puccini,155
+809,2012-01-28,Tosca,Italian,Puccini,133
+810,2012-02-01,Anna Bolena,Italian,Donizetti,107
+811,2012-02-02,Ernani,Italian,Verdi,52
+812,2012-02-04,Anna Bolena,Italian,Donizetti,107
+813,2012-02-04,Il Barbiere di Siviglia,Italian,Rossini,132
+814,2012-02-06,Ernani,Italian,Verdi,52
+815,2012-02-08,Il Barbiere di Siviglia,Italian,Rossini,132
+816,2012-02-09,Aida,Italian,Verdi,136
+817,2012-02-10,Ernani,Italian,Verdi,52
+818,2012-02-11,Il Barbiere di Siviglia,Italian,Rossini,132
+819,2012-02-13,Aida,Italian,Verdi,136
+820,2012-02-14,Ernani,Italian,Verdi,50
+821,2012-02-15,Il Barbiere di Siviglia,Italian,Rossini,132
+822,2012-02-16,Aida,Italian,Verdi,136
+823,2012-02-18,Ernani,Italian,Verdi,50
+824,2012-02-18,Il Barbiere di Siviglia,Italian,Rossini,132
+825,2012-02-20,Aida,Italian,Verdi,136
+826,2012-02-21,Don Giovanni,Italian,Mozart,131
+827,2012-02-23,Aida,Italian,Verdi,136
+828,2012-02-24,Don Giovanni,Italian,Mozart,131
+829,2012-02-25,Ernani,Italian,Verdi,50
+830,2012-02-28,Aida,Italian,Verdi,123
+831,2012-02-29,Don Giovanni,Italian,Mozart,131
+832,2012-03-03,Aida,Italian,Verdi,124
+833,2012-03-03,Don Giovanni,Italian,Mozart,131
+834,2012-03-07,Don Giovanni,Italian,Mozart,174
+835,2012-03-10,Don Giovanni,Italian,Mozart,174
+836,2012-03-14,Don Giovanni,Italian,Mozart,174
+837,2012-03-15,Macbeth,Italian,Verdi,93
+838,2012-03-17,Don Giovanni,Italian,Mozart,174
+839,2012-03-20,Macbeth,Italian,Verdi,93
+840,2012-03-24,Macbeth,Italian,Verdi,93
+841,2012-03-26,Manon,French,Massenet,267
+842,2012-03-29,Macbeth,Italian,Verdi,56
+843,2012-03-31,Manon,French,Massenet,126
+844,2012-04-02,Macbeth,Italian,Verdi,93
+845,2012-04-03,Manon,French,Massenet,126
+846,2012-04-04,Das Rheingold,German,Wagner,200
+847,2012-04-05,Macbeth,Italian,Verdi,93
+848,2012-04-06,La Traviata,Italian,Verdi,125
+849,2012-04-07,Manon,French,Massenet,126
+850,2012-04-09,Macbeth,Italian,Verdi,93
+851,2012-04-10,La Traviata,Italian,Verdi,128
+852,2012-04-11,Manon,French,Massenet,126
+853,2012-04-14,La Traviata,Italian,Verdi,128
+854,2012-04-14,Manon,French,Massenet,76
+855,2012-04-17,Manon,French,Massenet,76
+856,2012-04-18,La Traviata,Italian,Verdi,128
+857,2012-04-20,Manon,French,Massenet,76
+858,2012-04-21,La Traviata,Italian,Verdi,91
+859,2012-04-23,Manon,French,Massenet,76
+860,2012-04-25,La Traviata,Italian,Verdi,128
+861,2012-04-28,La Traviata,Italian,Verdi,128
+862,2012-05-02,La Traviata,Italian,Verdi,125
+863,2012-05-04,Billy Budd,English,Britten,200
+864,2012-05-10,Billy Budd,English,Britten,156
+865,2012-05-12,Billy Budd,English,Britten,156
+866,2012-09-26,Turandot,Italian,Puccini,140
+867,2012-09-28,Carmen,French,Bizet,90
+868,2012-09-29,Il Trovatore,Italian,Verdi,38
+869,2012-09-29,Turandot,Italian,Puccini,140
+870,2012-10-02,Carmen,French,Bizet,90
+871,2012-10-03,Turandot,Italian,Puccini,140
+872,2012-10-04,Il Trovatore,Italian,Verdi,66
+873,2012-10-06,Carmen,French,Bizet,90
+874,2012-10-06,Turandot,Italian,Puccini,140
+875,2012-10-08,Il Trovatore,Italian,Verdi,34
+876,2012-10-09,Otello,Italian,Rossini,101
+877,2012-10-09,Otello,Italian,Verdi,101
+878,2012-10-11,Carmen,French,Bizet,102
+879,2012-10-12,Il Trovatore,Italian,Verdi,66
+880,2012-10-13,Otello,Italian,Rossini,79
+881,2012-10-13,Otello,Italian,Verdi,79
+882,2012-10-15,Carmen,French,Bizet,90
+883,2012-10-16,Otello,Italian,Rossini,79
+884,2012-10-16,Otello,Italian,Verdi,79
+885,2012-10-17,Il Trovatore,Italian,Verdi,38
+886,2012-10-18,Carmen,French,Bizet,90
+887,2012-10-20,Il Trovatore,Italian,Verdi,38
+888,2012-10-20,Otello,Italian,Rossini,79
+889,2012-10-20,Otello,Italian,Verdi,79
+890,2012-10-25,Il Trovatore,Italian,Verdi,38
+891,2012-10-26,Le Nozze di Figaro,Italian,Mozart,201
+892,2012-10-27,Otello,Italian,Rossini,101
+893,2012-10-27,Otello,Italian,Verdi,101
+894,2012-11-02,Turandot,Italian,Puccini,110
+895,2012-11-03,Le Nozze di Figaro,Italian,Mozart,166
+896,2012-11-05,Turandot,Italian,Puccini,110
+897,2012-11-07,Le Nozze di Figaro,Italian,Mozart,163
+898,2012-11-09,Turandot,Italian,Puccini,110
+899,2012-11-10,Le Nozze di Figaro,Italian,Mozart,163
+900,2012-11-13,Le Nozze di Figaro,Italian,Mozart,163
+901,2012-11-16,La Clemenza di Tito,Italian,Mozart,208
+902,2012-11-17,Le Nozze di Figaro,Italian,Mozart,197
+903,2012-11-20,La Clemenza di Tito,Italian,Mozart,158
+904,2012-11-23,Aida,Italian,Verdi,26
+905,2012-11-24,La Clemenza di Tito,Italian,Mozart,158
+906,2012-11-26,Aida,Italian,Verdi,26
+907,2012-11-28,Don Giovanni,Italian,Mozart,126
+908,2012-11-29,Aida,Italian,Verdi,26
+909,2012-12-01,Don Giovanni,Italian,Mozart,118
+910,2012-12-01,La Clemenza di Tito,Italian,Mozart,158
+911,2012-12-03,Aida,Italian,Verdi,26
+912,2012-12-05,Don Giovanni,Italian,Mozart,118
+913,2012-12-06,La Clemenza di Tito,Italian,Mozart,163
+914,2012-12-07,Aida,Italian,Verdi,26
+915,2012-12-08,Don Giovanni,Italian,Mozart,118
+916,2012-12-10,La Clemenza di Tito,Italian,Mozart,41
+917,2012-12-11,Don Giovanni,Italian,Mozart,118
+918,2012-12-12,Aida,Italian,Verdi,63
+919,2012-12-13,Les Troyens,French,Berlioz,280
+920,2012-12-15,Aida,Italian,Verdi,63
+921,2012-12-15,Don Giovanni,Italian,Mozart,118
+922,2012-12-17,Les Troyens,French,Berlioz,241
+923,2012-12-18,Il Barbiere di Siviglia,Italian,Rossini,65
+924,2012-12-19,Aida,Italian,Verdi,71
+925,2012-12-20,Don Giovanni,Italian,Mozart,118
+926,2012-12-21,Les Troyens,French,Berlioz,269
+927,2012-12-22,Aida,Italian,Verdi,71
+928,2012-12-22,Il Barbiere di Siviglia,Italian,Rossini,65
+929,2012-12-26,Il Barbiere di Siviglia,Italian,Rossini,19
+930,2012-12-26,Les Troyens,French,Berlioz,287
+931,2012-12-27,Il Barbiere di Siviglia,Italian,Rossini,65
+932,2012-12-28,Aida,Italian,Verdi,71
+933,2012-12-29,Il Barbiere di Siviglia,Italian,Rossini,65
+934,2012-12-29,Les Troyens,French,Berlioz,272
+935,2012-12-31,Maria Stuarda,Italian,Donizetti,123
+936,2013-01-01,Les Troyens,French,Berlioz,261
+937,2013-01-02,Turandot,Italian,Puccini,90
+938,2013-01-03,Il Barbiere di Siviglia,Italian,Rossini,65
+939,2013-01-04,Maria Stuarda,Italian,Donizetti,123
+940,2013-01-05,Il Barbiere di Siviglia,Italian,Rossini,65
+941,2013-01-05,Les Troyens,French,Berlioz,286
+942,2013-01-07,Turandot,Italian,Puccini,90
+943,2013-01-08,Maria Stuarda,Italian,Donizetti,123
+944,2013-01-09,Il Trovatore,Italian,Verdi,55
+945,2013-01-10,Turandot,Italian,Puccini,90
+946,2013-01-11,La Rondine,Italian,Puccini,72
+947,2013-01-12,Il Trovatore,Italian,Verdi,58
+948,2013-01-12,Maria Stuarda,Italian,Donizetti,123
+949,2013-01-14,La Rondine,Italian,Puccini,43
+950,2013-01-15,Maria Stuarda,Italian,Donizetti,123
+951,2013-01-16,Il Trovatore,Italian,Verdi,58
+952,2013-01-18,La Rondine,Italian,Puccini,43
+953,2013-01-19,Il Trovatore,Italian,Verdi,39
+954,2013-01-19,Maria Stuarda,Italian,Donizetti,123
+955,2013-01-22,La Rondine,Italian,Puccini,43
+956,2013-01-23,Maria Stuarda,Italian,Donizetti,101
+957,2013-01-24,Il Trovatore,Italian,Verdi,39
+958,2013-01-26,La Rondine,Italian,Puccini,43
+959,2013-01-26,Maria Stuarda,Italian,Donizetti,123
+960,2013-01-28,Rigoletto,Italian,Verdi,314
+961,2013-01-31,Rigoletto,Italian,Verdi,296
+962,2013-02-04,Rigoletto,Italian,Verdi,296
+963,2013-02-08,Rigoletto,Italian,Verdi,296
+964,2013-02-09,Carmen,French,Bizet,126
+965,2013-02-12,Rigoletto,Italian,Verdi,296
+966,2013-02-13,Carmen,French,Bizet,100
+967,2013-02-15,Parsifal,German,Wagner,336
+968,2013-02-16,Carmen,French,Bizet,66
+969,2013-02-16,Rigoletto,Italian,Verdi,296
+970,2013-02-18,Parsifal,German,Wagner,168
+971,2013-02-19,Rigoletto,Italian,Verdi,296
+972,2013-02-20,Carmen,French,Bizet,66
+973,2013-02-23,Carmen,French,Bizet,68
+974,2013-02-23,Rigoletto,Italian,Verdi,296
+975,2013-02-26,Carmen,French,Bizet,100
+976,2013-02-27,Parsifal,German,Wagner,168
+977,2013-03-01,Carmen,French,Bizet,93
+978,2013-03-02,Parsifal,German,Wagner,168
+979,2013-03-04,Francesca da Rimini,Italian,Zandonai,61
+980,2013-03-05,Parsifal,German,Wagner,155
+981,2013-03-08,Parsifal,German,Wagner,168
+982,2013-03-09,Francesca da Rimini,Italian,Zandonai,59
+983,2013-03-11,Otello,Italian,Rossini,109
+984,2013-03-11,Otello,Italian,Verdi,109
+985,2013-03-12,Francesca da Rimini,Italian,Zandonai,61
+986,2013-03-14,La Traviata,Italian,Verdi,173
+987,2013-03-15,Otello,Italian,Rossini,111
+988,2013-03-15,Otello,Italian,Verdi,111
+989,2013-03-16,Francesca da Rimini,Italian,Zandonai,61
+990,2013-03-18,La Traviata,Italian,Verdi,165
+991,2013-03-19,Francesca da Rimini,Italian,Zandonai,61
+992,2013-03-20,Otello,Italian,Rossini,109
+993,2013-03-20,Otello,Italian,Verdi,109
+994,2013-03-21,Faust,French,Gounod,97
+995,2013-03-22,Francesca da Rimini,Italian,Zandonai,61
+996,2013-03-23,La Traviata,Italian,Verdi,173
+997,2013-03-23,Otello,Italian,Rossini,109
+998,2013-03-23,Otello,Italian,Verdi,109
+999,2013-03-25,Faust,French,Gounod,97
+1000,2013-03-26,La Traviata,Italian,Verdi,173
+1001,2013-03-27,Otello,Italian,Rossini,72
+1002,2013-03-27,Otello,Italian,Verdi,72
+1003,2013-03-28,Faust,French,Gounod,97
+1004,2013-03-30,La Traviata,Italian,Verdi,173
+1005,2013-03-30,Otello,Italian,Rossini,109
+1006,2013-03-30,Otello,Italian,Verdi,109
+1007,2013-04-02,Faust,French,Gounod,97
+1008,2013-04-03,La Traviata,Italian,Verdi,165
+1009,2013-04-04,Giulio Cesare,Italian,Handel,169
+1010,2013-04-05,Faust,French,Gounod,97
+1011,2013-04-06,La Traviata,Italian,Verdi,173
+1012,2013-04-09,Giulio Cesare,Italian,Handel,158
+1013,2013-04-12,Giulio Cesare,Italian,Handel,165
+1014,2013-04-13,Rigoletto,Italian,Verdi,228
+1015,2013-04-16,Rigoletto,Italian,Verdi,228
+1016,2013-04-19,Giulio Cesare,Italian,Handel,165
+1017,2013-04-20,Rigoletto,Italian,Verdi,228
+1018,2013-04-22,Giulio Cesare,Italian,Handel,165
+1019,2013-04-24,Rigoletto,Italian,Verdi,228
+1020,2013-04-27,Giulio Cesare,Italian,Handel,165
+1021,2013-04-27,Rigoletto,Italian,Verdi,228
+1022,2013-04-30,Giulio Cesare,Italian,Handel,165
+1023,2013-05-01,Rigoletto,Italian,Verdi,228
+1024,2013-05-03,Giulio Cesare,Italian,Handel,165
+1025,2013-05-07,Giulio Cesare,Italian,Handel,165
+1026,2013-05-10,Giulio Cesare,Italian,Handel,165
+1027,2013-09-23,Eugene Onegin,Russian,Tchaikovsky,156
+1028,2013-09-26,Eugene Onegin,Russian,Tchaikovsky,156
+1029,2013-09-30,Norma,Italian,Bellini,104
+1030,2013-10-01,Eugene Onegin,Russian,Tchaikovsky,156
+1031,2013-10-04,Norma,Italian,Bellini,102
+1032,2013-10-05,Eugene Onegin,Russian,Tchaikovsky,156
+1033,2013-10-07,Norma,Italian,Bellini,102
+1034,2013-10-09,Eugene Onegin,Russian,Tchaikovsky,156
+1035,2013-10-10,Norma,Italian,Bellini,102
+1036,2013-10-12,Eugene Onegin,Russian,Tchaikovsky,156
+1037,2013-10-14,Norma,Italian,Bellini,102
+1038,2013-10-16,Eugene Onegin,Russian,Tchaikovsky,156
+1039,2013-10-18,Norma,Italian,Bellini,102
+1040,2013-10-19,Eugene Onegin,Russian,Tchaikovsky,156
+1041,2013-10-24,Norma,Italian,Bellini,27
+1042,2013-10-28,Norma,Italian,Bellini,105
+1043,2013-10-29,Tosca,Italian,Puccini,46
+1044,2013-11-01,Norma,Italian,Bellini,102
+1045,2013-11-02,Tosca,Italian,Puccini,46
+1046,2013-11-05,Tosca,Italian,Puccini,48
+1047,2013-11-09,Tosca,Italian,Puccini,48
+1048,2013-11-11,Rigoletto,Italian,Verdi,217
+1049,2013-11-13,Tosca,Italian,Puccini,46
+1050,2013-11-15,Rigoletto,Italian,Verdi,217
+1051,2013-11-16,Tosca,Italian,Puccini,46
+1052,2013-11-18,Rigoletto,Italian,Verdi,217
+1053,2013-11-21,Rigoletto,Italian,Verdi,245
+1054,2013-11-22,Der Rosenkavalier,German,Strauss,95
+1055,2013-11-23,Eugene Onegin,Russian,Tchaikovsky,171
+1056,2013-11-25,Der Rosenkavalier,German,Strauss,91
+1057,2013-11-27,Rigoletto,Italian,Verdi,245
+1058,2013-11-29,Eugene Onegin,Russian,Tchaikovsky,171
+1059,2013-11-30,Der Rosenkavalier,German,Strauss,91
+1060,2013-11-30,Rigoletto,Italian,Verdi,245
+1061,2013-12-02,Eugene Onegin,Russian,Tchaikovsky,171
+1062,2013-12-03,Der Rosenkavalier,German,Strauss,70
+1063,2013-12-04,Rigoletto,Italian,Verdi,245
+1064,2013-12-05,Eugene Onegin,Russian,Tchaikovsky,171
+1065,2013-12-06,Falstaff,Italian,Verdi,126
+1066,2013-12-07,Der Rosenkavalier,German,Strauss,107
+1067,2013-12-07,Rigoletto,Italian,Verdi,245
+1068,2013-12-09,Falstaff,Italian,Verdi,100
+1069,2013-12-10,Der Rosenkavalier,German,Strauss,107
+1070,2013-12-11,Tosca,Italian,Puccini,28
+1071,2013-12-12,Eugene Onegin,Russian,Tchaikovsky,171
+1072,2013-12-13,Der Rosenkavalier,German,Strauss,85
+1073,2013-12-14,Falstaff,Italian,Verdi,100
+1074,2013-12-14,Tosca,Italian,Puccini,28
+1075,2013-12-16,Die Zauberflöte,German,Mozart,121
+1076,2013-12-17,Tosca,Italian,Puccini,26
+1077,2013-12-18,Falstaff,Italian,Verdi,83
+1078,2013-12-20,Tosca,Italian,Puccini,18
+1079,2013-12-21,Die Zauberflöte,German,Mozart,126
+1080,2013-12-21,Falstaff,Italian,Verdi,83
+1081,2013-12-23,Tosca,Italian,Puccini,28
+1082,2013-12-24,Die Zauberflöte,German,Mozart,127
+1083,2013-12-26,Die Zauberflöte,German,Mozart,127
+1084,2013-12-27,Falstaff,Italian,Verdi,100
+1085,2013-12-28,Die Zauberflöte,German,Mozart,61
+1086,2013-12-28,Tosca,Italian,Puccini,26
+1087,2013-12-30,Die Zauberflöte,German,Mozart,104
+1088,2013-12-30,Falstaff,Italian,Verdi,100
+1089,2013-12-31,Die Fledermaus,German,Strauss jr,329
+1090,2014-01-02,Die Zauberflöte,German,Mozart,104
+1091,2014-01-03,Falstaff,Italian,Verdi,100
+1092,2014-01-04,Die Fledermaus,German,Strauss jr,195
+1093,2014-01-04,Die Zauberflöte,German,Mozart,104
+1094,2014-01-06,Falstaff,Italian,Verdi,100
+1095,2014-01-07,Die Fledermaus,German,Strauss jr,195
+1096,2014-01-11,Die Fledermaus,German,Strauss jr,329
+1097,2014-01-11,Falstaff,Italian,Verdi,100
+1098,2014-01-14,La Bohème,Italian,Puccini,77
+1099,2014-01-15,Die Fledermaus,German,Strauss jr,329
+1100,2014-01-18,Die Fledermaus,German,Strauss jr,329
+1101,2014-01-18,La Bohème,Italian,Puccini,77
+1102,2014-01-22,La Bohème,Italian,Puccini,77
+1103,2014-01-23,Rusalka,Czech,Dvorak,198
+1104,2014-01-25,La Bohème,Italian,Puccini,77
+1105,2014-01-27,Rusalka,Czech,Dvorak,160
+1106,2014-01-30,La Bohème,Italian,Puccini,77
+1107,2014-01-31,Rusalka,Czech,Dvorak,160
+1108,2014-02-03,Die Fledermaus,German,Strauss jr,329
+1109,2014-02-04,Rusalka,Czech,Dvorak,132
+1110,2014-02-05,Die Fledermaus,German,Strauss jr,329
+1111,2014-02-08,Die Fledermaus,German,Strauss jr,329
+1112,2014-02-08,Rusalka,Czech,Dvorak,160
+1113,2014-02-11,Die Fledermaus,German,Strauss jr,329
+1114,2014-02-12,Rusalka,Czech,Dvorak,160
+1115,2014-02-13,Die Fledermaus,German,Strauss jr,329
+1116,2014-02-15,Die Fledermaus,German,Strauss jr,329
+1117,2014-02-15,Rusalka,Czech,Dvorak,191
+1118,2014-02-18,Werther,French,Massenet,153
+1119,2014-02-20,Die Fledermaus,German,Strauss jr,329
+1120,2014-02-22,Die Fledermaus,German,Strauss jr,329
+1121,2014-02-22,Werther,French,Massenet,119
+1122,2014-02-25,Werther,French,Massenet,119
+1123,2014-02-28,Werther,French,Massenet,119
+1124,2014-03-03,Werther,French,Massenet,41
+1125,2014-03-06,Wozzeck,German,Berg,137
+1126,2014-03-07,Werther,French,Massenet,119
+1127,2014-03-10,Wozzeck,German,Berg,76
+1128,2014-03-11,Werther,French,Massenet,119
+1129,2014-03-13,Wozzeck,German,Berg,113
+1130,2014-03-14,La Sonnambula,Italian,Bellini,184
+1131,2014-03-15,Werther,French,Massenet,119
+1132,2014-03-17,Wozzeck,German,Berg,113
+1133,2014-03-18,La Sonnambula,Italian,Bellini,184
+1134,2014-03-19,La Bohème,Italian,Puccini,66
+1135,2014-03-21,La Sonnambula,Italian,Bellini,184
+1136,2014-03-22,La Bohème,Italian,Puccini,66
+1137,2014-03-22,Wozzeck,German,Berg,113
+1138,2014-03-25,La Sonnambula,Italian,Bellini,184
+1139,2014-03-26,La Bohème,Italian,Puccini,66
+1140,2014-03-29,La Bohème,Italian,Puccini,66
+1141,2014-03-29,La Sonnambula,Italian,Bellini,184
+1142,2014-04-01,La Sonnambula,Italian,Bellini,159
+1143,2014-04-02,La Bohème,Italian,Puccini,112
+1144,2014-04-03,Arabella,German,Strauss,117
+1145,2014-04-05,La Bohème,Italian,Puccini,128
+1146,2014-04-07,Arabella,German,Strauss,75
+1147,2014-04-10,La Bohème,Italian,Puccini,82
+1148,2014-04-11,Arabella,German,Strauss,75
+1149,2014-04-14,La Bohème,Italian,Puccini,82
+1150,2014-04-16,Arabella,German,Strauss,75
+1151,2014-04-17,I Puritani,Italian,Bellini,90
+1152,2014-04-18,La Bohème,Italian,Puccini,82
+1153,2014-04-19,Arabella,German,Strauss,80
+1154,2014-04-21,La Cenerentola,Italian,Rossini,148
+1155,2014-04-22,I Puritani,Italian,Bellini,90
+1156,2014-04-24,Arabella,German,Strauss,112
+1157,2014-04-25,La Cenerentola,Italian,Rossini,148
+1158,2014-04-26,I Puritani,Italian,Bellini,95
+1159,2014-04-28,La Cenerentola,Italian,Rossini,148
+1160,2014-04-29,I Puritani,Italian,Bellini,95
+1161,2014-05-02,La Cenerentola,Italian,Rossini,162
+1162,2014-05-03,I Puritani,Italian,Bellini,95
+1163,2014-05-06,La Cenerentola,Italian,Rossini,162
+1164,2014-05-07,I Puritani,Italian,Bellini,90
+1165,2014-05-10,I Puritani,Italian,Bellini,95
+1166,2014-05-10,La Cenerentola,Italian,Rossini,162
+1167,2014-09-22,Le Nozze di Figaro,Italian,Mozart,170
+1168,2014-09-23,La Bohème,Italian,Puccini,30
+1169,2014-09-24,Macbeth,Italian,Verdi,116
+1170,2014-09-25,Le Nozze di Figaro,Italian,Mozart,170
+1171,2014-09-26,La Bohème,Italian,Puccini,64
+1172,2014-09-27,Le Nozze di Figaro,Italian,Mozart,174
+1173,2014-09-27,Macbeth,Italian,Verdi,116
+1174,2014-09-29,La Bohème,Italian,Puccini,64
+1175,2014-09-30,Carmen,French,Bizet,75
+1176,2014-10-02,Le Nozze di Figaro,Italian,Mozart,170
+1177,2014-10-03,Macbeth,Italian,Verdi,116
+1178,2014-10-04,Carmen,French,Bizet,75
+1179,2014-10-04,La Bohème,Italian,Puccini,64
+1180,2014-10-06,Die Zauberflöte,German,Mozart,202
+1181,2014-10-07,Le Nozze di Figaro,Italian,Mozart,170
+1182,2014-10-08,Macbeth,Italian,Verdi,116
+1183,2014-10-09,Carmen,French,Bizet,75
+1184,2014-10-10,Le Nozze di Figaro,Italian,Mozart,170
+1185,2014-10-11,Die Zauberflöte,German,Mozart,202
+1186,2014-10-11,Macbeth,Italian,Verdi,116
+1187,2014-10-13,Carmen,French,Bizet,75
+1188,2014-10-14,Le Nozze di Figaro,Italian,Mozart,124
+1189,2014-10-15,Macbeth,Italian,Verdi,114
+1190,2014-10-16,Die Zauberflöte,German,Mozart,202
+1191,2014-10-17,Carmen,French,Bizet,109
+1192,2014-10-18,Le Nozze di Figaro,Italian,Mozart,170
+1193,2014-10-18,Macbeth,Italian,Verdi,114
+1194,2014-10-20,The Death of Klinghoffer,English,Adams,124
+1195,2014-10-21,Die Zauberflöte,German,Mozart,176
+1196,2014-10-22,Le Nozze di Figaro,Italian,Mozart,170
+1197,2014-10-23,Carmen,French,Bizet,76
+1198,2014-10-24,The Death of Klinghoffer,English,Adams,124
+1199,2014-10-25,Die Zauberflöte,German,Mozart,178
+1200,2014-10-25,Le Nozze di Figaro,Italian,Mozart,170
+1201,2014-10-27,Die Zauberflöte,German,Mozart,179
+1202,2014-10-28,Carmen,French,Bizet,91
+1203,2014-10-29,The Death of Klinghoffer,English,Adams,124
+1204,2014-10-30,Aida,Italian,Verdi,38
+1205,2014-10-31,Die Zauberflöte,German,Mozart,179
+1206,2014-11-01,Carmen,French,Bizet,91
+1207,2014-11-01,The Death of Klinghoffer,English,Adams,124
+1208,2014-11-03,Die Zauberflöte,German,Mozart,179
+1209,2014-11-04,Aida,Italian,Verdi,34
+1210,2014-11-05,The Death of Klinghoffer,English,Adams,124
+1211,2014-11-07,Aida,Italian,Verdi,34
+1212,2014-11-08,Die Zauberflöte,German,Mozart,179
+1213,2014-11-08,The Death of Klinghoffer,English,Adams,124
+1214,2014-11-11,The Death of Klinghoffer,English,Adams,124
+1215,2014-11-12,Aida,Italian,Verdi,34
+1216,2014-11-14,La Bohème,Italian,Puccini,82
+1217,2014-11-15,Aida,Italian,Verdi,34
+1218,2014-11-15,The Death of Klinghoffer,English,Adams,124
+1219,2014-11-18,Il Barbiere di Siviglia,Italian,Rossini,142
+1220,2014-11-19,Aida,Italian,Verdi,34
+1221,2014-11-20,La Bohème,Italian,Puccini,82
+1222,2014-11-22,Aida,Italian,Verdi,38
+1223,2014-11-22,Il Barbiere di Siviglia,Italian,Rossini,142
+1224,2014-11-24,La Bohème,Italian,Puccini,88
+1225,2014-11-26,Il Barbiere di Siviglia,Italian,Rossini,142
+1226,2014-11-28,La Bohème,Italian,Puccini,74
+1227,2014-11-29,Il Barbiere di Siviglia,Italian,Rossini,142
+1228,2014-12-01,La Bohème,Italian,Puccini,96
+1229,2014-12-02,Die Meistersinger von Nürnberg,German,Wagner,266
+1230,2014-12-03,Il Barbiere di Siviglia,Italian,Rossini,142
+1231,2014-12-04,Le Nozze di Figaro,Italian,Mozart,89
+1232,2014-12-05,La Bohème,Italian,Puccini,138
+1233,2014-12-06,Die Meistersinger von Nürnberg,German,Wagner,262
+1234,2014-12-06,Il Barbiere di Siviglia,Italian,Rossini,142
+1235,2014-12-08,Le Nozze di Figaro,Italian,Mozart,89
+1236,2014-12-09,Die Meistersinger von Nürnberg,German,Wagner,207
+1237,2014-12-10,La Bohème,Italian,Puccini,133
+1238,2014-12-11,La Traviata,Italian,Verdi,82
+1239,2014-12-12,Le Nozze di Figaro,Italian,Mozart,89
+1240,2014-12-13,Die Meistersinger von Nürnberg,German,Wagner,207
+1241,2014-12-13,La Bohème,Italian,Puccini,133
+1242,2014-12-15,Le Nozze di Figaro,Italian,Mozart,77
+1243,2014-12-16,La Traviata,Italian,Verdi,70
+1244,2014-12-17,Die Meistersinger von Nürnberg,German,Wagner,300
+1245,2014-12-18,Hänsel und Gretel,German,Humperdinck,61
+1246,2014-12-19,La Traviata,Italian,Verdi,70
+1247,2014-12-20,Die Meistersinger von Nürnberg,German,Wagner,266
+1248,2014-12-20,Le Nozze di Figaro,Italian,Mozart,77
+1249,2014-12-22,La Traviata,Italian,Verdi,70
+1250,2014-12-23,Die Meistersinger von Nürnberg,German,Wagner,266
+1251,2014-12-23,Hänsel und Gretel,German,Humperdinck,61
+1252,2014-12-26,Aida,Italian,Verdi,39
+1253,2014-12-27,Hänsel und Gretel,German,Humperdinck,61
+1254,2014-12-27,La Traviata,Italian,Verdi,70
+1255,2014-12-29,Aida,Italian,Verdi,37
+1256,2014-12-30,Hänsel und Gretel,German,Humperdinck,61
+1257,2014-12-30,La Traviata,Italian,Verdi,82
+1258,2015-01-01,Hänsel und Gretel,German,Humperdinck,47
+1259,2015-01-02,Aida,Italian,Verdi,35
+1260,2015-01-03,Hänsel und Gretel,German,Humperdinck,45
+1261,2015-01-05,Aida,Italian,Verdi,37
+1262,2015-01-07,La Traviata,Italian,Verdi,82
+1263,2015-01-08,Hänsel und Gretel,German,Humperdinck,45
+1264,2015-01-10,Aida,Italian,Verdi,37
+1265,2015-01-10,La Traviata,Italian,Verdi,82
+1266,2015-01-12,Les Contes d'Hoffmann,French,Offenbach,329
+1267,2015-01-14,La Traviata,Italian,Verdi,68
+1268,2015-01-15,La Bohème,Italian,Puccini,71
+1269,2015-01-16,Les Contes d'Hoffmann,French,Offenbach,329
+1270,2015-01-17,La Traviata,Italian,Verdi,58
+1271,2015-01-19,La Bohème,Italian,Puccini,71
+1272,2015-01-21,La Traviata,Italian,Verdi,58
+1273,2015-01-22,Les Contes d'Hoffmann,French,Offenbach,329
+1274,2015-01-24,La Bohème,Italian,Puccini,71
+1275,2015-01-24,La Traviata,Italian,Verdi,58
+1276,2015-01-27,Les Contes d'Hoffmann,French,Offenbach,329
+1277,2015-01-31,Les Contes d'Hoffmann,French,Offenbach,329
+1278,2015-02-04,Don Giovanni,Italian,Mozart,211
+1279,2015-02-05,Les Contes d'Hoffmann,French,Offenbach,329
+1280,2015-02-06,Carmen,French,Bizet,162
+1281,2015-02-07,Don Giovanni,Italian,Mozart,193
+1282,2015-02-09,Carmen,French,Bizet,162
+1283,2015-02-11,Don Giovanni,Italian,Mozart,193
+1284,2015-02-13,Carmen,French,Bizet,162
+1285,2015-02-14,Don Giovanni,Italian,Mozart,193
+1286,2015-02-17,Don Giovanni,Italian,Mozart,193
+1287,2015-02-19,Carmen,French,Bizet,162
+1288,2015-02-21,Don Giovanni,Italian,Mozart,193
+1289,2015-02-23,Carmen,French,Bizet,162
+1290,2015-02-24,Don Giovanni,Italian,Mozart,193
+1291,2015-02-26,Carmen,French,Bizet,162
+1292,2015-02-27,Don Giovanni,Italian,Mozart,193
+1293,2015-02-28,Les Contes d'Hoffmann,French,Offenbach,284
+1294,2015-03-02,Don Giovanni,Italian,Mozart,193
+1295,2015-03-04,Carmen,French,Bizet,124
+1296,2015-03-05,Les Contes d'Hoffmann,French,Offenbach,284
+1297,2015-03-06,Don Giovanni,Italian,Mozart,96
+1298,2015-03-07,Carmen,French,Bizet,124
+1299,2015-03-09,Manon,French,Massenet,161
+1300,2015-03-11,Les Contes d'Hoffmann,French,Offenbach,284
+1301,2015-03-12,Manon,French,Massenet,161
+1302,2015-03-14,Les Contes d'Hoffmann,French,Offenbach,284
+1303,2015-03-16,Lucia di Lammermoor,Italian,Donizetti,91
+1304,2015-03-17,Manon,French,Massenet,161
+1305,2015-03-18,Les Contes d'Hoffmann,French,Offenbach,284
+1306,2015-03-19,Lucia di Lammermoor,Italian,Donizetti,91
+1307,2015-03-20,Ernani,Italian,Verdi,105
+1308,2015-03-21,Les Contes d'Hoffmann,French,Offenbach,296
+1309,2015-03-21,Manon,French,Massenet,161
+1310,2015-03-23,Ernani,Italian,Verdi,105
+1311,2015-03-24,Lucia di Lammermoor,Italian,Donizetti,91
+1312,2015-03-25,Manon,French,Massenet,156
+1313,2015-03-26,Ernani,Italian,Verdi,105
+1314,2015-03-28,Lucia di Lammermoor,Italian,Donizetti,91
+1315,2015-03-28,Manon,French,Massenet,161
+1316,2015-03-31,Ernani,Italian,Verdi,105
+1317,2015-04-01,Lucia di Lammermoor,Italian,Donizetti,28
+1318,2015-04-04,Ernani,Italian,Verdi,53
+1319,2015-04-04,Lucia di Lammermoor,Italian,Donizetti,54
+1320,2015-04-07,Lucia di Lammermoor,Italian,Donizetti,91
+1321,2015-04-08,Ernani,Italian,Verdi,73
+1322,2015-04-09,Aida,Italian,Verdi,32
+1323,2015-04-10,Lucia di Lammermoor,Italian,Donizetti,91
+1324,2015-04-11,Ernani,Italian,Verdi,105
+1325,2015-04-13,Aida,Italian,Verdi,32
+1326,2015-04-17,Aida,Italian,Verdi,32
+1327,2015-04-20,Aida,Italian,Verdi,31
+1328,2015-05-01,The Rake's Progress,English,Stravinsky,110
+1329,2015-05-04,The Rake's Progress,English,Stravinsky,72
+1330,2015-05-09,The Rake's Progress,English,Stravinsky,72
+1331,2015-09-21,Otello,Italian,Rossini,95
+1332,2015-09-21,Otello,Italian,Verdi,95
+1333,2015-09-23,Turandot,Italian,Puccini,115
+1334,2015-09-24,Otello,Italian,Rossini,95
+1335,2015-09-24,Otello,Italian,Verdi,95
+1336,2015-09-25,Il Trovatore,Italian,Verdi,115
+1337,2015-09-26,Anna Bolena,Italian,Donizetti,60
+1338,2015-09-26,Turandot,Italian,Puccini,118
+1339,2015-09-28,Otello,Italian,Rossini,95
+1340,2015-09-28,Otello,Italian,Verdi,95
+1341,2015-09-29,Il Trovatore,Italian,Verdi,115
+1342,2015-09-30,Turandot,Italian,Puccini,117
+1343,2015-10-01,Anna Bolena,Italian,Donizetti,54
+1344,2015-10-02,Otello,Italian,Rossini,95
+1345,2015-10-02,Otello,Italian,Verdi,95
+1346,2015-10-03,Il Trovatore,Italian,Verdi,115
+1347,2015-10-03,Turandot,Italian,Puccini,117
+1348,2015-10-05,Anna Bolena,Italian,Donizetti,60
+1349,2015-10-06,Otello,Italian,Rossini,95
+1350,2015-10-06,Otello,Italian,Verdi,95
+1351,2015-10-07,Il Trovatore,Italian,Verdi,79
+1352,2015-10-08,Tannhäuser,German,Wagner,183
+1353,2015-10-09,Anna Bolena,Italian,Donizetti,44
+1354,2015-10-10,Il Trovatore,Italian,Verdi,79
+1355,2015-10-10,Otello,Italian,Rossini,95
+1356,2015-10-10,Otello,Italian,Verdi,95
+1357,2015-10-12,Tannhäuser,German,Wagner,183
+1358,2015-10-13,Anna Bolena,Italian,Donizetti,54
+1359,2015-10-14,Otello,Italian,Rossini,95
+1360,2015-10-14,Otello,Italian,Verdi,95
+1361,2015-10-15,Tannhäuser,German,Wagner,183
+1362,2015-10-16,Tosca,Italian,Puccini,45
+1363,2015-10-17,Il Trovatore,Italian,Verdi,86
+1364,2015-10-17,Otello,Italian,Rossini,95
+1365,2015-10-17,Otello,Italian,Verdi,95
+1366,2015-10-19,Tannhäuser,German,Wagner,183
+1367,2015-10-20,Rigoletto,Italian,Verdi,7
+1368,2015-10-21,Tosca,Italian,Puccini,45
+1369,2015-10-22,Turandot,Italian,Puccini,97
+1370,2015-10-23,Rigoletto,Italian,Verdi,7
+1371,2015-10-24,Tannhäuser,German,Wagner,183
+1372,2015-10-24,Tosca,Italian,Puccini,40
+1373,2015-10-26,Turandot,Italian,Puccini,97
+1374,2015-10-27,Tannhäuser,German,Wagner,183
+1375,2015-10-28,Rigoletto,Italian,Verdi,7
+1376,2015-10-29,Tosca,Italian,Puccini,61
+1377,2015-10-30,Turandot,Italian,Puccini,97
+1378,2015-10-31,Rigoletto,Italian,Verdi,7
+1379,2015-10-31,Tannhäuser,German,Wagner,183
+1380,2015-11-02,Tosca,Italian,Puccini,61
+1381,2015-11-03,Turandot,Italian,Puccini,97
+1382,2015-11-04,Rigoletto,Italian,Verdi,7
+1383,2015-11-06,Tosca,Italian,Puccini,29
+1384,2015-11-07,Rigoletto,Italian,Verdi,7
+1385,2015-11-07,Turandot,Italian,Puccini,179
+1386,2015-11-10,Rigoletto,Italian,Verdi,7
+1387,2015-11-11,Tosca,Italian,Puccini,116
+1388,2015-11-12,Turandot,Italian,Puccini,39
+1389,2015-11-13,Rigoletto,Italian,Verdi,22
+1390,2015-11-14,Tosca,Italian,Puccini,96
+1391,2015-11-16,Rigoletto,Italian,Verdi,22
+1392,2015-11-18,Tosca,Italian,Puccini,96
+1393,2015-11-19,Rigoletto,Italian,Verdi,22
+1394,2015-11-21,Tosca,Italian,Puccini,96
+1395,2015-11-23,La Bohème,Italian,Puccini,71
+1396,2015-11-25,Tosca,Italian,Puccini,29
+1397,2015-11-27,La Bohème,Italian,Puccini,71
+1398,2015-11-28,Tosca,Italian,Puccini,29
+1399,2015-11-30,La Bohème,Italian,Puccini,71
+1400,2015-12-01,Tosca,Italian,Puccini,29
+1401,2015-12-02,Rigoletto,Italian,Verdi,117
+1402,2015-12-04,Die Fledermaus,German,Strauss jr,374
+1403,2015-12-05,La Bohème,Italian,Puccini,71
+1404,2015-12-05,Rigoletto,Italian,Verdi,51
+1405,2015-12-07,Die Fledermaus,German,Strauss jr,326
+1406,2015-12-08,Rigoletto,Italian,Verdi,51
+1407,2015-12-09,La Bohème,Italian,Puccini,71
+1408,2015-12-10,Die Fledermaus,German,Strauss jr,326
+1409,2015-12-12,La Bohème,Italian,Puccini,71
+1410,2015-12-12,Rigoletto,Italian,Verdi,51
+1411,2015-12-14,Die Fledermaus,German,Strauss jr,303
+1412,2015-12-16,Il Barbiere di Siviglia,Italian,Rossini,87
+1413,2015-12-17,Rigoletto,Italian,Verdi,30
+1414,2015-12-18,Die Fledermaus,German,Strauss jr,326
+1415,2015-12-19,Il Barbiere di Siviglia,Italian,Rossini,85
+1416,2015-12-21,Il Barbiere di Siviglia,Italian,Rossini,85
+1417,2015-12-23,Die Fledermaus,German,Strauss jr,326
+1418,2015-12-24,Il Barbiere di Siviglia,Italian,Rossini,54
+1419,2015-12-26,Il Barbiere di Siviglia,Italian,Rossini,54
+1420,2015-12-28,Die Fledermaus,German,Strauss jr,326
+1421,2015-12-29,Il Barbiere di Siviglia,Italian,Rossini,7
+1422,2015-12-30,Die Fledermaus,German,Strauss jr,326
+1423,2015-12-30,Il Barbiere di Siviglia,Italian,Rossini,56
+1424,2016-01-01,Il Barbiere di Siviglia,Italian,Rossini,9
+1425,2016-01-02,Die Fledermaus,German,Strauss jr,326
+1426,2016-01-02,Il Barbiere di Siviglia,Italian,Rossini,56
+1427,2016-01-05,Anna Bolena,Italian,Donizetti,60
+1428,2016-01-06,La Bohème,Italian,Puccini,90
+1429,2016-01-07,Die Fledermaus,German,Strauss jr,326
+1430,2016-01-09,Anna Bolena,Italian,Donizetti,50
+1431,2016-01-09,La Bohème,Italian,Puccini,72
+1432,2016-01-11,Turandot,Italian,Puccini,79
+1433,2016-01-13,La Bohème,Italian,Puccini,72
+1434,2016-01-15,Turandot,Italian,Puccini,79
+1435,2016-01-16,La Bohème,Italian,Puccini,10
+1436,2016-01-18,Turandot,Italian,Puccini,79
+1437,2016-01-19,La Bohème,Italian,Puccini,94
+1438,2016-01-22,Turandot,Italian,Puccini,79
+1439,2016-01-26,Turandot,Italian,Puccini,79
+1440,2016-01-29,Maria Stuarda,Italian,Donizetti,43
+1441,2016-01-30,Turandot,Italian,Puccini,79
+1442,2016-02-01,Maria Stuarda,Italian,Donizetti,43
+1443,2016-02-03,Il Trovatore,Italian,Verdi,75
+1444,2016-02-05,Maria Stuarda,Italian,Donizetti,43
+1445,2016-02-06,Il Trovatore,Italian,Verdi,71
+1446,2016-02-08,Maria Stuarda,Italian,Donizetti,43
+1447,2016-02-09,Il Trovatore,Italian,Verdi,71
+1448,2016-02-11,Maria Stuarda,Italian,Donizetti,41
+1449,2016-02-12,Manon Lescaut,French,Auber,97
+1450,2016-02-12,Manon Lescaut,Italian,Puccini,97
+1451,2016-02-13,Il Trovatore,Italian,Verdi,71
+1452,2016-02-15,Manon Lescaut,French,Auber,97
+1453,2016-02-15,Manon Lescaut,Italian,Puccini,97
+1454,2016-02-16,Maria Stuarda,Italian,Donizetti,43
+1455,2016-02-18,Manon Lescaut,French,Auber,97
+1456,2016-02-18,Manon Lescaut,Italian,Puccini,97
+1457,2016-02-20,Maria Stuarda,Italian,Donizetti,43
+1458,2016-02-24,Manon Lescaut,French,Auber,97
+1459,2016-02-24,Manon Lescaut,Italian,Puccini,97
+1460,2016-02-25,Le Nozze di Figaro,Italian,Mozart,133
+1461,2016-02-27,Manon Lescaut,French,Auber,97
+1462,2016-02-27,Manon Lescaut,Italian,Puccini,97
+1463,2016-02-29,Le Nozze di Figaro,Italian,Mozart,133
+1464,2016-03-01,Manon Lescaut,French,Auber,97
+1465,2016-03-01,Manon Lescaut,Italian,Puccini,97
+1466,2016-03-03,Le Nozze di Figaro,Italian,Mozart,133
+1467,2016-03-04,Don Pasquale,Italian,Donizetti,42
+1468,2016-03-05,Manon Lescaut,French,Auber,97
+1469,2016-03-05,Manon Lescaut,Italian,Puccini,97
+1470,2016-03-07,Le Nozze di Figaro,Italian,Mozart,133
+1471,2016-03-08,Manon Lescaut,French,Auber,97
+1472,2016-03-08,Manon Lescaut,Italian,Puccini,97
+1473,2016-03-09,Don Pasquale,Italian,Donizetti,42
+1474,2016-03-11,Manon Lescaut,French,Auber,97
+1475,2016-03-11,Manon Lescaut,Italian,Puccini,97
+1476,2016-03-12,Don Pasquale,Italian,Donizetti,42
+1477,2016-03-12,Le Nozze di Figaro,Italian,Mozart,133
+1478,2016-03-15,Don Pasquale,Italian,Donizetti,42
+1479,2016-03-16,Le Nozze di Figaro,Italian,Mozart,133
+1480,2016-03-18,Don Pasquale,Italian,Donizetti,42
+1481,2016-03-19,Le Nozze di Figaro,Italian,Mozart,138
+1482,2016-03-22,Le Nozze di Figaro,Italian,Mozart,136
+1483,2016-03-24,Roberto Devereux,Italian,Donizetti,154
+1484,2016-03-26,Le Nozze di Figaro,Italian,Mozart,136
+1485,2016-03-28,Roberto Devereux,Italian,Donizetti,154
+1486,2016-03-31,Roberto Devereux,Italian,Donizetti,146
+1487,2016-04-01,Simon Boccanegra,Italian,Verdi,120
+1488,2016-04-04,Roberto Devereux,Italian,Donizetti,132
+1489,2016-04-05,Simon Boccanegra,Italian,Verdi,120
+1490,2016-04-08,Roberto Devereux,Italian,Donizetti,154
+1491,2016-04-09,Simon Boccanegra,Italian,Verdi,120
+1492,2016-04-11,Roberto Devereux,Italian,Donizetti,149
+1493,2016-04-13,Simon Boccanegra,Italian,Verdi,120
+1494,2016-04-14,Elektra,German,Strauss,160
+1495,2016-04-15,La Bohème,Italian,Puccini,119
+1496,2016-04-16,Roberto Devereux,Italian,Donizetti,154
+1497,2016-04-16,Simon Boccanegra,Italian,Verdi,120
+1498,2016-04-18,Elektra,German,Strauss,138
+1499,2016-04-19,Roberto Devereux,Italian,Donizetti,185
+1500,2016-04-20,Otello,Italian,Rossini,165
+1501,2016-04-20,Otello,Italian,Verdi,165
+1502,2016-04-21,La Bohème,Italian,Puccini,119
+1503,2016-04-22,Die Entführung aus dem Serail,German,Mozart,32
+1504,2016-04-23,Elektra,German,Strauss,138
+1505,2016-04-23,Otello,Italian,Rossini,157
+1506,2016-04-23,Otello,Italian,Verdi,157
+1507,2016-04-25,La Bohème,Italian,Puccini,119
+1508,2016-04-26,Elektra,German,Strauss,139
+1509,2016-04-27,Die Entführung aus dem Serail,German,Mozart,32
+1510,2016-04-28,Otello,Italian,Rossini,157
+1511,2016-04-28,Otello,Italian,Verdi,157
+1512,2016-04-29,La Bohème,Italian,Puccini,119
+1513,2016-04-30,Die Entführung aus dem Serail,German,Mozart,24
+1514,2016-04-30,Elektra,German,Strauss,139
+1515,2016-05-02,Otello,Italian,Rossini,165
+1516,2016-05-02,Otello,Italian,Verdi,165
+1517,2016-05-03,Die Entführung aus dem Serail,German,Mozart,32
+1518,2016-05-04,Elektra,German,Strauss,139
+1519,2016-05-05,La Bohème,Italian,Puccini,119
+1520,2016-05-06,Otello,Italian,Rossini,165
+1521,2016-05-06,Otello,Italian,Verdi,165
+1522,2016-05-07,Die Entführung aus dem Serail,German,Mozart,32
+1523,2016-05-07,Elektra,German,Strauss,139
+1524,2016-09-26,Tristan und Isolde,German,Wagner,119
+1525,2016-09-27,Don Giovanni,Italian,Mozart,146
+1526,2016-09-28,La Bohème,Italian,Puccini,83
+1527,2016-09-30,Tristan und Isolde,German,Wagner,119
+1528,2016-10-01,Don Giovanni,Italian,Mozart,146
+1529,2016-10-01,La Bohème,Italian,Puccini,57
+1530,2016-10-03,Tristan und Isolde,German,Wagner,119
+1531,2016-10-05,Don Giovanni,Italian,Mozart,146
+1532,2016-10-06,La Bohème,Italian,Puccini,57
+1533,2016-10-08,Don Giovanni,Italian,Mozart,146
+1534,2016-10-08,Tristan und Isolde,German,Wagner,119
+1535,2016-10-10,La Bohème,Italian,Puccini,57
+1536,2016-10-11,Don Giovanni,Italian,Mozart,146
+1537,2016-10-13,Tristan und Isolde,German,Wagner,103
+1538,2016-10-14,La Bohème,Italian,Puccini,57
+1539,2016-10-15,Don Giovanni,Italian,Mozart,146
+1540,2016-10-17,Tristan und Isolde,German,Wagner,119
+1541,2016-10-18,Guillaume Tell,French,Rossini,145
+1542,2016-10-19,Don Giovanni,Italian,Mozart,146
+1543,2016-10-21,Guillaume Tell,French,Rossini,145
+1544,2016-10-22,Don Giovanni,Italian,Mozart,146
+1545,2016-10-24,Tristan und Isolde,German,Wagner,119
+1546,2016-10-25,Guillaume Tell,French,Rossini,145
+1547,2016-10-27,Tristan und Isolde,German,Wagner,119
+1548,2016-10-29,Guillaume Tell,French,Rossini,145
+1549,2016-11-01,Don Giovanni,Italian,Mozart,168
+1550,2016-11-02,Guillaume Tell,French,Rossini,148
+1551,2016-11-04,Don Giovanni,Italian,Mozart,168
+1552,2016-11-05,Aida,Italian,Verdi,21
+1553,2016-11-05,Guillaume Tell,French,Rossini,145
+1554,2016-11-09,Guillaume Tell,French,Rossini,145
+1555,2016-11-10,Don Giovanni,Italian,Mozart,168
+1556,2016-11-11,Aida,Italian,Verdi,17
+1557,2016-11-12,Guillaume Tell,French,Rossini,145
+1558,2016-11-14,Manon Lescaut,French,Auber,109
+1559,2016-11-14,Manon Lescaut,Italian,Puccini,109
+1560,2016-11-15,Aida,Italian,Verdi,17
+1561,2016-11-16,La Bohème,Italian,Puccini,127
+1562,2016-11-18,Manon Lescaut,French,Auber,109
+1563,2016-11-18,Manon Lescaut,Italian,Puccini,109
+1564,2016-11-19,Aida,Italian,Verdi,17
+1565,2016-11-19,La Bohème,Italian,Puccini,127
+1566,2016-11-21,Manon Lescaut,French,Auber,78
+1567,2016-11-21,Manon Lescaut,Italian,Puccini,78
+1568,2016-11-22,Aida,Italian,Verdi,28
+1569,2016-11-23,La Bohème,Italian,Puccini,127
+1570,2016-11-25,Manon Lescaut,French,Auber,109
+1571,2016-11-25,Manon Lescaut,Italian,Puccini,109
+1572,2016-11-26,Aida,Italian,Verdi,28
+1573,2016-11-26,La Bohème,Italian,Puccini,127
+1574,2016-11-29,La Bohème,Italian,Puccini,127
+1575,2016-11-30,Manon Lescaut,French,Auber,109
+1576,2016-11-30,Manon Lescaut,Italian,Puccini,109
+1577,2016-12-02,Aida,Italian,Verdi,28
+1578,2016-12-03,La Bohème,Italian,Puccini,127
+1579,2016-12-03,Manon Lescaut,French,Auber,109
+1580,2016-12-03,Manon Lescaut,Italian,Puccini,109
+1581,2016-12-05,Salome,German,Strauss,60
+1582,2016-12-07,Manon Lescaut,French,Auber,78
+1583,2016-12-07,Manon Lescaut,Italian,Puccini,78
+1584,2016-12-08,La Bohème,Italian,Puccini,111
+1585,2016-12-09,Salome,German,Strauss,60
+1586,2016-12-10,Manon Lescaut,French,Auber,78
+1587,2016-12-10,Manon Lescaut,Italian,Puccini,78
+1588,2016-12-12,Nabucco,Italian,Verdi,78
+1589,2016-12-13,Salome,German,Strauss,54
+1590,2016-12-16,Nabucco,Italian,Verdi,78
+1591,2016-12-17,Salome,German,Strauss,60
+1592,2016-12-19,Nabucco,Italian,Verdi,78
+1593,2016-12-20,Die Zauberflöte,German,Mozart,109
+1594,2016-12-22,Nabucco,Italian,Verdi,78
+1595,2016-12-23,Die Zauberflöte,German,Mozart,109
+1596,2016-12-24,Salome,German,Strauss,60
+1597,2016-12-26,Die Zauberflöte,German,Mozart,63
+1598,2016-12-27,Nabucco,Italian,Verdi,8
+1599,2016-12-28,Salome,German,Strauss,65
+1600,2016-12-29,Die Zauberflöte,German,Mozart,99
+1601,2016-12-30,Die Zauberflöte,German,Mozart,126
+1602,2016-12-30,Nabucco,Italian,Verdi,22
+1603,2017-01-02,Die Zauberflöte,German,Mozart,63
+1604,2017-01-03,Nabucco,Italian,Verdi,78
+1605,2017-01-05,Die Zauberflöte,German,Mozart,99
+1606,2017-01-06,La Bohème,Italian,Puccini,156
+1607,2017-01-07,Nabucco,Italian,Verdi,78
+1608,2017-01-09,Il Barbiere di Siviglia,Italian,Rossini,214
+1609,2017-01-11,La Bohème,Italian,Puccini,156
+1610,2017-01-13,Il Barbiere di Siviglia,Italian,Rossini,214
+1611,2017-01-14,La Bohème,Italian,Puccini,156
+1612,2017-01-18,Il Barbiere di Siviglia,Italian,Rossini,214
+1613,2017-01-19,Carmen,French,Bizet,20
+1614,2017-01-20,Rigoletto,Italian,Verdi,35
+1615,2017-01-21,Il Barbiere di Siviglia,Italian,Rossini,159
+1616,2017-01-23,Carmen,French,Bizet,20
+1617,2017-01-24,Il Barbiere di Siviglia,Italian,Rossini,165
+1618,2017-01-26,Rigoletto,Italian,Verdi,35
+1619,2017-01-27,Carmen,French,Bizet,20
+1620,2017-01-28,Il Barbiere di Siviglia,Italian,Rossini,207
+1621,2017-01-30,Rigoletto,Italian,Verdi,35
+1622,2017-01-31,Carmen,French,Bizet,20
+1623,2017-02-01,Il Barbiere di Siviglia,Italian,Rossini,207
+1624,2017-02-02,Rusalka,Czech,Dvorak,98
+1625,2017-02-03,Carmen,French,Bizet,4
+1626,2017-02-04,Il Barbiere di Siviglia,Italian,Rossini,207
+1627,2017-02-04,Rigoletto,Italian,Verdi,35
+1628,2017-02-06,Rusalka,Czech,Dvorak,98
+1629,2017-02-07,Carmen,French,Bizet,34
+1630,2017-02-08,Il Barbiere di Siviglia,Italian,Rossini,177
+1631,2017-02-09,Rusalka,Czech,Dvorak,98
+1632,2017-02-10,I Puritani,Italian,Bellini,154
+1633,2017-02-11,Carmen,French,Bizet,34
+1634,2017-02-11,Il Barbiere di Siviglia,Italian,Rossini,207
+1635,2017-02-13,Rusalka,Czech,Dvorak,77
+1636,2017-02-14,I Puritani,Italian,Bellini,136
+1637,2017-02-15,Carmen,French,Bizet,32
+1638,2017-02-16,Werther,French,Massenet,143
+1639,2017-02-17,Rusalka,Czech,Dvorak,98
+1640,2017-02-18,Carmen,French,Bizet,34
+1641,2017-02-18,I Puritani,Italian,Bellini,158
+1642,2017-02-20,Werther,French,Massenet,139
+1643,2017-02-21,Rusalka,Czech,Dvorak,98
+1644,2017-02-22,I Puritani,Italian,Bellini,158
+1645,2017-02-23,Werther,French,Massenet,126
+1646,2017-02-24,La Traviata,Italian,Verdi,94
+1647,2017-02-25,I Puritani,Italian,Bellini,158
+1648,2017-02-25,Rusalka,Czech,Dvorak,98
+1649,2017-02-27,Werther,French,Massenet,139
+1650,2017-02-28,I Puritani,Italian,Bellini,158
+1651,2017-03-01,La Traviata,Italian,Verdi,57
+1652,2017-03-02,Rusalka,Czech,Dvorak,98
+1653,2017-03-04,La Traviata,Italian,Verdi,94
+1654,2017-03-04,Werther,French,Massenet,139
+1655,2017-03-06,Idomeneo,Italian,Mozart,140
+1656,2017-03-07,La Traviata,Italian,Verdi,94
+1657,2017-03-09,Werther,French,Massenet,79
+1658,2017-03-10,Idomeneo,Italian,Mozart,161
+1659,2017-03-11,La Traviata,Italian,Verdi,94
+1660,2017-03-13,Idomeneo,Italian,Mozart,161
+1661,2017-03-14,La Traviata,Italian,Verdi,83
+1662,2017-03-16,Fidelio,German,Beethoven,119
+1663,2017-03-17,Idomeneo,Italian,Mozart,91
+1664,2017-03-18,La Traviata,Italian,Verdi,86
+1665,2017-03-20,Fidelio,German,Beethoven,119
+1666,2017-03-21,Idomeneo,Italian,Mozart,161
+1667,2017-03-22,La Traviata,Italian,Verdi,86
+1668,2017-03-23,Aida,Italian,Verdi,153
+1669,2017-03-24,Fidelio,German,Beethoven,119
+1670,2017-03-25,Idomeneo,Italian,Mozart,161
+1671,2017-03-25,La Traviata,Italian,Verdi,86
+1672,2017-03-27,Aida,Italian,Verdi,153
+1673,2017-03-28,Fidelio,German,Beethoven,119
+1674,2017-03-29,La Traviata,Italian,Verdi,68
+1675,2017-03-30,Eugene Onegin,Russian,Tchaikovsky,79
+1676,2017-03-31,Aida,Italian,Verdi,153
+1677,2017-04-01,Fidelio,German,Beethoven,119
+1678,2017-04-01,La Traviata,Italian,Verdi,68
+1679,2017-04-03,Eugene Onegin,Russian,Tchaikovsky,79
+1680,2017-04-04,La Traviata,Italian,Verdi,71
+1681,2017-04-05,Fidelio,German,Beethoven,163
+1682,2017-04-06,Aida,Italian,Verdi,153
+1683,2017-04-07,Eugene Onegin,Russian,Tchaikovsky,79
+1684,2017-04-08,Fidelio,German,Beethoven,163
+1685,2017-04-08,La Traviata,Italian,Verdi,104
+1686,2017-04-10,Aida,Italian,Verdi,162
+1687,2017-04-11,La Traviata,Italian,Verdi,74
+1688,2017-04-12,Eugene Onegin,Russian,Tchaikovsky,138
+1689,2017-04-13,Der Rosenkavalier,German,Strauss,338
+1690,2017-04-14,La Traviata,Italian,Verdi,104
+1691,2017-04-15,Aida,Italian,Verdi,162
+1692,2017-04-15,Eugene Onegin,Russian,Tchaikovsky,138
+1693,2017-04-17,Der Rosenkavalier,German,Strauss,286
+1694,2017-04-18,Eugene Onegin,Russian,Tchaikovsky,138
+1695,2017-04-19,Rigoletto,Italian,Verdi,42
+1696,2017-04-20,Aida,Italian,Verdi,128
+1697,2017-04-21,Der Rosenkavalier,German,Strauss,286
+1698,2017-04-22,Eugene Onegin,Russian,Tchaikovsky,138
+1699,2017-04-22,Rigoletto,Italian,Verdi,42
+1700,2017-04-24,Der Rosenkavalier,German,Strauss,288
+1701,2017-04-25,Der Fliegende Holländer,German,Wagner,85
+1702,2017-04-26,Don Giovanni,Italian,Mozart,138
+1703,2017-04-27,Rigoletto,Italian,Verdi,42
+1704,2017-04-28,Der Rosenkavalier,German,Strauss,283
+1705,2017-04-29,Der Fliegende Holländer,German,Wagner,81
+1706,2017-04-29,Don Giovanni,Italian,Mozart,138
+1707,2017-05-01,Der Rosenkavalier,German,Strauss,283
+1708,2017-05-02,Cyrano de Bergerac,Italian,Alfano,56
+1709,2017-05-03,Don Giovanni,Italian,Mozart,133
+1710,2017-05-04,Der Fliegende Holländer,German,Wagner,81
+1711,2017-05-05,Der Rosenkavalier,German,Strauss,288
+1712,2017-05-06,Cyrano de Bergerac,Italian,Alfano,56
+1713,2017-05-06,Don Giovanni,Italian,Mozart,138
+1714,2017-05-08,Der Fliegende Holländer,German,Wagner,81
+1715,2017-05-09,Der Rosenkavalier,German,Strauss,288
+1716,2017-05-10,Cyrano de Bergerac,Italian,Alfano,56
+1717,2017-05-11,Don Giovanni,Italian,Mozart,133
+1718,2017-05-12,Der Fliegende Holländer,German,Wagner,81
+1719,2017-05-13,Cyrano de Bergerac,Italian,Alfano,56
+1720,2017-05-13,Der Rosenkavalier,German,Strauss,288
+1721,2017-09-25,Norma,Italian,Bellini,136
+1722,2017-09-26,Les Contes d'Hoffmann,French,Offenbach,233
+1723,2017-09-27,Die Zauberflöte,German,Mozart,115
+1724,2017-09-28,Norma,Italian,Bellini,126
+1725,2017-09-30,Die Zauberflöte,German,Mozart,57
+1726,2017-09-30,Les Contes d'Hoffmann,French,Offenbach,233
+1727,2017-10-02,La Bohème,Italian,Puccini,151
+1728,2017-10-03,Norma,Italian,Bellini,136
+1729,2017-10-04,Les Contes d'Hoffmann,French,Offenbach,233
+1730,2017-10-05,Die Zauberflöte,German,Mozart,56
+1731,2017-10-06,La Bohème,Italian,Puccini,151
+1732,2017-10-07,Les Contes d'Hoffmann,French,Offenbach,233
+1733,2017-10-07,Norma,Italian,Bellini,136
+1734,2017-10-09,La Bohème,Italian,Puccini,151
+1735,2017-10-10,Die Zauberflöte,German,Mozart,57
+1736,2017-10-11,Norma,Italian,Bellini,136
+1737,2017-10-12,Turandot,Italian,Puccini,107
+1738,2017-10-13,Les Contes d'Hoffmann,French,Offenbach,233
+1739,2017-10-14,Die Zauberflöte,German,Mozart,83
+1740,2017-10-14,La Bohème,Italian,Puccini,125
+1741,2017-10-16,Norma,Italian,Bellini,116
+1742,2017-10-17,Turandot,Italian,Puccini,107
+1743,2017-10-18,Les Contes d'Hoffmann,French,Offenbach,166
+1744,2017-10-19,La Bohème,Italian,Puccini,113
+1745,2017-10-20,Norma,Italian,Bellini,158
+1746,2017-10-21,Les Contes d'Hoffmann,French,Offenbach,233
+1747,2017-10-21,Turandot,Italian,Puccini,107
+1748,2017-10-23,La Bohème,Italian,Puccini,147
+1749,2017-10-24,Les Contes d'Hoffmann,French,Offenbach,233
+1750,2017-10-25,Turandot,Italian,Puccini,107
+1751,2017-10-27,La Bohème,Italian,Puccini,169
+1752,2017-10-28,Les Contes d'Hoffmann,French,Offenbach,466
+1753,2017-10-28,Turandot,Italian,Puccini,99
+1754,2017-10-31,Turandot,Italian,Puccini,99
+1755,2017-11-01,La Bohème,Italian,Puccini,174
+1756,2017-11-04,La Bohème,Italian,Puccini,169
+1757,2017-11-04,Turandot,Italian,Puccini,107
+1758,2017-11-08,Turandot,Italian,Puccini,107
+1759,2017-11-11,Turandot,Italian,Puccini,107
+1760,2017-11-16,Turandot,Italian,Puccini,47
+1761,2017-11-25,Die Zauberflöte,German,Mozart,114
+1762,2017-11-30,Die Zauberflöte,German,Mozart,114
+1763,2017-12-01,Norma,Italian,Bellini,98
+1764,2017-12-04,Die Zauberflöte,German,Mozart,114
+1765,2017-12-05,Norma,Italian,Bellini,108
+1766,2017-12-06,Le Nozze di Figaro,Italian,Mozart,172
+1767,2017-12-07,Die Zauberflöte,German,Mozart,114
+1768,2017-12-08,Norma,Italian,Bellini,108
+1769,2017-12-09,Die Zauberflöte,German,Mozart,114
+1770,2017-12-09,Le Nozze di Figaro,Italian,Mozart,120
+1771,2017-12-11,Norma,Italian,Bellini,108
+1772,2017-12-12,Le Nozze di Figaro,Italian,Mozart,120
+1773,2017-12-15,Le Nozze di Figaro,Italian,Mozart,120
+1774,2017-12-16,Norma,Italian,Bellini,108
+1775,2017-12-18,Hänsel und Gretel,German,Humperdinck,120
+1776,2017-12-19,Le Nozze di Figaro,Italian,Mozart,120
+1777,2017-12-22,Hänsel und Gretel,German,Humperdinck,101
+1778,2017-12-23,Le Nozze di Figaro,Italian,Mozart,120
+1779,2017-12-26,Hänsel und Gretel,German,Humperdinck,120
+1780,2017-12-28,Hänsel und Gretel,German,Humperdinck,84
+1781,2017-12-29,Le Nozze di Figaro,Italian,Mozart,168
+1782,2017-12-30,Hänsel und Gretel,German,Humperdinck,120
+1783,2017-12-31,Tosca,Italian,Puccini,92
+1784,2018-01-01,Hänsel und Gretel,German,Humperdinck,120
+1785,2018-01-03,Tosca,Italian,Puccini,92
+1786,2018-01-04,Le Nozze di Figaro,Italian,Mozart,99
+1787,2018-01-06,Hänsel und Gretel,German,Humperdinck,120
+1788,2018-01-06,Tosca,Italian,Puccini,92
+1789,2018-01-09,Tosca,Italian,Puccini,92
+1790,2018-01-10,Le Nozze di Figaro,Italian,Mozart,168
+1791,2018-01-12,Tosca,Italian,Puccini,64
+1792,2018-01-13,Le Nozze di Figaro,Italian,Mozart,93
+1793,2018-01-15,Tosca,Italian,Puccini,92
+1794,2018-01-18,Tosca,Italian,Puccini,92
+1795,2018-01-19,Le Nozze di Figaro,Italian,Mozart,63
+1796,2018-01-22,Il Trovatore,Italian,Verdi,31
+1797,2018-01-23,Tosca,Italian,Puccini,92
+1798,2018-01-26,Il Trovatore,Italian,Verdi,31
+1799,2018-01-27,Tosca,Italian,Puccini,92
+1800,2018-01-30,Il Trovatore,Italian,Verdi,31
+1801,2018-02-03,Il Trovatore,Italian,Verdi,31
+1802,2018-02-05,Parsifal,German,Wagner,143
+1803,2018-02-06,Il Trovatore,Italian,Verdi,33
+1804,2018-02-09,Il Trovatore,Italian,Verdi,54
+1805,2018-02-10,Parsifal,German,Wagner,143
+1806,2018-02-12,Il Trovatore,Italian,Verdi,54
+1807,2018-02-13,Parsifal,German,Wagner,143
+1808,2018-02-15,Il Trovatore,Italian,Verdi,54
+1809,2018-02-16,La Bohème,Italian,Puccini,230
+1810,2018-02-17,Parsifal,German,Wagner,143
+1811,2018-02-19,Semiramide,Italian,Rossini,74
+1812,2018-02-20,Parsifal,German,Wagner,143
+1813,2018-02-21,La Bohème,Italian,Puccini,230
+1814,2018-02-23,Parsifal,German,Wagner,143
+1815,2018-02-24,La Bohème,Italian,Puccini,230
+1816,2018-02-24,Semiramide,Italian,Rossini,55
+1817,2018-02-27,Parsifal,German,Wagner,143
+1818,2018-02-28,Semiramide,Italian,Rossini,55
+1819,2018-03-01,Elektra,German,Strauss,50
+1820,2018-03-02,La Bohème,Italian,Puccini,202
+1821,2018-03-03,Semiramide,Italian,Rossini,74
+1822,2018-03-05,Elektra,German,Strauss,50
+1823,2018-03-06,Semiramide,Italian,Rossini,74
+1824,2018-03-07,La Bohème,Italian,Puccini,230
+1825,2018-03-09,Elektra,German,Strauss,58
+1826,2018-03-10,La Bohème,Italian,Puccini,230
+1827,2018-03-10,Semiramide,Italian,Rossini,74
+1828,2018-03-12,Elektra,German,Strauss,51
+1829,2018-03-14,Semiramide,Italian,Rossini,74
+1830,2018-03-17,Elektra,German,Strauss,50
+1831,2018-03-17,Semiramide,Italian,Rossini,48
+1832,2018-03-21,Turandot,Italian,Puccini,37
+1833,2018-03-22,Lucia di Lammermoor,Italian,Donizetti,111
+1834,2018-03-23,Elektra,German,Strauss,50
+1835,2018-03-24,Turandot,Italian,Puccini,37
+1836,2018-03-26,Lucia di Lammermoor,Italian,Donizetti,102
+1837,2018-03-28,Turandot,Italian,Puccini,37
+1838,2018-03-29,Luisa Miller,Italian,Verdi,148
+1839,2018-03-30,Lucia di Lammermoor,Italian,Donizetti,106
+1840,2018-03-31,Turandot,Italian,Puccini,37
+1841,2018-04-02,Luisa Miller,Italian,Verdi,148
+1842,2018-04-03,Lucia di Lammermoor,Italian,Donizetti,102
+1843,2018-04-05,Turandot,Italian,Puccini,69
+1844,2018-04-06,Luisa Miller,Italian,Verdi,160
+1845,2018-04-07,Lucia di Lammermoor,Italian,Donizetti,111
+1846,2018-04-09,Luisa Miller,Italian,Verdi,148
+1847,2018-04-11,Lucia di Lammermoor,Italian,Donizetti,143
+1848,2018-04-14,Lucia di Lammermoor,Italian,Donizetti,148
+1849,2018-04-14,Luisa Miller,Italian,Verdi,296
+1850,2018-04-18,Luisa Miller,Italian,Verdi,96
+1851,2018-04-21,Luisa Miller,Italian,Verdi,148
+1852,2018-04-21,Tosca,Italian,Puccini,134
+1853,2018-04-25,Lucia di Lammermoor,Italian,Donizetti,94
+1854,2018-04-26,Tosca,Italian,Puccini,134
+1855,2018-04-28,Lucia di Lammermoor,Italian,Donizetti,94
+1856,2018-04-30,Tosca,Italian,Puccini,134
+1857,2018-05-02,Lucia di Lammermoor,Italian,Donizetti,94
+1858,2018-05-04,Tosca,Italian,Puccini,87
+1859,2018-05-05,Lucia di Lammermoor,Italian,Donizetti,85
+1860,2018-05-08,Tosca,Italian,Puccini,49
+1861,2018-05-10,Lucia di Lammermoor,Italian,Donizetti,98
+1862,2018-05-12,Tosca,Italian,Puccini,49
