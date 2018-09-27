@@ -49,26 +49,29 @@ avail
 # At the end make sure to close
 HtmlFile.close
 
-# Iterate!
 
+
+# Iterate!
 page_date = []
 perf_date = []
 avail = []
 # We know this works I think, just have to get the iteration part down...
-HtmlFile = open('index.html', 'r', encoding='utf-8')
-source_code = HtmlFile.read()
-soup = BeautifulSoup(source_code, 'html.parser')
- # Have to do this first to make sure something is there to continue on
-try:
+
+for entry in os.scandir('/Users/katelyons/Downloads/rush/'):
+    if entry.is_dir():
+        continue
+    HtmlFile = open('index.html', 'r', encoding='utf-8')
+    source_code = HtmlFile.read()
+    soup = BeautifulSoup(source_code, 'html.parser')
+
 # Date of performance
     perf_date1 = soup.find('p', class_ = 'performance-list-day-text')
     perf_date2 = re.sub('<[^>]+>', '', str(perf_date1))
     perf_date3 = re.sub('\\n', '', str(perf_date2))
     perf_date4 = str.strip(perf_date3)
     perf_date5 = datetime.strptime(perf_date4, "%a, %b %d").strftime("%m-%d")
-    perf_date.append(strperf_date5)
-except:
-    perf_date1 = None
+    perf_date.append(str(perf_date5))
+
 
     # Date of scraping
     scripts = soup.find_all('script')
@@ -83,7 +86,6 @@ except:
     avail3 = re.sub('\\n', '', str(avail2))
     avail.append(avail3)
 
-rush_data = pd.DataFrame({'page_date': page_date,
-                           'perf_date': perf_date,
-                           'avail': avail})
+rush_data = pd.DataFrame({'page_date': page_date,'perf_date': perf_date,'avail': avail})
+
 rush_data
