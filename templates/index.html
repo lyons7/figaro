@@ -53,17 +53,18 @@
 
     <!-- Content -->
     <!-- Main Page -->
+
     <header class="masthead text-center text-white d-flex">
-      <div class="container my-auto">
+      <div class="container my-auto" style=>
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h1 class="text-uppercase">
+            <h1 class="bg-transparent text-uppercase">
               <strong>Figaro</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto text-center">
-            <p class="text-faded mb-5">Want to go to an opera but don't know where to start? Figaro is here to help!</p>
+            <p class="text mb-5">Want to go to an electrifying high-profile opera performance but don't know where to start? Figaro is here to help!</p>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Andiamo!</a>
           </div>
         </div>
@@ -75,11 +76,98 @@
     <section class="bg-primary" id="about">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">We've got what you need!</h2>
-            <hr class="light my-4">
-            <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+          <div class="col-lg-10 mx-auto text-center">
+            <h1 class="bf-transparent text-uppercase text-white"><strong>Let's go to the opera!</strong></h1>
+            <hr class="light my-8" text-center>
+            <p class="text-white mb-5">Make selections according to your preferences and Figaro will find the best high-profile performance for you.<br><strong>If you aren't sure or don't care about a specific option, you can leave it blank</strong>.</p>
+            <!-- This sends user to recommendations page after filling out the survey   -->
+            <form action='/recommendations', method='POST'>
+            <br>
+            <div class="col-lg-8 mx-auto text-center">
+            <!-- My first question -->
+              <div><p class="text-white mb-4">What kind of ending do you like?</p></div>
+              <select name="ending" id="ending" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Ending</option>
+                  <option value="ending_happy">Happy</option>
+                  <option value="ending_sad">Sad</option>
+                  <option value="ending_realistic">Realistic (neither)</option>
+              </select>
+              <br><br>
+
+              <div><p class="text-white mb-4">Do you need this performance to be kid-friendly?</p></div>
+              <select name="kid" id="kid" class="selectpicker form-control">
+                  <option value="kid_no">No</option>
+                  <option value="kid_yes">Yes</option>
+              </select>
+              <br><br>
+
+              <div><p class="text-white mb-4">How long of an opera are you comfortable with?<br>(This includes intermission!)</p></div>
+              <form>
+                <div class="form-group">
+                  <label for="formControlRange"><a class="text-white">1 hr.</a></label>
+                  <input type="range" min="60" max="400" step="1" />
+                  <label for="formControlRange"><a class="text-white">6 hr.</a></label>
+                </div>
+              </form>
+              <br><br>
+
+              <div><p class="text-white mb-4">Is there a composer you are particularly interested in?</p></div>
+              <select name="composer" id="composer" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Composer</option>
+                  <option value="composer_Bizet">Bizet</option>
+                  <option value="composer_Boito">Boito</option>
+                  <option value="composer_Cilea">Cilea</option>
+                  <option value="composer_Debussy">Debussy</option>
+                  <option value="composer_Donizetti">Donizetti</option>
+                  <option value="composer_Mozart">Mozart</option>
+                  <option value="composer_Muhly">Muhly</option>
+                  <option value="composer_Poulenc">Poulenc</option>
+                  <option value="composer_Puccini">Puccini</option>
+                  <option value="composer_Saint-Saëns">Saint-Saëns</option>
+                  <option value="composer_Tchaikovsky">Tchaikovsky</option>
+                  <option value="composer_Verdi">Verdi</option>
+                  <option value="composer_Wagner">Wagner</option>
+              </select>
+              <br><br>
+
+              <div><p class="text-white mb-4">Do you care what language it is sung in?<br>(Note: opera houses usually offer live subtitles in English)</p></div>
+              <select name="language" id="language" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Language</option>
+                  <option value="language_English">English</option>
+                  <option value="language_French">French</option>
+                  <option value="language_German">German</option>
+                  <option value="language_French">Italian</option>
+                  <option value="language_Russian">Russian</option>
+              </select>
+              <br><br>
+
+              <div><p class="text-white mb-4">What kind of story are you in the mood for?</strong></p></div>
+              <select name="story" id="story" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Story</option>
+                  <option value="story_drama">Drama</option>
+                  <option value="story_comedy">Comedy</option>
+                  <option value="story_fantasty">Fantasy</option>
+              </select>
+              <br><br>
+
+              <div><p class="text-white mb-4">Are you looking to go at a specific time?</strong></p></div>
+              <select name="month" id="month" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Month</option>
+                  <option value="month_September">September</option>
+                  <option value="month_October">October</option>
+                  <option value="month_November">November</option>
+                  <option value="month_December">December</option>
+                  <option value="month_January">January</option>
+                  <option value="month_February">February</option>
+                  <option value="month_March">March</option>
+                  <option value="month_April">April</option>
+                  <option value="month_May">May</option>
+              </select>
+              <br><br>
+
+              <br><br><br>
+              <button type="submit" class="btn btn-light btn-xl">Andiamo!</button>
+            </form>
           </div>
         </div>
       </div>
