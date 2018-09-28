@@ -1,56 +1,92 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
 
- .main {
- background-color: rgba(255, 255, 255, 0.5);
- margin-top: 100px;
- padding-bottom: 50px;
- }
- .main h1 {
- font-size: 3.5em;
- font-family: Arial;
- color: #2E3759;
- }
- .main h2 {
- font-size: 2em;
- font-family: Arial;
- color: #2E3759;
- }
- .main h3 {
- font-size: 2em;
- font-family: Arial;
- color: #2E3759;
- }
- .main p {
- font-size:1em;
- font-family: Arial;
- color: #2E3759;
- }
+  <head>
 
-</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Figaro - Find an opera for you!</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="/static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="/static/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/static/css/creative.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Figaro</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">Find An Opera</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#services">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Content -->
+    <!-- Main Page -->
+
+    <header class="masthead text-center text-white d-flex">
+      <div class="container my-auto" style=>
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h1 class="bg-transparent">
+              <strong>Check out this performance!</strong>
+            </h1>
+            <hr>
+          </div>
+          <div class="col-lg-8 mx-auto text-center">
+          {% for x in cos_sims %}
+            <div>
+              <p class="text-white mb-4">{{ x }}</p>
+            </div>
+          {% endfor %}
+          </div>
+        </div>
+      </div>
+    </header>
 
 
-<title>Title</title>
-</head>
-<body>
-<div class="main">
-  <div style="text-align:center">
-  <br><br>
-  <div class="starter-template">
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<br><br>
-<h3>You might like this florist!</h3>
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-<!-- This is the important part!!
-The following code is basically what reads your data and runs your function from app.py
-Don't forget the {% for x in whatever %} if you use a for loop and end the for loop with {% endfor %} -->
-  <div>
-    <a cos_sims ></a>
-  </div>
+  <!-- Custom scripts for this template -->
+  <script src="js/creative.min.js"></script>
 
-
-
-
-
-
-</div></div></div>
 </body>
+
+</html>
