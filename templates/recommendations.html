@@ -43,14 +43,11 @@
 <!-- This is the important part!!
 The following code is basically what reads your data and runs your function from app.py
 Don't forget the {% for x in whatever %} if you use a for loop and end the for loop with {% endfor %} -->
-  {% for x in cos_sims %}
   <div>
-
-    <!-- This gets the info from my florist_info database from app.py and outputs to the user -->
-    <a href="{{ florist_info[x]['link'] }}">
-    <img src="{{ florist_info[x]['img_src'] }}"></a>
+    <a cos_sims ></a>
   </div>
-  {% endfor %}
+
+
 
 
 

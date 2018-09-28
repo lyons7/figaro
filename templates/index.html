@@ -84,6 +84,7 @@
             <form action='/recommendations', method='POST'>
             <br>
             <div class="col-lg-8 mx-auto text-center">
+
             <!-- My first question -->
               <div><p class="text-white mb-4">What kind of ending do you like?</p></div>
               <select name="ending" id="ending" class="selectpicker form-control">
@@ -96,19 +97,17 @@
 
               <div><p class="text-white mb-4">Do you need this performance to be kid-friendly?</p></div>
               <select name="kid" id="kid" class="selectpicker form-control">
-                  <option value="kid_no">No</option>
-                  <option value="kid_yes">Yes</option>
+                  <option value="0">No</option>
+                  <option value="1">Yes</option>
               </select>
               <br><br>
 
               <div><p class="text-white mb-4">How long of an opera are you comfortable with?<br>(This includes intermission!)</p></div>
-              <form>
-                <div class="form-group">
+                <div name="length" id="length" class="input">
                   <label for="formControlRange"><a class="text-white">1 hr.</a></label>
                   <input type="range" min="60" max="400" step="1" />
                   <label for="formControlRange"><a class="text-white">6 hr.</a></label>
                 </div>
-              </form>
               <br><br>
 
               <div><p class="text-white mb-4">Is there a composer you are particularly interested in?</p></div>
