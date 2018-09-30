@@ -165,3 +165,25 @@ for item in pages:
 # Create a master data frame when we are all finished!
 masterDF = pd.concat(dfs, ignore_index=True)
 masterDF
+
+# Put this in our database_exists
+os.chdir("/Users/katelyons/Documents/Insight/figaro/data")
+from sql import dbname, username
+
+## 'engine' is a connection to a database
+## Here, we're using postgres, but sqlalchemy can connect to other things too.
+engine = create_engine('postgres://%s@localhost/%s'%(username,dbname))
+print(engine.url)
+
+# Connect to make queries using psycopg2
+con = None
+con = psycopg2.connect(database = dbname, user = username)
+
+# Get rid of performances we aren't interested in
+masterDF3 = masterDF[masterDF['CID'].str.contains("Performance")]
+masterDF3
+
+met_archive = masterDF
+# Make sure to get rid of whitespace
+# met_archive.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+met_archive.to_sql('met_archive_one', engine, if_exists='replace')
