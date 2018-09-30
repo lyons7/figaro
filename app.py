@@ -10,7 +10,6 @@ from sklearn.preprocessing import StandardScaler
 # pd.options.display.max_columns=25
 import distance
 import datetime
-import difflib
 
 app = Flask(__name__)
 @app.route('/', methods=['GET', 'POST'])
