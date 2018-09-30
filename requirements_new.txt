@@ -81,9 +81,12 @@ glib=2.56.1=h35bc53a_0
 glob2=0.6=py36h94c9186_0
 gmp=6.1.2=hb37e062_1
 gmpy2=2.0.8=py36hf9c35bd_2
+graphite2=1.3.12=h2098e52_2
+graphviz=2.40.1=h0a44026_0
 greenlet=0.4.13=py36h1de35cc_0
 gunicorn=19.9.0=py36_0
 h5py=2.8.0=py36h967a92a_0
+harfbuzz=1.7.6=h171471c_1
 hdf4=4.2.13=h39711bb_2
 hdf5=1.8.18=h017327d_1
 heapdict=1.0.0=py36_2
@@ -181,6 +184,7 @@ packaging=17.1=py36_0
 pandas=0.23.4=py36h6440ff4_0
 pandoc=1.19.2.1=ha5e8f32_1
 pandocfilters=1.4.2=py36h3b0b094_1
+pango=1.41.0=h3bae10e_0
 parso=0.2.0=py36_0
 partd=0.3.8=py36hf5c4cb8_0
 path.py=11.0.1=py36_0
@@ -209,6 +213,7 @@ pycosat=0.6.3=py36hee92d8f_0
 pycparser=2.18=py36h724b2fc_1
 pycrypto=2.6.1=py36h1de35cc_8
 pycurl=7.43.0.1=py36hdbc3d79_0
+pydot=1.2.4=py36_0
 pyflakes=1.6.0=py36hea45e83_0
 pygments=2.2.0=py36h240cd3f_0
 pyjwt=1.6.4=py_0
@@ -264,6 +269,7 @@ sortedcontainers=1.5.10=py36_0
 sphinx=1.7.4=py36_0
 sphinxcontrib=1.0=py36h9364dc8_1
 sphinxcontrib-websupport=1.0.1=py36h92f4a7a_1
+spotipy=2.4.4=py36h707520a_0
 spyder=3.2.8=py36_0
 sqlalchemy=1.2.11=py36h1de35cc_0
 sqlite=3.24.0=ha441bb4_0

@@ -7,8 +7,7 @@ from sklearn.metrics import jaccard_similarity_score
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import linear_kernel
 from sklearn.preprocessing import StandardScaler
-pd.options.display.max_columns=25
-import os
+# pd.options.display.max_columns=25
 import distance
 import datetime
 import difflib
@@ -28,7 +27,7 @@ def recommendations():
 
     # Capitalize somethings
     predicts['ending'] = predicts.ending.str.title()
-    predicts
+    # predicts
 
     # Put input from user into some kind of format
     ending = str(request.form['ending'])
@@ -70,10 +69,12 @@ def recommendations():
     for i in predict_list:
         sim_score1 = jaccard_similarity_score(i, new_list, normalize=False)
         sim_score.append(str(sim_score1))
+
     # Put these back with original df
     se = pd.Series(sim_score)
     predicts['sim_score'] = se.values
-    reco = predicts.sort_values(['sim_score', 'popularity_predictions'])
+    reco = predicts.sort_values(by=['sim_score', 'popularity_predictions'])
+    reco = reco.reindex()
     cos_sims1 = reco.tail(1)
     cos_sims = cos_sims1.values.tolist()
     # cos_sims
