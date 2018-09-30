@@ -267,3 +267,4 @@ new_season
 
 # Sort from highest to lowest
 new_season.sort_values('popularity_predictions')
+new_season.to_csv('met_predictions.csv')
