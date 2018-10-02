@@ -15,6 +15,7 @@ np.random.seed(0)
 import datetime
 from time import gmtime, strftime
 from sklearn.model_selection import train_test_split
+import os
 
 
 # Get data and put in data frame from SQL database
@@ -32,7 +33,7 @@ con = psycopg2.connect(database = dbname, user = username)
 
 # query:
 # What we are doing here is saying give me everything from the artist data set that matches up with artist entries in the Met Archives -- if there is no match, return NAs
-sql_query = """SELECT met_archive.*, artist_data.artist_popularity, artist_data.spotify_id FROM met_archive LEFT JOIN artist_data ON met_archive.artist = artist_data.artist;"""
+sql_query = """SELECT met_archive.*, rankings.popularity_score FROM met_archive LEFT JOIN rankings ON met_archive.artist = rankings.artist;"""
 data = pd.read_sql_query(sql_query,con)
 
 # Deal with NAs --> need to turn them into 0s?
@@ -41,22 +42,22 @@ data = pd.read_sql_query(sql_query,con)
 sql_query = """SELECT opera_info.opera, opera_info.composer, opera_info.language FROM opera_info;"""
 opera_info = pd.read_sql_query(sql_query,con)
 opera_info = opera_info.drop_duplicates()
-opera_info
+# opera_info
 # put these together
 # Have to clean
 data['opera'] = data['opera'].str.strip()
 df = data.merge(opera_info, how='left', on = 'opera')
 
 # Get columns we want:
-df = df[['role','opera', 'artist', 'date', 'CID', 'artist_popularity', 'composer', 'language']]
+df = df[['role','opera', 'artist', 'date', 'CID', 'popularity_score', 'composer', 'language']]
 # Want to collapse by opera and not have artist data atm
 # Get rid of entries we have no info for
 df = df.dropna()
 # Popularity score
-df['artist_popularity'] = df['artist_popularity'].astype(str).astype(int)
+# df['popularity_score'] = df['popularity_score'].astype(str).astype(int)
 
 # Collapse these
-df = df.groupby(['date', 'opera', 'language', 'composer'],as_index=False).agg({'artist_popularity': 'sum'})
+df = df.groupby(['date', 'opera', 'language', 'composer'],as_index=False).agg({'popularity_score': 'sum'})
 
 # Make date date
 df['date']  = pd.to_datetime(df['date'])
@@ -79,10 +80,10 @@ df['year'],df['month'] = df.date.dt.year, df.date.dt.month
 features = pd.get_dummies(df)
 
 # Labels are the values we want to predict
-labels = np.array(features['artist_popularity'])
+labels = np.array(features['popularity_score'])
 # Remove the labels from the features
 # axis 1 refers to the columns
-features= features.drop('artist_popularity', axis = 1)
+features= features.drop('popularity_score', axis = 1)
 features= features.drop('date', axis = 1)
 
 # Saving feature names for later use
@@ -189,7 +190,7 @@ new_season['day_of_week'] = new_season['date'].dt.day_name()
 new_season['week'] = new_season['date'].dt.strftime('%V')
 
 # Empty popularity column
-new_season["artist_popularity"] = 0
+new_season["popularity_score"] = 0
 # Make sure this is an integer
 new_season['week'] = new_season['week'].astype(str).astype(int)
 
@@ -202,9 +203,11 @@ new_season = new_season.drop('date', axis = 1)
 old_season = df.drop('date', axis = 1)
 old_season['label'] = 'train'
 new_season['label'] = 'score'
-old_season['artist_popularity'] = old_season['artist_popularity'].astype(str).astype(int)
+# old_season['popularity_score'] = old_season['popularity_score'].astype(str).astype(int)
 
-concat_df = pd.concat([old_season , new_season])
+concat_df = pd.concat([old_season , new_season], sort=True)
+# concat_df
+
 
 # Create your dummies
 
@@ -223,10 +226,10 @@ score_df = score_df.drop('label_train', axis=1)
 
 # Start again
 # Labels are the values we want to predict
-labels = np.array(train_df['artist_popularity'])
+labels = np.array(train_df['popularity_score'])
 # Remove the labels from the features
 # axis 1 refers to the columns
-train_df= train_df.drop('artist_popularity', axis = 1)
+train_df= train_df.drop('popularity_score', axis = 1)
 
 # Saving feature names for later use
 train_df_list = list(train_df.columns)
@@ -259,12 +262,14 @@ print('Accuracy:', round(accuracy, 2), '%.')
 
 # NOW PREDICT ON ACTUAL SCORES
 # You have to do to score df the same stuff to get it into an array
-score_df1= score_df.drop('artist_popularity', axis = 1)
+score_df1= score_df.drop('popularity_score', axis = 1)
 score_df_test = np.array(score_df1)
 predictions = rf.predict(score_df_test)
 new_season["popularity_predictions"] = predictions
-new_season
+# new_season
 
 # Sort from highest to lowest
 new_season.sort_values('popularity_predictions')
 new_season.to_csv('met_predictions.csv')
+
+con.close()
