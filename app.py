@@ -31,7 +31,7 @@ def recommendations():
     # Put input from user into some kind of format
     ending = str(request.form['ending'])
     kid = str(request.form['kid'])
-    # length = int(request.form['length'])
+    length = int(request.form['length'])
     composer = str(request.form['composer'])
     language = str(request.form['language'])
     story = str(request.form['story'])
@@ -45,16 +45,29 @@ def recommendations():
     # language = str('Italian')
     # story = str('')
     # month = str('January')
+    #230
+    if length == 230:
+        length = ''
+    else:
+        # Have to fix length so that it fits in a category
+        # Help from here: https://stackoverflow.com/questions/30112202/how-do-i-find-the-closest-values-in-a-pandas-series-to-an-input-number
+        times = predicts['length']
+        times = pd.DataFrame(times).reset_index()
+        times = times[['length']]
 
-    # new_df = pd.DataFrame({'ending':[ending],'kid':[kid],'length':[length], 'composer':[composer], 'language':[language], 'story':[story], 'month':[month]})
-    new_df = pd.DataFrame({'ending':[ending],'kid':[kid], 'composer':[composer], 'language':[language], 'story':[story], 'month':[month]})
+        times_sort = times.iloc[(times['length']-length).abs().argsort()[:1]]
+        length = times_sort['length'].tolist()
+        length = int(length[0])
+
+    new_df = pd.DataFrame({'ending':[ending],'kid':[kid],'length':[length], 'composer':[composer], 'language':[language], 'story':[story], 'month':[month]})
+    # new_df = pd.DataFrame({'ending':[ending],'kid':[kid], 'composer':[composer], 'language':[language], 'story':[story], 'month':[month]})
 
     # Start figuring out recommendation process
     new_list1 = new_df.values.tolist()
     new_list=new_list1[0]
 
-    # special = predicts[['ending','kid','length','composer','language','story','month']]
-    special = predicts[['ending','kid','composer','language','story','month']]
+    special = predicts[['ending','kid','length','composer','language','story','month']]
+    # special = predicts[['ending','kid','composer','language','story','month']]
     predict_list = special.values.tolist()
     # Test how this works
     # gruf = predict_list[1]
@@ -74,7 +87,7 @@ def recommendations():
     predicts['sim_score'] = se.values
     reco = predicts.sort_values(by=['sim_score', 'popularity_predictions'])
     reco = reco.reindex()
-    cos_sims1 = reco.tail(1)
+    cos_sims1 = reco.tail(3)
     cos_sims = cos_sims1.values.tolist()
     # cos_sims
     # for x in cos_sims:

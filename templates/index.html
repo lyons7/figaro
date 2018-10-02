@@ -79,7 +79,7 @@
           <div class="col-lg-10 mx-auto text-center">
             <h1 class="bf-transparent text-uppercase text-white"><strong>Let's go to the opera!</strong></h1>
             <hr class="light my-8" text-center>
-            <p class="text-white mb-5">Make selections according to your preferences and Figaro will find the best high-profile performance for you.<br><strong>If you aren't sure or don't care about a specific option, you can leave it blank</strong>.</p>
+            <p class="text-white mb-5">Make selections according to your preferences and Figaro will find the best high-profile performance for you.<br><strong>If you aren't sure or don't care about a specific option, you can leave it blank / as is</strong>.</p>
             <!-- This sends user to recommendations page after filling out the survey   -->
             <form action='/recommendations', method='POST'>
             <br>
@@ -97,18 +97,29 @@
 
               <div><p class="text-white mb-4">Do you need this performance to be kid-friendly?</p></div>
               <select name="kid" id="kid" class="selectpicker form-control">
+                  <option selected="selected" value = ''>Select Option</option>
                   <option value="0">No</option>
                   <option value="1">Yes</option>
               </select>
               <br><br>
 
-              <div><p class="text-white mb-4">How long of an opera are you comfortable with?<br>(This includes intermission!)</p></div>
-                <div name="length" id="length" class="input">
+
+              <div><p class="text-white mb-4" id="insertinputs">How long of an opera are you comfortable with?<br>(This includes intermission!)</p></div>
+                <div class="slidecontainer">
                   <label for="formControlRange"><a class="text-white">1 hr.</a></label>
-                  <input type="range" min="60" max="400" step="1" />
+                  <input type="range" min="60" max="400" class="slider" id="length" name="length">
                   <label for="formControlRange"><a class="text-white">6 hr.</a></label>
                 </div>
               <br><br>
+
+<script>
+var slider = document.getElementById("length");
+var output = document.getElementById("demo");
+output.innerHTML = slider.value;
+slider.oninput = function() {
+  output.innerHTML = this.value;
+}
+</script>
 
               <div><p class="text-white mb-4">Is there a composer you are particularly interested in?</p></div>
               <select name="composer" id="composer" class="selectpicker form-control">
