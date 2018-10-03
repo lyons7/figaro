@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_from_directory
 import requests
 import pandas as pd
 import numpy as np
@@ -117,6 +117,10 @@ def recommendations():
 
     # return render_template('recommendations.html', cos_sims = cos_sims, florist_info = florist_info)
 
+# To have a favicon image in some browsers
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico')
 
 if __name__ == '__main__':
     #this runs your app locally
