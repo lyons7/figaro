@@ -1,208 +1,208 @@
-opera,language,composer,day_of_week,week,year,month,label,popularity_predictions,length,ending,story,kid
-Tosca,Italian,Puccini,Friday,13,2019,3,score,4139.188,173,sad,Drama,0
-Carmen,French,Bizet,Saturday,2,2019,1,score,4153.945,201,sad,Drama,0
-Tosca,Italian,Puccini,Tuesday,13,2019,3,score,4235.904,173,sad,Drama,0
-Tosca,Italian,Puccini,Tuesday,14,2019,4,score,4245.652,173,sad,Drama,0
-Carmen,French,Bizet,Tuesday,5,2019,1,score,4342.807,201,sad,Drama,0
-Tosca,Italian,Puccini,Saturday,12,2019,3,score,4351.43,173,sad,Drama,0
-Tosca,Italian,Puccini,Saturday,14,2019,4,score,4361.496,173,sad,Drama,0
-Aida,Italian,Verdi,Friday,2,2019,1,score,4362.786,200,sad,Drama,0
-Carmen,French,Bizet,Saturday,4,2019,1,score,4367.629,201,sad,Drama,0
-Aida,Italian,Verdi,Friday,3,2019,1,score,4375.138,200,sad,Drama,0
-La Bohème,Italian,Puccini,Tuesday,39,2018,9,score,4400.749,176,sad,Drama,0
-Tosca,Italian,Puccini,Monday,12,2019,3,score,4443.648,173,sad,Drama,0
-Aida,Italian,Verdi,Monday,2,2019,1,score,4488.005,200,sad,Drama,0
-Carmen,French,Bizet,Monday,4,2019,1,score,4493.622,201,sad,Drama,0
-Aida,Italian,Verdi,Monday,3,2019,1,score,4501.484,200,sad,Drama,0
-Tosca,Italian,Puccini,Friday,44,2018,11,score,4601.932,173,sad,Drama,0
-Tosca,Italian,Puccini,Friday,45,2018,11,score,4606.494,173,sad,Drama,0
-Tosca,Italian,Puccini,Saturday,46,2018,11,score,4641.33,173,sad,Drama,0
-La Bohème,Italian,Puccini,Saturday,39,2018,9,score,4647,176,sad,Drama,0
-Tosca,Italian,Puccini,Monday,44,2018,10,score,4657.331,173,sad,Drama,0
-Tosca,Italian,Puccini,Tuesday,46,2018,11,score,4657.385,173,sad,Drama,0
-Suor Angelica,Italian,Puccini,Friday,47,2018,11,score,4682.268,226,sad,Drama,0
-Tosca,Italian,Puccini,Thursday,43,2018,10,score,4698.938,173,sad,Drama,0
-Suor Angelica,Italian,Puccini,Monday,48,2018,11,score,4700.533,226,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Tuesday,43,2018,10,score,4700.963,202,sad,Drama,0
-Tosca,Italian,Puccini,Monday,45,2018,11,score,4757.663,173,sad,Drama,0
-Suor Angelica,Italian,Puccini,Friday,48,2018,11,score,4763.437,226,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Saturday,42,2018,10,score,4800.154,202,sad,Drama,0
-Suor Angelica,Italian,Puccini,Saturday,49,2018,12,score,4818.498,226,sad,Drama,0
-Carmen,French,Bizet,Thursday,3,2019,1,score,4856.532,201,sad,Drama,0
-Suor Angelica,Italian,Puccini,Wednesday,49,2018,12,score,4867.817,226,sad,Drama,0
-Aida,Italian,Verdi,Thursday,10,2019,3,score,4913.011,200,sad,Drama,0
-Mefistofele,Italian,Boito,Thursday,45,2018,11,score,4930.705,209,sad,Drama,0
-La Bohème,Italian,Puccini,Thursday,48,2018,11,score,4935.778,176,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Thursday,40,2018,10,score,4940.641,202,sad,Drama,0
-Pelléas et Mélisande,French,Debussy,Friday,4,2019,1,score,4968.051,235,sad,Drama,0
-Suor Angelica,Italian,Puccini,Saturday,50,2018,12,score,4978.529,226,sad,Drama,0
-Aida,Italian,Verdi,Monday,10,2019,3,score,4980.308,200,sad,Drama,0
-Rigoletto,Italian,Verdi,Saturday,10,2019,3,score,4981.641,191,sad,Drama,0
-La Bohème,Italian,Puccini,Monday,49,2018,12,score,5006.064,176,sad,Drama,0
-Pelléas et Mélisande,French,Debussy,Thursday,5,2019,1,score,5010.461,235,sad,Drama,0
-Rigoletto,Italian,Verdi,Friday,9,2019,3,score,5010.959,191,sad,Drama,0
-La Bohème,Italian,Puccini,Thursday,49,2018,12,score,5017.305,176,sad,Drama,0
-Mefistofele,Italian,Boito,Tuesday,48,2018,11,score,5028.769,209,sad,Drama,0
-Mefistofele,Italian,Boito,Saturday,47,2018,11,score,5033.585,209,sad,Drama,0
-Mefistofele,Italian,Boito,Monday,46,2018,11,score,5035.17,209,sad,Drama,0
-Aida,Italian,Verdi,Thursday,9,2019,2,score,5035.768,200,sad,Drama,0
-La Bohème,Italian,Puccini,Monday,50,2018,12,score,5056.095,176,sad,Drama,0
-Mefistofele,Italian,Boito,Monday,47,2018,11,score,5065.199,209,sad,Drama,0
-Pelléas et Mélisande,French,Debussy,Tuesday,3,2019,1,score,5079.479,235,sad,Drama,0
-Suor Angelica,Italian,Puccini,Wednesday,50,2018,12,score,5081.903,226,sad,Drama,0
-Carmen,French,Bizet,Friday,6,2019,2,score,5090.225,201,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Friday,41,2018,10,score,5098.426,202,sad,Drama,0
-La Bohème,Italian,Puccini,Thursday,50,2018,12,score,5101.847,176,sad,Drama,0
-Otello,Italian,Verdi,Friday,50,2018,12,score,5108.477,175,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,15,2019,4,score,5112.604,187,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,16,2019,4,score,5127.001,187,sad,Drama,0
-Mefistofele,Italian,Boito,Friday,46,2018,11,score,5140.78,209,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Wednesday,42,2018,10,score,5146.908,202,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Saturday,43,2018,10,score,5150.896,202,sad,Drama,0
-Otello,Italian,Verdi,Monday,51,2018,12,score,5154.35,175,sad,Drama,0
-Aida,Italian,Verdi,Tuesday,40,2018,10,score,5155.755,200,sad,Drama,0
-Mefistofele,Italian,Boito,Saturday,48,2018,12,score,5170.607,209,sad,Drama,0
-Otello,Italian,Verdi,Friday,51,2018,12,score,5171.599,175,sad,Drama,0
-Carmen,French,Bizet,Tuesday,6,2019,2,score,5191.948,201,sad,Drama,0
-Rigoletto,Italian,Verdi,Friday,11,2019,3,score,5198.07,191,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Wednesday,3,2019,1,score,5233.484,213,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,17,2019,4,score,5242.249,187,sad,Drama,0
-Aida,Italian,Verdi,Wednesday,39,2018,9,score,5271.454,200,sad,Drama,0
-La fanciulla del West,Italian,Puccini,Monday,41,2018,10,score,5273.304,202,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Saturday,2,2019,1,score,5282.351,213,sad,Drama,0
-Otello,Italian,Verdi,Friday,52,2018,12,score,5292.471,175,sad,Drama,0
-Rigoletto,Italian,Verdi,Wednesday,12,2019,3,score,5298.853,191,sad,Drama,0
-Otello,Italian,Verdi,Saturday,1,2019,1,score,5301.077,175,sad,Drama,0
-Pelléas et Mélisande,French,Debussy,Saturday,3,2019,1,score,5302.441,235,sad,Drama,0
-Die Zauberflöte,English,Mozart,Tuesday,1,2019,1,score,5303.709,102,happy,Fantasy,1
-Aida,Italian,Verdi,Thursday,42,2018,10,score,5306.844,200,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Saturday,3,2019,1,score,5311.383,213,sad,Drama,0
-Pelléas et Mélisande,French,Debussy,Tuesday,4,2019,1,score,5313.833,235,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Saturday,4,2019,1,score,5328.706,213,sad,Drama,0
-Aida,Italian,Verdi,Thursday,41,2018,10,score,5339.332,200,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,50,2018,12,score,5342.286,187,sad,Drama,0
-La Bohème,Italian,Puccini,Saturday,40,2018,10,score,5348.318,176,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,51,2018,12,score,5348.367,187,sad,Drama,0
-Otello,Italian,Verdi,Wednesday,1,2019,1,score,5349.309,175,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Wednesday,4,2019,1,score,5351.926,213,sad,Drama,0
-La Traviata,Italian,Verdi,Tuesday,49,2018,12,score,5355.96,187,sad,Drama,0
-La Fille du régiment,French,Donizetti,Saturday,8,2019,2,score,5359.005,155,happy,Comedy,1
-La Traviata,Italian,Verdi,Wednesday,15,2019,4,score,5362.65,187,sad,Drama,0
-Otello,Italian,Verdi,Thursday,2,2019,1,score,5368.141,175,sad,Drama,0
-La Traviata,Italian,Verdi,Wednesday,16,2019,4,score,5385.574,187,sad,Drama,0
-La Traviata,Italian,Verdi,Wednesday,17,2019,4,score,5391.822,187,sad,Drama,0
-La Traviata,Italian,Verdi,Saturday,52,2018,12,score,5395.75,187,sad,Drama,0
-La Traviata,Italian,Verdi,Tuesday,50,2018,12,score,5401.681,187,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Tuesday,2,2019,1,score,5411.661,213,sad,Drama,0
-Adriana Lecouvreur,Italian,Cilea,Friday,1,2019,1,score,5421.944,213,sad,Drama,0
-Die Zauberflöte,English,Mozart,Saturday,1,2019,1,score,5430.473,102,happy,Fantasy,1
-La Clemenza di Tito,Italian,Mozart,Saturday,14,2019,4,score,5434.13,172,happy,Drama,0
-La Clemenza di Tito,Italian,Mozart,Thursday,15,2019,4,score,5437.7,172,happy,Drama,0
-Aida,Italian,Verdi,Monday,42,2018,10,score,5438.91,200,sad,Drama,0
-La Traviata,Italian,Verdi,Wednesday,52,2018,12,score,5439.876,187,sad,Drama,0
-La Fille du régiment,French,Donizetti,Saturday,9,2019,3,score,5452.607,155,happy,Comedy,1
-La Fille du régiment,French,Donizetti,Monday,7,2019,2,score,5454.156,155,happy,Comedy,1
-La Clemenza di Tito,Italian,Mozart,Saturday,16,2019,4,score,5457.16,172,happy,Drama,0
-La Fille du régiment,French,Donizetti,Monday,8,2019,2,score,5468.01,155,happy,Comedy,1
-La Clemenza di Tito,Italian,Mozart,Tuesday,16,2019,4,score,5469.043,172,happy,Drama,0
-La Clemenza di Tito,Italian,Mozart,Saturday,13,2019,3,score,5503.332,172,happy,Drama,0
-La Fille du régiment,French,Donizetti,Friday,7,2019,2,score,5504.012,155,happy,Comedy,1
-La Bohème,Italian,Puccini,Wednesday,40,2018,10,score,5507.834,176,sad,Drama,0
-Die Zauberflöte,English,Mozart,Thursday,1,2019,1,score,5531.678,102,happy,Fantasy,1
-La Traviata,Italian,Verdi,Friday,14,2019,4,score,5552.38,187,sad,Drama,0
-La Traviata,Italian,Verdi,Tuesday,51,2018,12,score,5553.947,187,sad,Drama,0
-La Bohème,Italian,Puccini,Saturday,41,2018,10,score,5556.13,176,sad,Drama,0
-La Clemenza di Tito,Italian,Mozart,Wednesday,14,2019,4,score,5565.069,172,happy,Drama,0
-La Fille du régiment,French,Donizetti,Tuesday,9,2019,2,score,5565.202,155,happy,Comedy,1
-Falstaff,Italian,Verdi,Wednesday,9,2019,2,score,5565.705,156,happy,Comedy,0
-Falstaff,Italian,Verdi,Saturday,9,2019,3,score,5567.324,156,happy,Comedy,0
-Adriana Lecouvreur,Italian,Cilea,Monday,1,2018,12,score,5598.972,213,sad,Drama,0
-Rigoletto,Italian,Verdi,Saturday,18,2019,5,score,5606.086,191,sad,Drama,0
-Aida,Italian,Verdi,Saturday,39,2018,9,score,5627.929,200,sad,Drama,0
-La Fille du régiment,French,Donizetti,Thursday,6,2019,2,score,5633.976,155,happy,Comedy,1
-La Bohème,Italian,Puccini,Wednesday,41,2018,10,score,5637.636,176,sad,Drama,0
-La Traviata,Italian,Verdi,Friday,49,2018,12,score,5645.881,187,sad,Drama,0
-Rigoletto,Italian,Verdi,Tuesday,7,2019,2,score,5672.433,191,sad,Drama,0
-Die Zauberflöte,English,Mozart,Monday,52,2018,12,score,5679.928,102,happy,Fantasy,1
-Rigoletto,Italian,Verdi,Saturday,7,2019,2,score,5681.391,191,sad,Drama,0
-Rigoletto,Italian,Verdi,Friday,17,2019,4,score,5698.108,191,sad,Drama,0
-Carmen,French,Bizet,Saturday,5,2019,2,score,5711.173,201,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Wednesday,11,2019,3,score,5730.369,200,sad,Drama,0
-Aida,Italian,Verdi,Saturday,40,2018,10,score,5735.231,200,sad,Drama,0
-Don Giovanni,Italian,Mozart,Saturday,5,2019,2,score,5745.53,205,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Saturday,11,2019,3,score,5746.537,200,sad,Drama,0
-Rigoletto,Italian,Verdi,Wednesday,18,2019,5,score,5749.969,191,sad,Drama,0
-Don Giovanni,Italian,Mozart,Wednesday,5,2019,1,score,5752.228,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Saturday,6,2019,2,score,5754.425,205,sad,Drama,0
-Rigoletto,Italian,Verdi,Wednesday,10,2019,3,score,5759.515,191,sad,Drama,0
-Don Giovanni,Italian,Mozart,Wednesday,6,2019,2,score,5761.209,205,sad,Drama,0
-Rigoletto,Italian,Verdi,Tuesday,8,2019,2,score,5769.032,191,sad,Drama,0
-Don Giovanni,Italian,Mozart,Saturday,7,2019,2,score,5770.109,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Wednesday,7,2019,2,score,5776.504,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Wednesday,8,2019,2,score,5788.721,205,sad,Drama,0
-Die Zauberflöte,English,Mozart,Saturday,51,2018,12,score,5789.564,102,happy,Fantasy,1
-Carmen,French,Bizet,Wednesday,2,2019,1,score,5798.813,201,sad,Drama,0
-Falstaff,Italian,Verdi,Friday,8,2019,2,score,5806.412,156,happy,Comedy,0
-Dialogues Carmelites,French,Poulenc,Wednesday,19,2019,5,score,5808.496,189,sad,Drama,0
-Dialogues Carmelites,French,Poulenc,Saturday,19,2019,5,score,5815.701,189,sad,Drama,0
-Falstaff,Italian,Verdi,Tuesday,10,2019,3,score,5819.89,156,happy,Comedy,0
-Rigoletto,Italian,Verdi,Friday,19,2019,5,score,5840.409,191,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Saturday,12,2019,3,score,5842.115,200,sad,Drama,0
-Rigoletto,Italian,Verdi,Saturday,8,2019,2,score,5862.229,191,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Monday,39,2018,9,score,5894.05,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Monday,40,2018,10,score,5894.473,200,sad,Drama,0
-Dialogues Carmelites,French,Poulenc,Friday,18,2019,5,score,5907.679,189,sad,Drama,0
-Die Zauberflöte,English,Mozart,Saturday,52,2018,12,score,5921.634,102,happy,Fantasy,1
-Falstaff,Italian,Verdi,Saturday,11,2019,3,score,5925.342,156,happy,Comedy,0
-Samson et Dalila,French,Saint-Saëns,Thursday,13,2019,3,score,5936.125,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Saturday,41,2018,10,score,5946.339,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Tuesday,12,2019,3,score,5947.801,200,sad,Drama,0
-Die Zauberflöte,English,Mozart,Wednesday,51,2018,12,score,5947.913,102,happy,Fantasy,1
-Falstaff,Italian,Verdi,Friday,10,2019,3,score,5972.152,156,happy,Comedy,0
-Samson et Dalila,French,Saint-Saëns,Tuesday,41,2018,10,score,5976.249,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Friday,39,2018,9,score,5978.774,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Friday,40,2018,10,score,5979.327,200,sad,Drama,0
-Carmen,French,Bizet,Tuesday,44,2018,10,score,6006.554,201,sad,Drama,0
-Falstaff,Italian,Verdi,Tuesday,11,2019,3,score,6029.364,156,happy,Comedy,0
-Samson et Dalila,French,Saint-Saëns,Saturday,42,2018,10,score,6052.235,200,sad,Drama,0
-Samson et Dalila,French,Saint-Saëns,Tuesday,42,2018,10,score,6094.601,200,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,46,2018,11,score,6105.528,147,sad,Drama,0
-Die Zauberflöte,English,Mozart,Thursday,52,2018,12,score,6133.777,102,happy,Fantasy,1
-Marnie,English,Muhly,Monday,43,2018,10,score,6138.332,172,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,47,2018,11,score,6140.251,147,sad,Drama,0
-Marnie,English,Muhly,Saturday,44,2018,11,score,6166.588,172,sad,Drama,0
-Marnie,English,Muhly,Saturday,45,2018,11,score,6212.338,172,sad,Drama,0
-Marnie,English,Muhly,Wednesday,44,2018,10,score,6227.772,172,sad,Drama,0
-Marnie,English,Muhly,Saturday,43,2018,10,score,6228.042,172,sad,Drama,0
-Marnie,English,Muhly,Friday,42,2018,10,score,6241.793,172,sad,Drama,0
-Marnie,English,Muhly,Wednesday,45,2018,11,score,6272.554,172,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Wednesday,46,2018,11,score,6279.675,147,sad,Drama,0
-Carmen,French,Bizet,Saturday,44,2018,11,score,6289.547,201,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Wednesday,48,2018,11,score,6300.677,147,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,48,2018,12,score,6312.081,147,sad,Drama,0
-Carmen,French,Bizet,Saturday,45,2018,11,score,6315.336,201,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,49,2018,12,score,6318.373,147,sad,Drama,0
-Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Tuesday,47,2018,11,score,6364.126,147,sad,Drama,0
-Carmen,French,Bizet,Tuesday,45,2018,11,score,6374.269,201,sad,Drama,0
-Don Giovanni,Italian,Mozart,Friday,15,2019,4,score,6382.705,205,sad,Drama,0
-Carmen,French,Bizet,Thursday,46,2018,11,score,6443.213,201,sad,Drama,0
-Don Giovanni,Italian,Mozart,Thursday,14,2019,4,score,6558.963,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Thursday,16,2019,4,score,6664.528,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Tuesday,15,2019,4,score,6713.104,205,sad,Drama,0
-Don Giovanni,Italian,Mozart,Monday,16,2019,4,score,6716.821,205,sad,Drama,0
-Die Walküre,German,Wagner,Thursday,17,2019,4,score,7423.289,295,sad,Fantasy,0
-Die Walküre,German,Wagner,Tuesday,18,2019,4,score,7507.34,295,sad,Fantasy,0
-Die Walküre,German,Wagner,Tuesday,19,2019,5,score,7519.832,295,sad,Fantasy,0
-Siegfried,German,Wagner,Thursday,18,2019,5,score,7591.34,306,happy,Fantasy,0
-Siegfried,German,Wagner,Thursday,19,2019,5,score,7599.584,306,happy,Fantasy,0
-Die Walküre,German,Wagner,Monday,13,2019,3,score,7625.64,295,sad,Fantasy,0
-Die Walküre,German,Wagner,Saturday,13,2019,3,score,7643.129,295,sad,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Monday,5,2019,1,score,7722.809,202,happy,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Thursday,4,2019,1,score,7766.071,202,happy,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Monday,6,2019,2,score,7785.076,202,happy,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Thursday,7,2019,2,score,7813.402,202,happy,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Friday,5,2019,2,score,7814.529,202,happy,Fantasy,0
-Iolanta,Russian,Tchaikovsky,Saturday,6,2019,2,score,7982.553,202,happy,Fantasy,0
-Götterdämmerung,German,Wagner,Saturday,18,2019,5,score,8255.579,332,sad,Fantasy,0
-Götterdämmerung,German,Wagner,Saturday,19,2019,5,score,8258.58,332,sad,Fantasy,0
-Das Rheingold,German,Wagner,Thursday,11,2019,3,score,9240.128,150,sad,Fantasy,1
+opera1,opera,language,composer,day_of_week,week,year,month,label,popularity_predictions,length,ending,story,kid,date,date1,link,name
+Adriana_Lecouvreur1,Adriana_Lecouvreur1,Italian,Cilea,Monday,1,2018,12,score,5598.972,213,sad,Drama,0,"December 31, 2018",12/31/18,https://www.metopera.org/smart-seat/?performanceNumber=15133#/,Adriana Lecouvreur
+Adriana_Lecouvreur2,Adriana_Lecouvreur2,Italian,Cilea,Friday,1,2019,1,score,5421.944,213,sad,Drama,0,"January 4, 2019",1/4/19,https://www.metopera.org/smart-seat/?performanceNumber=15134#/,Adriana Lecouvreur
+Adriana_Lecouvreur3,Adriana_Lecouvreur3,Italian,Cilea,Tuesday,2,2019,1,score,5411.661,213,sad,Drama,0,"January 8, 2019",1/8/19,https://www.metopera.org/smart-seat/?performanceNumber=15135#/,Adriana Lecouvreur
+Adriana_Lecouvreur4,Adriana_Lecouvreur4,Italian,Cilea,Saturday,2,2019,1,score,5282.351,213,sad,Drama,0,"January 12, 2019",1/12/19,https://www.metopera.org/smart-seat/?performanceNumber=15136#/,Adriana Lecouvreur
+Adriana_Lecouvreur5,Adriana_Lecouvreur5,Italian,Cilea,Wednesday,3,2019,1,score,5233.484,213,sad,Drama,0,"January 16, 2019",1/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15137#/,Adriana Lecouvreur
+Adriana_Lecouvreur6,Adriana_Lecouvreur6,Italian,Cilea,Saturday,3,2019,1,score,5311.383,213,sad,Drama,0,"January 19, 2019",1/19/19,https://www.metopera.org/smart-seat/?performanceNumber=15138#/,Adriana Lecouvreur
+Adriana_Lecouvreur7,Adriana_Lecouvreur7,Italian,Cilea,Wednesday,4,2019,1,score,5351.926,213,sad,Drama,0,"January 23, 2019",1/23/19,https://www.metopera.org/smart-seat/?performanceNumber=15139#/,Adriana Lecouvreur
+Adriana_Lecouvreur8,Adriana_Lecouvreur8,Italian,Cilea,Saturday,4,2019,1,score,5328.706,213,sad,Drama,0,"January 26, 2019",1/26/19,https://www.metopera.org/smart-seat/?performanceNumber=15140#/,Adriana Lecouvreur
+Aida1,Aida1,Italian,Verdi,Wednesday,39,2018,9,score,5271.454,200,sad,Drama,0,"September 26, 2018",9/26/18,https://www.metopera.org/smart-seat/?performanceNumber=15142#/,Aida
+Aida10,Aida10,Italian,Verdi,Friday,3,2019,1,score,4375.138,200,sad,Drama,0,"January 14, 2019",1/14/19,https://www.metopera.org/smart-seat/?performanceNumber=15151#/,Aida
+Aida11,Aida11,Italian,Verdi,Monday,3,2019,1,score,4501.484,200,sad,Drama,0,"January 18, 2019",1/18/19,https://www.metopera.org/smart-seat/?performanceNumber=15152#/,Aida
+Aida12,Aida12,Italian,Verdi,Thursday,9,2019,2,score,5035.768,200,sad,Drama,0,"February 28, 2019",2/28/19,https://www.metopera.org/smart-seat/?performanceNumber=15153#/,Aida
+Aida13,Aida13,Italian,Verdi,Thursday,10,2019,3,score,4913.011,200,sad,Drama,0,"March 4, 2019",3/4/19,https://www.metopera.org/smart-seat/?performanceNumber=15154#/,Aida
+Aida14,Aida14,Italian,Verdi,Monday,10,2019,3,score,4980.308,200,sad,Drama,0,"March 7, 2019",3/7/19,https://www.metopera.org/smart-seat/?performanceNumber=15155#/,Aida
+Aida2,Aida2,Italian,Verdi,Saturday,39,2018,9,score,5627.929,200,sad,Drama,0,"September 29, 2018",9/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15143#/,Aida
+Aida3,Aida3,Italian,Verdi,Tuesday,40,2018,10,score,5155.755,200,sad,Drama,0,"October 2, 2018",10/2/18,https://www.metopera.org/smart-seat/?performanceNumber=15144#/,Aida
+Aida4,Aida4,Italian,Verdi,Saturday,40,2018,10,score,5735.231,200,sad,Drama,0,"October 6, 2018",10/6/18,https://www.metopera.org/smart-seat/?performanceNumber=15145#/,Aida
+Aida5,Aida5,Italian,Verdi,Thursday,41,2018,10,score,5339.332,200,sad,Drama,0,"October 11, 2018",10/11/18,https://www.metopera.org/smart-seat/?performanceNumber=15146#/,Aida
+Aida6,Aida6,Italian,Verdi,Thursday,42,2018,10,score,5306.844,200,sad,Drama,0,"October 15, 2018",10/15/18,https://www.metopera.org/smart-seat/?performanceNumber=15147#/,Aida
+Aida7,Aida7,Italian,Verdi,Monday,42,2018,10,score,5438.91,200,sad,Drama,0,"October 18, 2018",10/18/18,https://www.metopera.org/smart-seat/?performanceNumber=15148#/,Aida
+Aida8,Aida8,Italian,Verdi,Friday,2,2019,1,score,4362.786,200,sad,Drama,0,"January 7, 2019",1/7/19,https://www.metopera.org/smart-seat/?performanceNumber=15149#/,Aida
+Aida9,Aida9,Italian,Verdi,Monday,2,2019,1,score,4488.005,200,sad,Drama,0,"January 11, 2019",1/11/19,https://www.metopera.org/smart-seat/?performanceNumber=15150#/,Aida
+Carmen1,Carmen1,French,Bizet,Tuesday,44,2018,10,score,6006.554,201,sad,Drama,0,"October 30, 2018",10/30/18,https://www.metopera.org/smart-seat/?performanceNumber=15191#/,Carmen
+Carmen10,Carmen10,French,Bizet,Monday,4,2019,1,score,4493.622,201,sad,Drama,0,"January 26, 2019",1/26/19,https://www.metopera.org/smart-seat/?performanceNumber=15200#/,Carmen
+Carmen11,Carmen11,French,Bizet,Tuesday,5,2019,1,score,4342.807,201,sad,Drama,0,"January 29, 2019",1/29/19,https://www.metopera.org/smart-seat/?performanceNumber=15201#/,Carmen
+Carmen12,Carmen12,French,Bizet,Saturday,5,2019,2,score,5711.173,201,sad,Drama,0,"February 2, 2019",2/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15202#/,Carmen
+Carmen13,Carmen13,French,Bizet,Friday,6,2019,2,score,5090.225,201,sad,Drama,0,"February 5, 2019",2/5/19,https://www.metopera.org/smart-seat/?performanceNumber=15203#/,Carmen
+Carmen14,Carmen14,French,Bizet,Tuesday,6,2019,2,score,5191.948,201,sad,Drama,0,"February 8, 2019",2/8/19,https://www.metopera.org/smart-seat/?performanceNumber=15204#/,Carmen
+Carmen2,Carmen2,French,Bizet,Saturday,44,2018,11,score,6289.547,201,sad,Drama,0,"November 3, 2018",11/3/18,https://www.metopera.org/smart-seat/?performanceNumber=15192#/,Carmen
+Carmen3,Carmen3,French,Bizet,Saturday,45,2018,11,score,6315.336,201,sad,Drama,0,"November 6, 2018",11/6/18,https://www.metopera.org/smart-seat/?performanceNumber=15193#/,Carmen
+Carmen4,Carmen4,French,Bizet,Tuesday,45,2018,11,score,6374.269,201,sad,Drama,0,"November 10, 2018",11/10/18,https://www.metopera.org/smart-seat/?performanceNumber=15194#/,Carmen
+Carmen5,Carmen5,French,Bizet,Thursday,46,2018,11,score,6443.213,201,sad,Drama,0,"November 15, 2018",11/15/18,https://www.metopera.org/smart-seat/?performanceNumber=15195#/,Carmen
+Carmen6,Carmen6,French,Bizet,Saturday,2,2019,1,score,4153.945,201,sad,Drama,0,"January 9, 2019",1/9/19,https://www.metopera.org/smart-seat/?performanceNumber=15196#/,Carmen
+Carmen7,Carmen7,French,Bizet,Wednesday,2,2019,1,score,5798.813,201,sad,Drama,0,"January 12, 2019",1/12/19,https://www.metopera.org/smart-seat/?performanceNumber=15197#/,Carmen
+Carmen8,Carmen8,French,Bizet,Thursday,3,2019,1,score,4856.532,201,sad,Drama,0,"January 17, 2019",1/17/19,https://www.metopera.org/smart-seat/?performanceNumber=15198#/,Carmen
+Carmen9,Carmen9,French,Bizet,Saturday,4,2019,1,score,4367.629,201,sad,Drama,0,"January 21, 2019",1/21/19,https://www.metopera.org/smart-seat/?performanceNumber=15199#/,Carmen
+Das_Rheingold1,Das_Rheingold1,German,Wagner,Thursday,11,2019,3,score,9240.128,150,sad,Fantasy,1,"March 14, 2019",3/14/19,https://www.metopera.org/season/reserve/date-comparison/?perf=15307,Das Rheingold
+Dialogues_Carmelites1,Dialogues_Carmelites1,French,Poulenc,Friday,18,2019,5,score,5907.679,189,sad,Drama,0,"May 3, 2019",5/3/19,https://www.metopera.org/smart-seat/?performanceNumber=15186#/,Dialogues des Carmèlites
+Dialogues_Carmelites2,Dialogues_Carmelites2,French,Poulenc,Wednesday,19,2019,5,score,5808.496,189,sad,Drama,0,"May 8, 2019",5/8/19,https://www.metopera.org/smart-seat/?performanceNumber=15187#/,Dialogues des Carmèlites
+Dialogues_Carmelites3,Dialogues_Carmelites3,French,Poulenc,Saturday,19,2019,5,score,5815.701,189,sad,Drama,0,"May 11, 2019",5/11/19,https://www.metopera.org/smart-seat/?performanceNumber=15188#/,Dialogues des Carmèlites
+Die_Walküre1,Die_Walküre1,German,Wagner,Monday,13,2019,3,score,7625.64,295,sad,Fantasy,0,"March 25, 2019",3/25/19,https://www.metopera.org/smart-seat/?performanceNumber=15380#/,Die Walküre
+Die_Walküre2,Die_Walküre2,German,Wagner,Saturday,13,2019,3,score,7643.129,295,sad,Fantasy,0,"March 30, 2019",3/30/19,https://www.metopera.org/smart-seat/?performanceNumber=15381#/,Die Walküre
+Die_Walküre3,Die_Walküre3,German,Wagner,Thursday,17,2019,4,score,7423.289,295,sad,Fantasy,0,"April 25, 2019",4/25/19,https://www.metopera.org/smart-seat/?performanceNumber=15382#/,Die Walküre
+Die_Walküre4,Die_Walküre4,German,Wagner,Tuesday,18,2019,4,score,7507.34,295,sad,Fantasy,0,"April 30, 2019",4/30/19,https://www.metopera.org/smart-seat/?performanceNumber=15383#/,Die Walküre
+Die_Walküre5,Die_Walküre5,German,Wagner,Tuesday,19,2019,5,score,7519.832,295,sad,Fantasy,0,"May 7, 2019",5/7/19,https://www.metopera.org/smart-seat/?performanceNumber=15384#/,Die Walküre
+Die_Zauberflöte1,Die_Zauberflöte1,English,Mozart,Wednesday,51,2018,12,score,5947.913,102,happy,Fantasy,1,"December 19, 2018",12/19/18,https://www.metopera.org/smart-seat/?performanceNumber=15232#/,Die Zauberflöte
+Die_Zauberflöte2,Die_Zauberflöte2,English,Mozart,Saturday,51,2018,12,score,5789.564,102,happy,Fantasy,1,"December 22, 2018",12/22/18,https://www.metopera.org/smart-seat/?performanceNumber=15233#/,Die Zauberflöte
+Die_Zauberflöte3,Die_Zauberflöte3,English,Mozart,Monday,52,2018,12,score,5679.928,102,happy,Fantasy,1,"December 24, 2018",12/24/18,https://www.metopera.org/smart-seat/?performanceNumber=15234#/,Die Zauberflöte
+Die_Zauberflöte4,Die_Zauberflöte4,English,Mozart,Thursday,52,2018,12,score,6133.777,102,happy,Fantasy,1,"December 27, 2018",12/27/18,https://www.metopera.org/smart-seat/?performanceNumber=15235#/,Die Zauberflöte
+Die_Zauberflöte5,Die_Zauberflöte5,English,Mozart,Saturday,52,2018,12,score,5921.634,102,happy,Fantasy,1,"December 29, 2018",12/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15236#/,Die Zauberflöte
+Die_Zauberflöte6,Die_Zauberflöte6,English,Mozart,Tuesday,1,2019,1,score,5303.709,102,happy,Fantasy,1,"January 1, 2019",1/1/19,https://www.metopera.org/smart-seat/?performanceNumber=15237#/,Die Zauberflöte
+Die_Zauberflöte7,Die_Zauberflöte7,English,Mozart,Thursday,1,2019,1,score,5531.678,102,happy,Fantasy,1,"January 3, 2019",1/3/19,https://www.metopera.org/smart-seat/?performanceNumber=15238#/,Die Zauberflöte
+Die_Zauberflöte8,Die_Zauberflöte8,English,Mozart,Saturday,1,2019,1,score,5430.473,102,happy,Fantasy,1,"January 5, 2019",1/5/19,https://www.metopera.org/smart-seat/?performanceNumber=15239#/,Die Zauberflöte
+Don_Giovanni1,Don_Giovanni1,Italian,Mozart,Wednesday,5,2019,1,score,5752.228,205,sad,Drama,0,"January 30, 2019",1/30/19,https://www.metopera.org/smart-seat/?performanceNumber=15242#/,Don Giovanni
+Don_Giovanni2,Don_Giovanni2,Italian,Mozart,Saturday,5,2019,2,score,5745.53,205,sad,Drama,0,"February 2, 2019",2/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15243#/,Don Giovanni
+Don_Giovanni3,Don_Giovanni3,Italian,Mozart,Wednesday,6,2019,2,score,5761.209,205,sad,Drama,0,"February 6, 2019",2/6/19,https://www.metopera.org/smart-seat/?performanceNumber=15244#/,Don Giovanni
+Don_Giovanni4,Don_Giovanni4,Italian,Mozart,Saturday,6,2019,2,score,5754.425,205,sad,Drama,0,"February 9, 2019",2/9/19,https://www.metopera.org/smart-seat/?performanceNumber=15245#/,Don Giovanni
+Don_Giovanni5,Don_Giovanni5,Italian,Mozart,Wednesday,7,2019,2,score,5776.504,205,sad,Drama,0,"February 13, 2019",2/13/19,https://www.metopera.org/smart-seat/?performanceNumber=15246#/,Don Giovanni
+Don_Giovanni6,Don_Giovanni6,Italian,Mozart,Saturday,7,2019,2,score,5770.109,205,sad,Drama,0,"February 16, 2019",2/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15247#/,Don Giovanni
+Don_Giovanni7,Don_Giovanni7,Italian,Mozart,Wednesday,8,2019,2,score,5788.721,205,sad,Drama,0,"February 20, 2019",2/20/19,https://www.metopera.org/smart-seat/?performanceNumber=15248#/,Don Giovanni
+Don_Giovanni8,Don_Giovanni8,Italian,Mozart,Thursday,14,2019,4,score,6558.963,205,sad,Drama,0,"April 4, 2019",4/4/19,https://www.metopera.org/smart-seat/?performanceNumber=15249#/,Don Giovanni
+Don_Giovanni9,Don_Giovanni9,Italian,Mozart,Tuesday,15,2019,4,score,6713.104,205,sad,Drama,0,"April 9, 2019",4/9/19,https://www.metopera.org/smart-seat/?performanceNumber=15250#/,Don Giovanni
+Don_Giovanni10,Don_Giovanni10,Italian,Mozart,Friday,15,2019,4,score,6382.705,205,sad,Drama,0,"April 12, 2019",4/12/19,https://www.metopera.org/smart-seat/?performanceNumber=15251#/,Don Giovanni
+Don_Giovanni11,Don_Giovanni11,Italian,Mozart,Monday,16,2019,4,score,6716.821,205,sad,Drama,0,"April 15, 2019",4/15/19,https://www.metopera.org/smart-seat/?performanceNumber=15252#/,Don Giovanni
+Don_Giovanni12,Don_Giovanni12,Italian,Mozart,Thursday,16,2019,4,score,6664.528,205,sad,Drama,0,"April 18, 2019",4/18/19,https://www.metopera.org/smart-seat/?performanceNumber=15253#/,Don Giovanni
+Falstaff1,Falstaff1,Italian,Verdi,Friday,8,2019,2,score,5806.412,156,happy,Comedy,0,"February 22, 2019",2/22/19,https://www.metopera.org/smart-seat/?performanceNumber=15206#/,Falstaff
+Falstaff2,Falstaff2,Italian,Verdi,Wednesday,9,2019,2,score,5565.705,156,happy,Comedy,0,"February 27, 2019",2/27/19,https://www.metopera.org/smart-seat/?performanceNumber=15207#/,Falstaff
+Falstaff3,Falstaff3,Italian,Verdi,Saturday,9,2019,3,score,5567.324,156,happy,Comedy,0,"March 2, 2019",3/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15208#/,Falstaff
+Falstaff4,Falstaff4,Italian,Verdi,Tuesday,10,2019,3,score,5819.89,156,happy,Comedy,0,"March 5, 2019",3/5/19,https://www.metopera.org/smart-seat/?performanceNumber=15209#/,Falstaff
+Falstaff5,Falstaff5,Italian,Verdi,Friday,10,2019,3,score,5972.152,156,happy,Comedy,0,"March 8, 2019",3/8/19,https://www.metopera.org/smart-seat/?performanceNumber=15210#/,Falstaff
+Falstaff6,Falstaff6,Italian,Verdi,Tuesday,11,2019,3,score,6029.364,156,happy,Comedy,0,"March 12, 2019",3/12/19,https://www.metopera.org/smart-seat/?performanceNumber=15211#/,Falstaff
+Falstaff7,Falstaff7,Italian,Verdi,Saturday,11,2019,3,score,5925.342,156,happy,Comedy,0,"March 16, 2019",3/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15212#/,Falstaff
+Götterdämmerung1,Götterdämmerung1,German,Wagner,Saturday,18,2019,5,score,8255.579,332,sad,Fantasy,0,"May 4, 2019",5/4/19,https://www.metopera.org/season/tickets/the-ring-cycle/ring-cycle/,Götterdämmerung
+Götterdämmerung2,Götterdämmerung2,German,Wagner,Saturday,19,2019,5,score,8258.58,332,sad,Fantasy,0,"May 11, 2019",5/11/19,https://www.metopera.org/season/tickets/the-ring-cycle/ring-cycle/,Götterdämmerung
+Iolanta1,Iolanta1,Russian,Tchaikovsky,Thursday,4,2019,1,score,7766.071,202,happy,Fantasy,0,"January 24, 2019",1/24/19,https://www.metopera.org/smart-seat/?performanceNumber=15165#/,Iolanta and Bartok's Bluebeard's Castle
+Iolanta2,Iolanta2,Russian,Tchaikovsky,Monday,5,2019,1,score,7722.809,202,happy,Fantasy,0,"January 28, 2019",1/28/19,https://www.metopera.org/smart-seat/?performanceNumber=15166#/,Iolanta and Bartok's Bluebeard's Castle
+Iolanta3,Iolanta3,Russian,Tchaikovsky,Friday,5,2019,2,score,7814.529,202,happy,Fantasy,0,"February 1, 2019",2/1/19,https://www.metopera.org/smart-seat/?performanceNumber=15167#/,Iolanta and Bartok's Bluebeard's Castle
+Iolanta4,Iolanta4,Russian,Tchaikovsky,Monday,6,2019,2,score,7785.076,202,happy,Fantasy,0,"February 4, 2019",2/4/19,https://www.metopera.org/smart-seat/?performanceNumber=15168#/,Iolanta and Bartok's Bluebeard's Castle
+Iolanta5,Iolanta5,Russian,Tchaikovsky,Saturday,6,2019,2,score,7982.553,202,happy,Fantasy,0,"February 9, 2019",2/9/19,https://www.metopera.org/smart-seat/?performanceNumber=15169#/,Iolanta and Bartok's Bluebeard's Castle
+Iolanta6,Iolanta6,Russian,Tchaikovsky,Thursday,7,2019,2,score,7813.402,202,happy,Fantasy,0,"February 14, 2019",2/14/19,https://www.metopera.org/smart-seat/?performanceNumber=15170#/,Iolanta and Bartok's Bluebeard's Castle
+La_Bohème1,La_Bohème1,Italian,Puccini,Tuesday,39,2018,9,score,4400.749,176,sad,Drama,0,"September 25, 2018",9/25/18,https://www.metopera.org/smart-seat/?performanceNumber=15174#/,La Bohème
+La_Bohème10,La_Bohème10,Italian,Puccini,Monday,50,2018,12,score,5056.095,176,sad,Drama,0,"December 10, 2018",12/10/18,https://www.metopera.org/smart-seat/?performanceNumber=15183#/,La Bohème
+La_Bohème11,La_Bohème11,Italian,Puccini,Thursday,50,2018,12,score,5101.847,176,sad,Drama,0,"December 13, 2018",12/13/18,https://www.metopera.org/smart-seat/?performanceNumber=15184#/,La Bohème
+La_Bohème2,La_Bohème2,Italian,Puccini,Saturday,39,2018,9,score,4647,176,sad,Drama,0,"September 29, 2018",9/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15175#/,La Bohème
+La_Bohème3,La_Bohème3,Italian,Puccini,Wednesday,40,2018,10,score,5507.834,176,sad,Drama,0,"October 3, 2018",10/3/18,https://www.metopera.org/smart-seat/?performanceNumber=15176#/,La Bohème
+La_Bohème4,La_Bohème4,Italian,Puccini,Saturday,40,2018,10,score,5348.318,176,sad,Drama,0,"October 6, 2018",10/6/18,https://www.metopera.org/smart-seat/?performanceNumber=15177#/,La Bohème
+La_Bohème5,La_Bohème5,Italian,Puccini,Wednesday,41,2018,10,score,5637.636,176,sad,Drama,0,"October 10, 2018",10/10/18,https://www.metopera.org/smart-seat/?performanceNumber=15178#/,La Bohème
+La_Bohème6,La_Bohème6,Italian,Puccini,Saturday,41,2018,10,score,5556.13,176,sad,Drama,0,"October 13, 2018",10/13/18,https://www.metopera.org/smart-seat/?performanceNumber=15179#/,La Bohème
+La_Bohème7,La_Bohème7,Italian,Puccini,Thursday,48,2018,11,score,4935.778,176,sad,Drama,0,"November 29, 2018",11/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15180#/,La Bohème
+La_Bohème8,La_Bohème8,Italian,Puccini,Monday,49,2018,12,score,5006.064,176,sad,Drama,0,"December 3, 2018",12/3/18,https://www.metopera.org/smart-seat/?performanceNumber=15181#/,La Bohème
+La_Bohème9,La_Bohème9,Italian,Puccini,Thursday,49,2018,12,score,5017.305,176,sad,Drama,0,"December 6, 2018",12/6/18,https://www.metopera.org/smart-seat/?performanceNumber=15182#/,La Bohème
+La_Clemenza_di_Tito1,La_Clemenza_di_Tito1,Italian,Mozart,Saturday,13,2019,3,score,5503.332,172,happy,Drama,0,"March 30, 2019",3/30/19,https://www.metopera.org/smart-seat/?performanceNumber=15343#/,La Clemenza di Tito
+La_Clemenza_di_Tito2,La_Clemenza_di_Tito2,Italian,Mozart,Wednesday,14,2019,4,score,5565.069,172,happy,Drama,0,"April 3, 2019",4/3/19,https://www.metopera.org/smart-seat/?performanceNumber=15344#/,La Clemenza di Tito
+La_Clemenza_di_Tito3,La_Clemenza_di_Tito3,Italian,Mozart,Saturday,14,2019,4,score,5434.13,172,happy,Drama,0,"April 6, 2019",4/6/19,https://www.metopera.org/smart-seat/?performanceNumber=15345#/,La Clemenza di Tito
+La_Clemenza_di_Tito4,La_Clemenza_di_Tito4,Italian,Mozart,Thursday,15,2019,4,score,5437.7,172,happy,Drama,0,"April 11, 2019",4/11/19,https://www.metopera.org/smart-seat/?performanceNumber=15346#/,La Clemenza di Tito
+La_Clemenza_di_Tito5,La_Clemenza_di_Tito5,Italian,Mozart,Tuesday,16,2019,4,score,5469.043,172,happy,Drama,0,"April 16, 2019",4/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15347#/,La Clemenza di Tito
+La_Clemenza_di_Tito6,La_Clemenza_di_Tito6,Italian,Mozart,Saturday,16,2019,4,score,5457.16,172,happy,Drama,0,"April 20, 2019",4/20/19,https://www.metopera.org/smart-seat/?performanceNumber=15348#/,La Clemenza di Tito
+La_fanciulla_del_West1,La_fanciulla_del_West1,Italian,Puccini,Thursday,40,2018,10,score,4940.641,202,sad,Drama,0,"October 4, 2018",10/4/18,https://www.metopera.org/smart-seat/?performanceNumber=15214#/,La fancuilla del West
+La_fanciulla_del_West2,La_fanciulla_del_West2,Italian,Puccini,Monday,41,2018,10,score,5273.304,202,sad,Drama,0,"October 8, 2018",10/8/18,https://www.metopera.org/smart-seat/?performanceNumber=15215#/,La fancuilla del West
+La_fanciulla_del_West3,La_fanciulla_del_West3,Italian,Puccini,Friday,41,2018,10,score,5098.426,202,sad,Drama,0,"October 12, 2018",10/12/18,https://www.metopera.org/smart-seat/?performanceNumber=15216#/,La fancuilla del West
+La_fanciulla_del_West4,La_fanciulla_del_West4,Italian,Puccini,Wednesday,42,2018,10,score,5146.908,202,sad,Drama,0,"October 17, 2018",10/17/18,https://www.metopera.org/smart-seat/?performanceNumber=15217#/,La fancuilla del West
+La_fanciulla_del_West5,La_fanciulla_del_West5,Italian,Puccini,Saturday,42,2018,10,score,4800.154,202,sad,Drama,0,"October 20, 2018",10/20/18,https://www.metopera.org/smart-seat/?performanceNumber=15218#/,La fancuilla del West
+La_fanciulla_del_West6,La_fanciulla_del_West6,Italian,Puccini,Tuesday,43,2018,10,score,4700.963,202,sad,Drama,0,"October 23, 2018",10/23/18,https://www.metopera.org/smart-seat/?performanceNumber=15219#/,La fancuilla del West
+La_fanciulla_del_West7,La_fanciulla_del_West7,Italian,Puccini,Saturday,43,2018,10,score,5150.896,202,sad,Drama,0,"October 27, 2018",10/27/18,https://www.metopera.org/smart-seat/?performanceNumber=15220#/,La fancuilla del West
+La_Fille_du_régiment1,La_Fille_du_régiment1,French,Donizetti,Thursday,6,2019,2,score,5633.976,155,happy,Comedy,1,"February 7, 2019",2/7/19,https://www.metopera.org/smart-seat/?performanceNumber=15224#/,La Fille du régiment
+La_Fille_du_régiment2,La_Fille_du_régiment2,French,Donizetti,Monday,7,2019,2,score,5454.156,155,happy,Comedy,1,"February 11, 2019",2/11/19,https://www.metopera.org/smart-seat/?performanceNumber=15225#/,La Fille du régiment
+La_Fille_du_régiment3,La_Fille_du_régiment3,French,Donizetti,Friday,7,2019,2,score,5504.012,155,happy,Comedy,1,"February 15, 2019",2/15/19,https://www.metopera.org/smart-seat/?performanceNumber=15226#/,La Fille du régiment
+La_Fille_du_régiment4,La_Fille_du_régiment4,French,Donizetti,Monday,8,2019,2,score,5468.01,155,happy,Comedy,1,"February 18, 2019",2/18/19,https://www.metopera.org/smart-seat/?performanceNumber=15227#/,La Fille du régiment
+La_Fille_du_régiment5,La_Fille_du_régiment5,French,Donizetti,Saturday,8,2019,2,score,5359.005,155,happy,Comedy,1,"February 23, 2019",2/23/19,https://www.metopera.org/smart-seat/?performanceNumber=15228#/,La Fille du régiment
+La_Fille_du_régiment6,La_Fille_du_régiment6,French,Donizetti,Tuesday,9,2019,2,score,5565.202,155,happy,Comedy,1,"February 26, 2019",2/26/19,https://www.metopera.org/smart-seat/?performanceNumber=15229#/,La Fille du régiment
+La_Fille_du_régiment7,La_Fille_du_régiment7,French,Donizetti,Saturday,9,2019,3,score,5452.607,155,happy,Comedy,1,"March 2, 2019",3/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15230#/,La Fille du régiment
+La_Traviata1,La_Traviata1,Italian,Verdi,Tuesday,49,2018,12,score,5355.96,187,sad,Drama,0,"December 4, 2018",12/4/18,https://www.metopera.org/smart-seat/?performanceNumber=15364#/,La Traviata
+La_Traviata10,La_Traviata10,Italian,Verdi,Wednesday,15,2019,4,score,5362.65,187,sad,Drama,0,"April 10, 2019",4/10/19,https://www.metopera.org/smart-seat/?performanceNumber=15373#/,La Traviata
+La_Traviata11,La_Traviata11,Italian,Verdi,Saturday,15,2019,4,score,5112.604,187,sad,Drama,0,"April 13, 2019",4/13/19,https://www.metopera.org/smart-seat/?performanceNumber=15374#/,La Traviata
+La_Traviata12,La_Traviata12,Italian,Verdi,Wednesday,16,2019,4,score,5385.574,187,sad,Drama,0,"April 17, 2019",4/17/19,https://www.metopera.org/smart-seat/?performanceNumber=15375#/,La Traviata
+La_Traviata13,La_Traviata13,Italian,Verdi,Saturday,16,2019,4,score,5127.001,187,sad,Drama,0,"April 20, 2019",4/20/19,https://www.metopera.org/smart-seat/?performanceNumber=15376#/,La Traviata
+La_Traviata14,La_Traviata14,Italian,Verdi,Wednesday,17,2019,4,score,5391.822,187,sad,Drama,0,"April 24, 2019",4/24/19,https://www.metopera.org/smart-seat/?performanceNumber=15377#/,La Traviata
+La_Traviata15,La_Traviata15,Italian,Verdi,Saturday,17,2019,4,score,5242.249,187,sad,Drama,0,"April 27, 2019",4/27/19,https://www.metopera.org/smart-seat/?performanceNumber=15378#/,La Traviata
+La_Traviata2,La_Traviata2,Italian,Verdi,Friday,49,2018,12,score,5645.881,187,sad,Drama,0,"December 7, 2018",12/7/18,https://www.metopera.org/smart-seat/?performanceNumber=15365#/,La Traviata
+La_Traviata3,La_Traviata3,Italian,Verdi,Tuesday,50,2018,12,score,5401.681,187,sad,Drama,0,"December 11, 2018",12/11/18,https://www.metopera.org/smart-seat/?performanceNumber=15366#/,La Traviata
+La_Traviata4,La_Traviata4,Italian,Verdi,Saturday,50,2018,12,score,5342.286,187,sad,Drama,0,"December 15, 2018",12/15/18,https://www.metopera.org/smart-seat/?performanceNumber=15367#/,La Traviata
+La_Traviata5,La_Traviata5,Italian,Verdi,Tuesday,51,2018,12,score,5553.947,187,sad,Drama,0,"December 18, 2018",12/18/18,https://www.metopera.org/smart-seat/?performanceNumber=15368#/,La Traviata
+La_Traviata6,La_Traviata6,Italian,Verdi,Saturday,51,2018,12,score,5348.367,187,sad,Drama,0,"December 22, 2018",12/22/18,https://www.metopera.org/smart-seat/?performanceNumber=15369#/,La Traviata
+La_Traviata7,La_Traviata7,Italian,Verdi,Wednesday,52,2018,12,score,5439.876,187,sad,Drama,0,"December 26, 2018",12/26/18,https://www.metopera.org/smart-seat/?performanceNumber=15370#/,La Traviata
+La_Traviata8,La_Traviata8,Italian,Verdi,Saturday,52,2018,12,score,5395.75,187,sad,Drama,0,"December 29, 2018",12/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15371#/,La Traviata
+La_Traviata9,La_Traviata9,Italian,Verdi,Friday,14,2019,4,score,5552.38,187,sad,Drama,0,"April 5, 2019",4/5/19,https://www.metopera.org/smart-seat/?performanceNumber=15372#/,La Traviata
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles1,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles1,French,Bizet,Wednesday,46,2018,11,score,6279.675,147,sad,Drama,0,"November 14, 2018",11/14/18,https://www.metopera.org/smart-seat/?performanceNumber=15292#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles2,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles2,French,Bizet,Saturday,46,2018,11,score,6105.528,147,sad,Drama,0,"November 17, 2018",11/17/18,https://www.metopera.org/smart-seat/?performanceNumber=15293#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles3,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles3,French,Bizet,Tuesday,47,2018,11,score,6364.126,147,sad,Drama,0,"November 20, 2018",11/20/18,https://www.metopera.org/smart-seat/?performanceNumber=15294#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles4,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles4,French,Bizet,Saturday,47,2018,11,score,6140.251,147,sad,Drama,0,"November 24, 2018",11/24/18,https://www.metopera.org/smart-seat/?performanceNumber=15295#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles5,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles5,French,Bizet,Wednesday,48,2018,11,score,6300.677,147,sad,Drama,0,"November 28, 2018",11/28/18,https://www.metopera.org/smart-seat/?performanceNumber=15296#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles6,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles6,French,Bizet,Saturday,48,2018,12,score,6312.081,147,sad,Drama,0,"December 1, 2018",12/1/18,https://www.metopera.org/smart-seat/?performanceNumber=15297#/,Les Pêcheurs de perles (The Pearl Fishers)
+Les_(The_Pearl_Fishers)_Pêcheurs_de_perles7,Les_(The_Pearl_Fishers)_Pêcheurs_de_perles7,French,Bizet,Saturday,49,2018,12,score,6318.373,147,sad,Drama,0,"December 8, 2018",12/8/18,https://www.metopera.org/smart-seat/?performanceNumber=15298#/,Les Pêcheurs de perles (The Pearl Fishers)
+Marnie1,Marnie1,English,Muhly,Friday,42,2018,10,score,6241.793,172,sad,Drama,0,"October 19, 2018",10/19/18,https://www.metopera.org/smart-seat/?performanceNumber=15271#/,Marnie
+Marnie2,Marnie2,English,Muhly,Monday,43,2018,10,score,6138.332,172,sad,Drama,0,"October 22, 2018",10/22/18,https://www.metopera.org/smart-seat/?performanceNumber=15272#/,Marnie
+Marnie3,Marnie3,English,Muhly,Saturday,43,2018,10,score,6228.042,172,sad,Drama,0,"October 27, 2018",10/27/18,https://www.metopera.org/smart-seat/?performanceNumber=15273#/,Marnie
+Marnie4,Marnie4,English,Muhly,Wednesday,44,2018,10,score,6227.772,172,sad,Drama,0,"October 31, 2018",10/31/18,https://www.metopera.org/smart-seat/?performanceNumber=15274#/,Marnie
+Marnie5,Marnie5,English,Muhly,Saturday,44,2018,11,score,6166.588,172,sad,Drama,0,"November 3, 2018",11/3/18,https://www.metopera.org/smart-seat/?performanceNumber=15275#/,Marnie
+Marnie6,Marnie6,English,Muhly,Wednesday,45,2018,11,score,6272.554,172,sad,Drama,0,"November 7, 2018",11/7/18,https://www.metopera.org/smart-seat/?performanceNumber=15276#/,Marnie
+Marnie7,Marnie7,English,Muhly,Saturday,45,2018,11,score,6212.338,172,sad,Drama,0,"November 10, 2018",11/10/18,https://www.metopera.org/smart-seat/?performanceNumber=15277#/,Marnie
+Mefistofele1,Mefistofele1,Italian,Boito,Thursday,45,2018,11,score,4930.705,209,sad,Drama,0,"November 8, 2018",11/8/18,https://www.metopera.org/smart-seat/?performanceNumber=15391#/,Mefistofele
+Mefistofele2,Mefistofele2,Italian,Boito,Monday,46,2018,11,score,5035.17,209,sad,Drama,0,"November 12, 2018",11/12/18,https://www.metopera.org/smart-seat/?performanceNumber=15392#/,Mefistofele
+Mefistofele3,Mefistofele3,Italian,Boito,Friday,46,2018,11,score,5140.78,209,sad,Drama,0,"November 16, 2018",11/16/18,https://www.metopera.org/smart-seat/?performanceNumber=15393#/,Mefistofele
+Mefistofele4,Mefistofele4,Italian,Boito,Monday,47,2018,11,score,5065.199,209,sad,Drama,0,"November 19, 2018",11/19/18,https://www.metopera.org/smart-seat/?performanceNumber=15394#/,Mefistofele
+Mefistofele5,Mefistofele5,Italian,Boito,Saturday,47,2018,11,score,5033.585,209,sad,Drama,0,"November 24, 2018",11/24/18,https://www.metopera.org/smart-seat/?performanceNumber=15395#/,Mefistofele
+Mefistofele6,Mefistofele6,Italian,Boito,Tuesday,48,2018,11,score,5028.769,209,sad,Drama,0,"November 27, 2018",11/27/18,https://www.metopera.org/smart-seat/?performanceNumber=15396#/,Mefistofele
+Mefistofele7,Mefistofele7,Italian,Boito,Saturday,48,2018,12,score,5170.607,209,sad,Drama,0,"December 1, 2018",12/1/18,https://www.metopera.org/smart-seat/?performanceNumber=15397#/,Mefistofele
+Otello1,Otello1,Italian,Verdi,Friday,50,2018,12,score,5108.477,175,sad,Drama,0,"December 14, 2018",12/14/18,https://www.metopera.org/smart-seat/?performanceNumber=15280#/,Otello
+Otello2,Otello2,Italian,Verdi,Monday,51,2018,12,score,5154.35,175,sad,Drama,0,"December 17, 2018",12/17/18,https://www.metopera.org/smart-seat/?performanceNumber=15281#/,Otello
+Otello3,Otello3,Italian,Verdi,Friday,51,2018,12,score,5171.599,175,sad,Drama,0,"December 21, 2018",12/21/18,https://www.metopera.org/smart-seat/?performanceNumber=15282#/,Otello
+Otello4,Otello4,Italian,Verdi,Friday,52,2018,12,score,5292.471,175,sad,Drama,0,"December 28, 2018",12/28/18,https://www.metopera.org/smart-seat/?performanceNumber=15283#/,Otello
+Otello5,Otello5,Italian,Verdi,Wednesday,1,2019,1,score,5349.309,175,sad,Drama,0,"January 2, 2019",1/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15284#/,Otello
+Otello6,Otello6,Italian,Verdi,Saturday,1,2019,1,score,5301.077,175,sad,Drama,0,"January 5, 2019",1/5/19,https://www.metopera.org/smart-seat/?performanceNumber=15285#/,Otello
+Otello7,Otello7,Italian,Verdi,Thursday,2,2019,1,score,5368.141,175,sad,Drama,0,"January 10, 2019",1/10/19,https://www.metopera.org/smart-seat/?performanceNumber=15286#/,Otello
+Pelléas_et_Mélisande1,Pelléas_et_Mélisande1,French,Debussy,Tuesday,3,2019,1,score,5079.479,235,sad,Drama,0,"January 15, 2019",1/15/19,https://www.metopera.org/smart-seat/?performanceNumber=15300#/,Pelléas et Mélisande
+Pelléas_et_Mélisande2,Pelléas_et_Mélisande2,French,Debussy,Saturday,3,2019,1,score,5302.441,235,sad,Drama,0,"January 19, 2019",1/19/19,https://www.metopera.org/smart-seat/?performanceNumber=15300#/,Pelléas et Mélisande
+Pelléas_et_Mélisande3,Pelléas_et_Mélisande3,French,Debussy,Tuesday,4,2019,1,score,5313.833,235,sad,Drama,0,"January 22, 2019",1/22/19,https://www.metopera.org/smart-seat/?performanceNumber=15300#/,Pelléas et Mélisande
+Pelléas_et_Mélisande4,Pelléas_et_Mélisande4,French,Debussy,Friday,4,2019,1,score,4968.051,235,sad,Drama,0,"January 25, 2019",1/25/19,https://www.metopera.org/smart-seat/?performanceNumber=15300#/,Pelléas et Mélisande
+Pelléas_et_Mélisande5,Pelléas_et_Mélisande5,French,Debussy,Thursday,5,2019,1,score,5010.461,235,sad,Drama,0,"January 31, 2019",1/31/19,https://www.metopera.org/smart-seat/?performanceNumber=15300#/,Pelléas et Mélisande
+Rigoletto1,Rigoletto1,Italian,Verdi,Tuesday,7,2019,2,score,5672.433,191,sad,Drama,0,"February 12, 2019",2/12/19,https://www.metopera.org/smart-seat/?performanceNumber=15319#/,Rigoletto
+Rigoletto10,Rigoletto10,Italian,Verdi,Friday,17,2019,4,score,5698.108,191,sad,Drama,0,"April 26, 2019",4/26/19,https://www.metopera.org/smart-seat/?performanceNumber=15328#/,Rigoletto
+Rigoletto11,Rigoletto11,Italian,Verdi,Wednesday,18,2019,5,score,5749.969,191,sad,Drama,0,"May 1, 2019",5/1/19,https://www.metopera.org/smart-seat/?performanceNumber=15329#/,Rigoletto
+Rigoletto12,Rigoletto12,Italian,Verdi,Saturday,18,2019,5,score,5606.086,191,sad,Drama,0,"May 4, 2019",5/4/19,https://www.metopera.org/smart-seat/?performanceNumber=15330#/,Rigoletto
+Rigoletto13,Rigoletto13,Italian,Verdi,Friday,19,2019,5,score,5840.409,191,sad,Drama,0,"May 10, 2019",5/10/19,https://www.metopera.org/smart-seat/?performanceNumber=15331#/,Rigoletto
+Rigoletto2,Rigoletto2,Italian,Verdi,Saturday,7,2019,2,score,5681.391,191,sad,Drama,0,"February 16, 2019",2/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15320#/,Rigoletto
+Rigoletto3,Rigoletto3,Italian,Verdi,Tuesday,8,2019,2,score,5769.032,191,sad,Drama,0,"February 19, 2019",2/19/19,https://www.metopera.org/smart-seat/?performanceNumber=15321#/,Rigoletto
+Rigoletto4,Rigoletto4,Italian,Verdi,Saturday,8,2019,2,score,5862.229,191,sad,Drama,0,"February 23, 2019",2/23/19,https://www.metopera.org/smart-seat/?performanceNumber=15322#/,Rigoletto
+Rigoletto5,Rigoletto5,Italian,Verdi,Friday,9,2019,3,score,5010.959,191,sad,Drama,0,"March 1, 2019",3/1/19,https://www.metopera.org/smart-seat/?performanceNumber=15323#/,Rigoletto
+Rigoletto6,Rigoletto6,Italian,Verdi,Wednesday,10,2019,3,score,5759.515,191,sad,Drama,0,"March 6, 2019",3/6/19,https://www.metopera.org/smart-seat/?performanceNumber=15324#/,Rigoletto
+Rigoletto7,Rigoletto7,Italian,Verdi,Saturday,10,2019,3,score,4981.641,191,sad,Drama,0,"March 9, 2019",3/9/19,https://www.metopera.org/smart-seat/?performanceNumber=15325#/,Rigoletto
+Rigoletto8,Rigoletto8,Italian,Verdi,Friday,11,2019,3,score,5198.07,191,sad,Drama,0,"March 15, 2019",3/15/19,https://www.metopera.org/smart-seat/?performanceNumber=15326#/,Rigoletto
+Rigoletto9,Rigoletto9,Italian,Verdi,Wednesday,12,2019,3,score,5298.853,191,sad,Drama,0,"March 20, 2019",3/20/19,https://www.metopera.org/smart-seat/?performanceNumber=15327#/,Rigoletto
+Samson_et_Dalila1,Samson_et_Dalila1,French,Saint-Saëns,Monday,39,2018,9,score,5894.05,200,sad,Drama,0,"September 24, 2018",9/24/18,https://www.metopera.org/smart-seat/?performanceNumber=15325#/,Samson et Dalila
+Samson_et_Dalila10,Samson_et_Dalila10,French,Saint-Saëns,Saturday,11,2019,3,score,5746.537,200,sad,Drama,0,"March 16, 2019",3/16/19,https://www.metopera.org/smart-seat/?performanceNumber=15334#/,Samson et Dalila
+Samson_et_Dalila11,Samson_et_Dalila11,French,Saint-Saëns,Tuesday,12,2019,3,score,5947.801,200,sad,Drama,0,"March 19, 2019",3/19/19,https://www.metopera.org/smart-seat/?performanceNumber=15335#/,Samson et Dalila
+Samson_et_Dalila12,Samson_et_Dalila12,French,Saint-Saëns,Saturday,12,2019,3,score,5842.115,200,sad,Drama,0,"March 23, 2019",3/23/19,https://www.metopera.org/smart-seat/?performanceNumber=15336#/,Samson et Dalila
+Samson_et_Dalila13,Samson_et_Dalila13,French,Saint-Saëns,Thursday,13,2019,3,score,5936.125,200,sad,Drama,0,"March 28, 2019",3/28/19,https://www.metopera.org/smart-seat/?performanceNumber=15337#/,Samson et Dalila
+Samson_et_Dalila2,Samson_et_Dalila2,French,Saint-Saëns,Friday,39,2018,9,score,5978.774,200,sad,Drama,0,"September 28, 2018",9/28/18,https://www.metopera.org/smart-seat/?performanceNumber=15326#/,Samson et Dalila
+Samson_et_Dalila3,Samson_et_Dalila3,French,Saint-Saëns,Monday,40,2018,10,score,5894.473,200,sad,Drama,0,"October 1, 2018",10/1/18,https://www.metopera.org/smart-seat/?performanceNumber=15327#/,Samson et Dalila
+Samson_et_Dalila4,Samson_et_Dalila4,French,Saint-Saëns,Friday,40,2018,10,score,5979.327,200,sad,Drama,0,"October 5, 2018",10/5/18,https://www.metopera.org/smart-seat/?performanceNumber=15328#/,Samson et Dalila
+Samson_et_Dalila5,Samson_et_Dalila5,French,Saint-Saëns,Tuesday,41,2018,10,score,5976.249,200,sad,Drama,0,"October 9, 2018",10/9/18,https://www.metopera.org/smart-seat/?performanceNumber=15329#/,Samson et Dalila
+Samson_et_Dalila6,Samson_et_Dalila6,French,Saint-Saëns,Saturday,41,2018,10,score,5946.339,200,sad,Drama,0,"October 13, 2018",10/13/18,https://www.metopera.org/smart-seat/?performanceNumber=15330#/,Samson et Dalila
+Samson_et_Dalila7,Samson_et_Dalila7,French,Saint-Saëns,Tuesday,42,2018,10,score,6094.601,200,sad,Drama,0,"October 16, 2018",10/16/18,https://www.metopera.org/smart-seat/?performanceNumber=15331#/,Samson et Dalila
+Samson_et_Dalila8,Samson_et_Dalila8,French,Saint-Saëns,Saturday,42,2018,10,score,6052.235,200,sad,Drama,0,"October 20, 2018",10/20/18,https://www.metopera.org/smart-seat/?performanceNumber=15332#/,Samson et Dalila
+Samson_et_Dalila9,Samson_et_Dalila9,French,Saint-Saëns,Wednesday,11,2019,3,score,5730.369,200,sad,Drama,0,"March 13, 2019",3/13/19,https://www.metopera.org/smart-seat/?performanceNumber=15333#/,Samson et Dalila
+Siegfried1,Siegfried1,German,Wagner,Thursday,18,2019,5,score,7591.34,306,happy,Fantasy,0,"May 2, 2019",5/2/19,https://www.metopera.org/season/tickets/the-ring-cycle/ring-cycle/,Siegfried
+Siegfried2,Siegfried2,German,Wagner,Thursday,19,2019,5,score,7599.584,306,happy,Fantasy,0,"May 9, 2019",5/9/19,https://www.metopera.org/season/tickets/the-ring-cycle/ring-cycle/,Siegfried
+Suor_Angelica1,Suor_Angelica1,Italian,Puccini,Friday,47,2018,11,score,4682.268,226,sad,Drama,0,"November 23, 2018",11/23/18,https://www.metopera.org/smart-seat/?performanceNumber=15157#/,Il Trittico
+Suor_Angelica2,Suor_Angelica2,Italian,Puccini,Monday,48,2018,11,score,4700.533,226,sad,Drama,0,"November 26, 2018",11/26/18,https://www.metopera.org/smart-seat/?performanceNumber=15158#/,Il Trittico
+Suor_Angelica3,Suor_Angelica3,Italian,Puccini,Friday,48,2018,11,score,4763.437,226,sad,Drama,0,"November 30, 2018",11/30/18,https://www.metopera.org/smart-seat/?performanceNumber=15159#/,Il Trittico
+Suor_Angelica4,Suor_Angelica4,Italian,Puccini,Wednesday,49,2018,12,score,4867.817,226,sad,Drama,0,"December 5, 2018",12/5/18,https://www.metopera.org/smart-seat/?performanceNumber=15160#/,Il Trittico
+Suor_Angelica5,Suor_Angelica5,Italian,Puccini,Saturday,49,2018,12,score,4818.498,226,sad,Drama,0,"December 8, 2018",12/8/18,https://www.metopera.org/smart-seat/?performanceNumber=15161#/,Il Trittico
+Suor_Angelica6,Suor_Angelica6,Italian,Puccini,Wednesday,50,2018,12,score,5081.903,226,sad,Drama,0,"December 12, 2018",12/12/18,https://www.metopera.org/smart-seat/?performanceNumber=15162#/,Il Trittico
+Suor_Angelica7,Suor_Angelica7,Italian,Puccini,Saturday,50,2018,12,score,4978.529,226,sad,Drama,0,"December 15, 2018",12/15/18,https://www.metopera.org/smart-seat/?performanceNumber=15163#/,Il Trittico
+Tosca1,Tosca1,Italian,Puccini,Thursday,43,2018,10,score,4698.938,173,sad,Drama,0,"October 25, 2018",10/25/18,https://www.metopera.org/smart-seat/?performanceNumber=15350#/,Tosca
+Tosca10,Tosca10,Italian,Puccini,Tuesday,13,2019,3,score,4235.904,173,sad,Drama,0,"March 26, 2019",3/26/19,https://www.metopera.org/smart-seat/?performanceNumber=15359#/,Tosca
+Tosca11,Tosca11,Italian,Puccini,Friday,13,2019,3,score,4139.188,173,sad,Drama,0,"March 29, 2019",3/29/19,https://www.metopera.org/smart-seat/?performanceNumber=15360#/,Tosca
+Tosca12,Tosca12,Italian,Puccini,Tuesday,14,2019,4,score,4245.652,173,sad,Drama,0,"April 2, 2019",4/2/19,https://www.metopera.org/smart-seat/?performanceNumber=15361#/,Tosca
+Tosca13,Tosca13,Italian,Puccini,Saturday,14,2019,4,score,4361.496,173,sad,Drama,0,"April 6, 2019",4/6/19,https://www.metopera.org/smart-seat/?performanceNumber=15362#/,Tosca
+Tosca2,Tosca2,Italian,Puccini,Monday,44,2018,10,score,4657.331,173,sad,Drama,0,"October 29, 2018",10/29/18,https://www.metopera.org/smart-seat/?performanceNumber=15351#/,Tosca
+Tosca3,Tosca3,Italian,Puccini,Friday,44,2018,11,score,4601.932,173,sad,Drama,0,"November 2, 2018",11/2/18,https://www.metopera.org/smart-seat/?performanceNumber=15352#/,Tosca
+Tosca4,Tosca4,Italian,Puccini,Monday,45,2018,11,score,4757.663,173,sad,Drama,0,"November 5, 2018",11/5/18,https://www.metopera.org/smart-seat/?performanceNumber=15353#/,Tosca
+Tosca5,Tosca5,Italian,Puccini,Friday,45,2018,11,score,4606.494,173,sad,Drama,0,"November 9, 2018",11/9/18,https://www.metopera.org/smart-seat/?performanceNumber=15354#/,Tosca
+Tosca6,Tosca6,Italian,Puccini,Tuesday,46,2018,11,score,4657.385,173,sad,Drama,0,"November 13, 2018",11/13/18,https://www.metopera.org/smart-seat/?performanceNumber=15355#/,Tosca
+Tosca7,Tosca7,Italian,Puccini,Saturday,46,2018,11,score,4641.33,173,sad,Drama,0,"November 17, 2018",11/17/18,https://www.metopera.org/smart-seat/?performanceNumber=15356#/,Tosca
+Tosca8,Tosca8,Italian,Puccini,Monday,12,2019,3,score,4443.648,173,sad,Drama,0,"March 18, 2019",3/18/19,https://www.metopera.org/smart-seat/?performanceNumber=15357#/,Tosca
+Tosca9,Tosca9,Italian,Puccini,Saturday,12,2019,3,score,4351.43,173,sad,Drama,0,"March 23, 2019",3/23/19,https://www.metopera.org/smart-seat/?performanceNumber=15358#/,Tosca

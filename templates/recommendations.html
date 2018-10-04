@@ -65,9 +65,9 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto text-center">
-          {% for x in cos_sims %}
+          {% for x in selection %}
             <div>
-            <p class="text-white mb-4">{{ x }}</p>
+            <p class="text-white mb-4">{{ opera_info[x]['composer'] }}'s '{{ opera_info[x]['name'] }}' on {{ opera_info[x]['date'] }} -- <a href="{{ opera_info[x]['link'] }}">Buy tickets!</a></p>
             </div>
           {% endfor %}
           </div>

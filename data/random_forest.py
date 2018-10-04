@@ -48,6 +48,8 @@ opera_info = opera_info.drop_duplicates()
 data['opera'] = data['opera'].str.strip()
 df = data.merge(opera_info, how='left', on = 'opera')
 
+# test = df[df['opera'].str.contains("Le Nozze di Figato")]
+
 # Get columns we want:
 df = df[['role','opera', 'artist', 'date', 'CID', 'popularity_score', 'composer', 'language']]
 # Want to collapse by opera and not have artist data atm
