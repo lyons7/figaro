@@ -67,7 +67,7 @@
           <div class="col-lg-8 mx-auto text-center">
           {% for x in selection %}
             <div>
-            <p class="text-white mb-4">{{ opera_info[x]['composer'] }}'s '{{ opera_info[x]['name'] }}' on {{ opera_info[x]['date'] }} -- <a href="{{ opera_info[x]['link'] }}">Buy tickets!</a></p>
+            <p class="text-white mb-4">{{ opera_info[x]['composer'] }}'s <i>{{ opera_info[x]['name'] }}</i> on {{ opera_info[x]['date'] }} -- <a href="{{ opera_info[x]['link'] }}">Buy tickets!</a><br>Top scenes to look out for in <i>{{ opera_info[x]['name'] }}</i>:<br><a href="{{ top_scenes[x]['youtube_1'] }}">{{ top_scenes[x]['track_1'] }}</a></p>
             </div>
           {% endfor %}
           </div>

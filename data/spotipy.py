@@ -131,6 +131,10 @@ opera_info = opera_info[['scene_name', 'opera', 'act', 'scene_type', 'voice']]
 # Ok, now we want to join these, returning all instances that opera_info matches met_operas
 df = met_operas.merge(opera_info, how='left', on = 'opera')
 
+# Good to keep this for later
+season_opera_info = df
+season_opera_info.to_sql('season_opera_info', engine, if_exists='replace')
+
 # Combine opera name column with scene_name in new track column to have better search results
 df['track'] = df['opera'] + " " + df['scene_name']
 # Track will be our search string
@@ -180,3 +184,4 @@ opera_data = opera_data.sort_values(by = ['opera','track_popularity'], ascending
 test = opera_data.groupby('opera').head(5).reset_index(drop=True)
 top_tracks = test
 top_tracks.to_sql('top_tracks', engine, if_exists='replace')
+top_tracks

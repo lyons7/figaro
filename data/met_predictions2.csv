@@ -1,0 +1,208 @@
+,opera,language,composer,day_of_week,week,popularity_score,year,month,label,popularity_predictions
+0,Mefistofele,Italian,Boito,Saturday,48,0,2018,12,score,5033.585
+1,Mefistofele,Italian,Boito,Saturday,47,0,2018,11,score,5170.607
+2,Mefistofele,Italian,Boito,Tuesday,48,0,2018,11,score,5028.769
+3,Mefistofele,Italian,Boito,Friday,46,0,2018,11,score,5140.78
+4,Mefistofele,Italian,Boito,Monday,47,0,2018,11,score,5035.17
+5,Mefistofele,Italian,Boito,Thursday,45,0,2018,11,score,4930.705
+6,Mefistofele,Italian,Boito,Monday,46,0,2018,11,score,5065.199
+7,Aida,Italian,Verdi,Thursday,42,0,2018,10,score,4913.011
+8,Aida,Italian,Verdi,Saturday,40,0,2018,10,score,5627.929
+9,Aida,Italian,Verdi,Thursday,41,0,2018,10,score,5035.768
+10,Aida,Italian,Verdi,Monday,42,0,2018,10,score,4980.308
+11,Aida,Italian,Verdi,Saturday,39,0,2018,9,score,5735.231
+12,Aida,Italian,Verdi,Tuesday,40,0,2018,10,score,5155.755
+13,Aida,Italian,Verdi,Wednesday,39,0,2018,9,score,5271.454
+14,Tosca,Italian,Puccini,Saturday,46,0,2018,11,score,4641.33
+15,Suor Angelica,Italian,Puccini,Saturday,50,0,2018,12,score,4818.498
+16,Tosca,Italian,Puccini,Friday,45,0,2018,11,score,4606.494
+17,Tosca,Italian,Puccini,Tuesday,46,0,2018,11,score,4657.385
+18,Suor Angelica,Italian,Puccini,Saturday,49,0,2018,12,score,4978.529
+19,Tosca,Italian,Puccini,Friday,44,0,2018,11,score,4601.932
+20,Suor Angelica,Italian,Puccini,Wednesday,50,0,2018,12,score,4867.817
+21,Tosca,Italian,Puccini,Monday,45,0,2018,11,score,4757.663
+22,Suor Angelica,Italian,Puccini,Friday,48,0,2018,11,score,4682.268
+23,Suor Angelica,Italian,Puccini,Wednesday,49,0,2018,12,score,5081.903
+24,Tosca,Italian,Puccini,Thursday,43,0,2018,10,score,4698.938
+25,Tosca,Italian,Puccini,Monday,44,0,2018,10,score,4657.331
+26,Suor Angelica,Italian,Puccini,Friday,47,0,2018,11,score,4763.437
+27,Suor Angelica,Italian,Puccini,Monday,48,0,2018,11,score,4700.533
+28,La fanciulla del West,Italian,Puccini,Saturday,43,0,2018,10,score,4800.154
+29,La fanciulla del West,Italian,Puccini,Saturday,42,0,2018,10,score,5150.896
+30,La Traviata,Italian,Verdi,Saturday,52,0,2018,12,score,5342.286
+31,La fanciulla del West,Italian,Puccini,Tuesday,43,0,2018,10,score,4700.963
+32,La Traviata,Italian,Verdi,Saturday,51,0,2018,12,score,5348.367
+33,La fanciulla del West,Italian,Puccini,Friday,41,0,2018,10,score,5098.426
+34,La fanciulla del West,Italian,Puccini,Wednesday,42,0,2018,10,score,5146.908
+35,La Traviata,Italian,Verdi,Wednesday,52,0,2018,12,score,5362.65
+36,La Traviata,Italian,Verdi,Saturday,50,0,2018,12,score,5395.75
+37,Aida,Italian,Verdi,Thursday,10,0,2019,3,score,5339.332
+38,La fanciulla del West,Italian,Puccini,Thursday,40,0,2018,10,score,4940.641
+39,La Traviata,Italian,Verdi,Tuesday,51,0,2018,12,score,5355.96
+40,Aida,Italian,Verdi,Thursday,9,0,2019,2,score,5306.844
+41,La fanciulla del West,Italian,Puccini,Monday,41,0,2018,10,score,5273.304
+42,La Traviata,Italian,Verdi,Friday,49,0,2018,12,score,5645.881
+43,Aida,Italian,Verdi,Monday,10,0,2019,3,score,5438.91
+44,La Traviata,Italian,Verdi,Tuesday,50,0,2018,12,score,5401.681
+45,La Traviata,Italian,Verdi,Tuesday,49,0,2018,12,score,5553.947
+46,Aida,Italian,Verdi,Friday,3,0,2019,1,score,4375.138
+47,Aida,Italian,Verdi,Friday,2,0,2019,1,score,4362.786
+48,Aida,Italian,Verdi,Monday,3,0,2019,1,score,4501.484
+49,Aida,Italian,Verdi,Monday,2,0,2019,1,score,4488.005
+50,Tosca,Italian,Puccini,Saturday,14,0,2019,4,score,4351.43
+51,Tosca,Italian,Puccini,Friday,13,0,2019,3,score,4139.188
+52,Tosca,Italian,Puccini,Saturday,12,0,2019,3,score,4361.496
+53,Tosca,Italian,Puccini,Tuesday,14,0,2019,4,score,4245.652
+54,Tosca,Italian,Puccini,Tuesday,13,0,2019,3,score,4235.904
+55,Tosca,Italian,Puccini,Monday,12,0,2019,3,score,4443.648
+56,La Traviata,Italian,Verdi,Saturday,17,0,2019,4,score,5112.604
+57,La Traviata,Italian,Verdi,Saturday,16,0,2019,4,score,5127.001
+58,La Traviata,Italian,Verdi,Wednesday,17,0,2019,4,score,5391.822
+59,La Traviata,Italian,Verdi,Saturday,15,0,2019,4,score,5242.249
+60,La Traviata,Italian,Verdi,Wednesday,16,0,2019,4,score,5385.574
+61,La Traviata,Italian,Verdi,Friday,14,0,2019,4,score,5552.38
+62,La Traviata,Italian,Verdi,Wednesday,15,0,2019,4,score,5439.876
+63,Götterdämmerung,German,Wagner,Saturday,19,0,2019,5,score,8258.58
+64,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,49,0,2018,12,score,6140.251
+65,Götterdämmerung,German,Wagner,Saturday,18,0,2019,5,score,8255.579
+66,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,48,0,2018,12,score,6105.528
+67,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,47,0,2018,11,score,6318.373
+68,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Wednesday,48,0,2018,11,score,6279.675
+69,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Saturday,46,0,2018,11,score,6312.081
+70,Carmen,French,Bizet,Saturday,45,0,2018,11,score,6315.336
+71,Carmen,French,Bizet,Thursday,46,0,2018,11,score,6443.213
+72,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Tuesday,47,0,2018,11,score,6364.126
+73,Les (The Pearl Fishers) Pêcheurs de perles,French,Bizet,Wednesday,46,0,2018,11,score,6300.677
+74,Carmen,French,Bizet,Saturday,44,0,2018,11,score,6289.547
+75,Carmen,French,Bizet,Tuesday,45,0,2018,11,score,6374.269
+76,Carmen,French,Bizet,Tuesday,44,0,2018,10,score,6006.554
+77,Otello,Italian,Verdi,Friday,52,0,2018,12,score,5108.477
+78,Otello,Italian,Verdi,Friday,51,0,2018,12,score,5171.599
+79,Otello,Italian,Verdi,Friday,50,0,2018,12,score,5292.471
+80,Otello,Italian,Verdi,Monday,51,0,2018,12,score,5154.35
+81,Adriana Lecouvreur,Italian,Cilea,Monday,1,0,2018,12,score,5598.972
+82,Falstaff,Italian,Verdi,Saturday,11,0,2019,3,score,5567.324
+83,Falstaff,Italian,Verdi,Friday,10,0,2019,3,score,5972.152
+84,Falstaff,Italian,Verdi,Saturday,9,0,2019,3,score,5925.342
+85,Falstaff,Italian,Verdi,Tuesday,11,0,2019,3,score,5819.89
+86,Falstaff,Italian,Verdi,Tuesday,10,0,2019,3,score,6029.364
+87,Falstaff,Italian,Verdi,Friday,8,0,2019,2,score,5806.412
+88,Falstaff,Italian,Verdi,Wednesday,9,0,2019,2,score,5565.705
+89,Die Walküre,German,Wagner,Tuesday,19,0,2019,5,score,7519.832
+90,Die Walküre,German,Wagner,Thursday,17,0,2019,4,score,7423.289
+91,Die Walküre,German,Wagner,Tuesday,18,0,2019,4,score,7507.34
+92,Carmen,French,Bizet,Friday,6,0,2019,2,score,5090.225
+93,Carmen,French,Bizet,Saturday,5,0,2019,2,score,4153.945
+94,Carmen,French,Bizet,Saturday,4,0,2019,1,score,4367.629
+95,Carmen,French,Bizet,Tuesday,6,0,2019,2,score,5191.948
+96,Carmen,French,Bizet,Tuesday,5,0,2019,1,score,4342.807
+97,Die Walküre,German,Wagner,Saturday,13,0,2019,3,score,7643.129
+98,Carmen,French,Bizet,Saturday,2,0,2019,1,score,5711.173
+99,Carmen,French,Bizet,Thursday,3,0,2019,1,score,4856.532
+100,Carmen,French,Bizet,Monday,4,0,2019,1,score,4493.622
+101,Carmen,French,Bizet,Wednesday,2,0,2019,1,score,5798.813
+102,Die Walküre,German,Wagner,Monday,13,0,2019,3,score,7625.64
+103,La Clemenza di Tito,Italian,Mozart,Saturday,16,0,2019,4,score,5434.13
+104,La Clemenza di Tito,Italian,Mozart,Saturday,14,0,2019,4,score,5503.332
+105,La Clemenza di Tito,Italian,Mozart,Thursday,15,0,2019,4,score,5437.7
+106,La Clemenza di Tito,Italian,Mozart,Tuesday,16,0,2019,4,score,5469.043
+107,La Clemenza di Tito,Italian,Mozart,Saturday,13,0,2019,3,score,5457.16
+108,La Clemenza di Tito,Italian,Mozart,Wednesday,14,0,2019,4,score,5565.069
+109,Rigoletto,Italian,Verdi,Friday,19,0,2019,5,score,5010.959
+110,Otello,Italian,Verdi,Saturday,1,0,2019,1,score,5301.077
+111,Rigoletto,Italian,Verdi,Saturday,18,0,2019,5,score,4981.641
+112,Otello,Italian,Verdi,Thursday,2,0,2019,1,score,5368.141
+113,Rigoletto,Italian,Verdi,Friday,17,0,2019,4,score,5198.07
+114,Otello,Italian,Verdi,Wednesday,1,0,2019,1,score,5349.309
+115,Rigoletto,Italian,Verdi,Wednesday,18,0,2019,5,score,5298.853
+116,Adriana Lecouvreur,Italian,Cilea,Saturday,4,0,2019,1,score,5282.351
+117,Rigoletto,Italian,Verdi,Friday,11,0,2019,3,score,5698.108
+118,Rigoletto,Italian,Verdi,Wednesday,12,0,2019,3,score,5759.515
+119,Rigoletto,Italian,Verdi,Saturday,10,0,2019,3,score,5862.229
+120,Adriana Lecouvreur,Italian,Cilea,Saturday,3,0,2019,1,score,5311.383
+121,Adriana Lecouvreur,Italian,Cilea,Wednesday,4,0,2019,1,score,5233.484
+122,Adriana Lecouvreur,Italian,Cilea,Saturday,2,0,2019,1,score,5328.706
+123,Rigoletto,Italian,Verdi,Friday,9,0,2019,3,score,5840.409
+124,Rigoletto,Italian,Verdi,Wednesday,10,0,2019,3,score,5749.969
+125,Adriana Lecouvreur,Italian,Cilea,Wednesday,3,0,2019,1,score,5351.926
+126,Rigoletto,Italian,Verdi,Saturday,8,0,2019,2,score,5681.391
+127,Adriana Lecouvreur,Italian,Cilea,Friday,1,0,2019,1,score,5421.944
+128,Rigoletto,Italian,Verdi,Saturday,7,0,2019,2,score,5606.086
+129,Adriana Lecouvreur,Italian,Cilea,Tuesday,2,0,2019,1,score,5411.661
+130,Rigoletto,Italian,Verdi,Tuesday,8,0,2019,2,score,5769.032
+131,Rigoletto,Italian,Verdi,Tuesday,7,0,2019,2,score,5672.433
+132,Marnie,English,Muhly,Saturday,45,0,2018,11,score,6166.588
+133,Marnie,English,Muhly,Saturday,44,0,2018,11,score,6228.042
+134,Marnie,English,Muhly,Wednesday,45,0,2018,11,score,6227.772
+135,Marnie,English,Muhly,Saturday,43,0,2018,10,score,6212.338
+136,Marnie,English,Muhly,Wednesday,44,0,2018,10,score,6272.554
+137,Marnie,English,Muhly,Friday,42,0,2018,10,score,6241.793
+138,Marnie,English,Muhly,Monday,43,0,2018,10,score,6138.332
+139,La Bohème,Italian,Puccini,Thursday,50,0,2018,12,score,5017.305
+140,La Bohème,Italian,Puccini,Thursday,49,0,2018,12,score,5101.847
+141,La Bohème,Italian,Puccini,Monday,50,0,2018,12,score,5006.064
+142,La Bohème,Italian,Puccini,Thursday,48,0,2018,11,score,4935.778
+143,La Bohème,Italian,Puccini,Monday,49,0,2018,12,score,5056.095
+144,La Bohème,Italian,Puccini,Saturday,41,0,2018,10,score,5556.13
+145,La Bohème,Italian,Puccini,Saturday,40,0,2018,10,score,5348.318
+146,La Bohème,Italian,Puccini,Wednesday,41,0,2018,10,score,5637.636
+147,La Bohème,Italian,Puccini,Saturday,39,0,2018,9,score,4647.0
+148,La Bohème,Italian,Puccini,Wednesday,40,0,2018,10,score,5507.834
+149,La Bohème,Italian,Puccini,Tuesday,39,0,2018,9,score,4400.749
+150,Samson et Dalila,French,Saint-Saëns,Saturday,42,0,2018,10,score,6052.235
+151,Samson et Dalila,French,Saint-Saëns,Saturday,41,0,2018,10,score,5946.339
+152,Samson et Dalila,French,Saint-Saëns,Tuesday,42,0,2018,10,score,6094.601
+153,Samson et Dalila,French,Saint-Saëns,Friday,40,0,2018,10,score,5979.327
+154,Samson et Dalila,French,Saint-Saëns,Tuesday,41,0,2018,10,score,5976.249
+155,Samson et Dalila,French,Saint-Saëns,Friday,39,0,2018,9,score,5978.774
+156,Samson et Dalila,French,Saint-Saëns,Monday,40,0,2018,10,score,5894.05
+157,Samson et Dalila,French,Saint-Saëns,Monday,39,0,2018,9,score,5894.473
+158,Dialogues Carmelites,French,Poulenc,Saturday,19,0,2019,5,score,5815.701
+159,Dialogues Carmelites,French,Poulenc,Friday,18,0,2019,5,score,5907.679
+160,Dialogues Carmelites,French,Poulenc,Wednesday,19,0,2019,5,score,5808.496
+161,Samson et Dalila,French,Saint-Saëns,Saturday,12,0,2019,3,score,5842.115
+162,Samson et Dalila,French,Saint-Saëns,Thursday,13,0,2019,3,score,5936.125
+163,Samson et Dalila,French,Saint-Saëns,Saturday,11,0,2019,3,score,5746.537
+164,Samson et Dalila,French,Saint-Saëns,Tuesday,12,0,2019,3,score,5947.801
+165,Samson et Dalila,French,Saint-Saëns,Wednesday,11,0,2019,3,score,5730.369
+166,Pelléas et Mélisande,French,Debussy,Thursday,5,0,2019,1,score,5010.461
+167,Pelléas et Mélisande,French,Debussy,Friday,4,0,2019,1,score,4968.051
+168,Pelléas et Mélisande,French,Debussy,Saturday,3,0,2019,1,score,5302.441
+169,Pelléas et Mélisande,French,Debussy,Tuesday,4,0,2019,1,score,5079.479
+170,Pelléas et Mélisande,French,Debussy,Tuesday,3,0,2019,1,score,5313.833
+171,Don Giovanni,Italian,Mozart,Thursday,16,0,2019,4,score,6664.528
+172,Don Giovanni,Italian,Mozart,Friday,15,0,2019,4,score,6382.705
+173,Don Giovanni,Italian,Mozart,Monday,16,0,2019,4,score,6716.821
+174,Don Giovanni,Italian,Mozart,Thursday,14,0,2019,4,score,6558.963
+175,Don Giovanni,Italian,Mozart,Tuesday,15,0,2019,4,score,6713.104
+176,Don Giovanni,Italian,Mozart,Saturday,7,0,2019,2,score,5770.109
+177,Don Giovanni,Italian,Mozart,Wednesday,8,0,2019,2,score,5752.228
+178,Don Giovanni,Italian,Mozart,Saturday,6,0,2019,2,score,5754.425
+179,Don Giovanni,Italian,Mozart,Wednesday,7,0,2019,2,score,5776.504
+180,Don Giovanni,Italian,Mozart,Saturday,5,0,2019,2,score,5745.53
+181,Don Giovanni,Italian,Mozart,Wednesday,6,0,2019,2,score,5761.209
+182,Don Giovanni,Italian,Mozart,Wednesday,5,0,2019,1,score,5788.721
+183,Iolanta,Russian,Tchaikovsky,Saturday,6,0,2019,2,score,7982.553
+184,Iolanta,Russian,Tchaikovsky,Thursday,7,0,2019,2,score,7813.402
+185,Iolanta,Russian,Tchaikovsky,Friday,5,0,2019,2,score,7814.529
+186,Iolanta,Russian,Tchaikovsky,Monday,6,0,2019,2,score,7785.076
+187,Iolanta,Russian,Tchaikovsky,Thursday,4,0,2019,1,score,7766.071
+188,Iolanta,Russian,Tchaikovsky,Monday,5,0,2019,1,score,7722.809
+189,Die Zauberflöte,English,Mozart,Saturday,52,0,2018,12,score,5789.564
+190,Die Zauberflöte,English,Mozart,Saturday,51,0,2018,12,score,5921.634
+191,Die Zauberflöte,English,Mozart,Thursday,52,0,2018,12,score,6133.777
+192,Die Zauberflöte,English,Mozart,Wednesday,51,0,2018,12,score,5947.913
+193,Die Zauberflöte,English,Mozart,Monday,52,0,2018,12,score,5679.928
+194,Siegfried,German,Wagner,Thursday,19,0,2019,5,score,7599.584
+195,Siegfried,German,Wagner,Thursday,18,0,2019,5,score,7591.34
+196,Das Rheingold,German,Wagner,Thursday,11,0,2019,3,score,9240.128
+197,Die Zauberflöte,English,Mozart,Saturday,1,0,2019,1,score,5430.473
+198,Die Zauberflöte,English,Mozart,Thursday,1,0,2019,1,score,5531.678
+199,Die Zauberflöte,English,Mozart,Tuesday,1,0,2019,1,score,5303.709
+200,La Fille du régiment,French,Donizetti,Saturday,9,0,2019,3,score,5359.005
+201,La Fille du régiment,French,Donizetti,Saturday,8,0,2019,2,score,5452.607
+202,La Fille du régiment,French,Donizetti,Tuesday,9,0,2019,2,score,5565.202
+203,La Fille du régiment,French,Donizetti,Friday,7,0,2019,2,score,5504.012
+204,La Fille du régiment,French,Donizetti,Monday,8,0,2019,2,score,5454.156
+205,La Fille du régiment,French,Donizetti,Thursday,6,0,2019,2,score,5633.976
+206,La Fille du régiment,French,Donizetti,Monday,7,0,2019,2,score,5468.01
