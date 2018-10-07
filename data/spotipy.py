@@ -131,12 +131,13 @@ opera_info = opera_info[['scene_name', 'opera', 'act', 'scene_type', 'voice']]
 # Ok, now we want to join these, returning all instances that opera_info matches met_operas
 df = met_operas.merge(opera_info, how='left', on = 'opera')
 
+# Combine opera name column with scene_name in new track column to have better search results
+df['track'] = df['opera'] + " " + df['scene_name']
+
 # Good to keep this for later
 season_opera_info = df
 season_opera_info.to_sql('season_opera_info', engine, if_exists='replace')
 
-# Combine opera name column with scene_name in new track column to have better search results
-df['track'] = df['opera'] + " " + df['scene_name']
 # Track will be our search string
 # Looping thru data frame
 # Probably a dumb solution but it will work at least -- make column of names in pandas df a list

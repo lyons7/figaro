@@ -272,6 +272,6 @@ new_season["popularity_predictions"] = predictions
 
 # Sort from highest to lowest
 new_season.sort_values('popularity_predictions')
-new_season.to_csv('met_predictions.csv')
+new_season.to_csv('met_predictions2.csv')
 
 con.close()
