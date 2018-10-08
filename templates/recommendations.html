@@ -93,7 +93,14 @@
           <div>
           <div class="col-lg-16 mx-auto text-left">
           <p class="text-white mb-4 text-left">Top scenes to look out for in <i>{{ opera_info[x]['name'] }}</i>:</p>
-          <p class="text-white mb-4 text-left">1. {{ top_scenes[x]['track_1'] }} -- <a href="{{ top_scenes[x]['youtube_1'] }}">Check it out on YouTube!</a><br>2. {{ top_scenes[x]['track_2'] }} -- <a href="{{ top_scenes[x]['youtube_2'] }}">Check it out on YouTube!</a><br>3. {{ top_scenes[x]['track_3'] }} -- <a href="{{ top_scenes[x]['youtube_3'] }}">Check it out on YouTube!</a><br>4. {{ top_scenes[x]['track_4'] }} -- <a href="{{ top_scenes[x]['youtube_4'] }}">Check it out on YouTube!</a><br>5. {{ top_scenes[x]['track_5'] }} -- <a href="{{ top_scenes[x]['youtube_5'] }}">Check it out on YouTube!</a><br><br><br><br><br></p>
+          <p class="text-white mb-4 text-left">1. {{ top_scenes[x]['track_1'] }} -- <a href="{{ top_scenes[x]['youtube_1'] }}">Check it out on YouTube!</a><br>2. {{ top_scenes[x]['track_2'] }} -- <a href="{{ top_scenes[x]['youtube_2'] }}">Check it out on YouTube!</a><br>3. {{ top_scenes[x]['track_3'] }} -- <a href="{{ top_scenes[x]['youtube_3'] }}">Check it out on YouTube!</a><br>4. {{ top_scenes[x]['track_4'] }} -- <a href="{{ top_scenes[x]['youtube_4'] }}">Check it out on YouTube!</a><br>5. {{ top_scenes[x]['track_5'] }} -- <a href="{{ top_scenes[x]['youtube_5'] }}">Check it out on YouTube!</a></p>
+          <div class="col-lg-16 mx-auto text-center">
+          <a class="btn btn-light btn-xl sr-button" href="{{ opera_info[x]['link'] }}">Buy tickets for {{ opera_info[x]['name'] }}!</a>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           </div>
         {% endfor %}
       </div>
