@@ -81,16 +81,19 @@
     <!-- Previous page knows to go here because of href "#about" above -->
     <section class="bg-dark text-white" id="moreinfo">
       <div class="container text-center">
-        <h2 class="mb-4">Learn more about what to expect on stage:</h2>
+        <h1 class="mb-4">Learn more about what to expect on stage!</h1>
         <div class="col-lg-8 mx-auto text-center">
         <p class="text-white mb-4"><i>An opera is a lot to take in all at once (especially if you are seeing one for the first time!), so it can help to get a little more acquainted with an opera's story and music before you go. Below you'll find a brief summary of what to expect plot-wise, as well as (when available) the top 5 most popular pieces you can look forward to hearing in each performance.</i></p>
         <br>
         <br>
-        <div class="col-lg-10 mx-auto text-center">
         {% for x in selection %}
+          <div class="col-lg-16 mx-auto text-left">
+          <h3 class="text-white mb-4 text-left">What to expect in <i>{{ opera_info[x]['name'] }}</i> on {{ opera_info[x]['date'] }}:</h3>
+          <p class="text-white mb-4 text-left">{{ opera_info[x]['wiki_summary'] }} -- <a href="{{ opera_info[x]['wiki_link'] }}">Read more on Wikipedia!</a></p>
           <div>
-          <p class="text-white mb-4 text-center">What to expect in <i>{{ opera_info[x]['name'] }}</i>:<br><br>Top scenes to look out for in <i>{{ opera_info[x]['name'] }}</i>:</p></div>
-          <p class="text-white mb-4 text-center">1. {{ top_scenes[x]['track_1'] }} -- <a href="{{ top_scenes[x]['youtube_1'] }}">Check it out on YouTube!</a><br>2. {{ top_scenes[x]['track_2'] }} -- <a href="{{ top_scenes[x]['youtube_2'] }}">Check it out on YouTube!</a><br>3. {{ top_scenes[x]['track_3'] }} -- <a href="{{ top_scenes[x]['youtube_3'] }}">Check it out on YouTube!</a><br>4. {{ top_scenes[x]['track_4'] }} -- <a href="{{ top_scenes[x]['youtube_4'] }}">Check it out on YouTube!</a><br>5. {{ top_scenes[x]['track_5'] }} -- <a href="{{ top_scenes[x]['youtube_5'] }}">Check it out on YouTube!</a><br></p></div>
+          <div class="col-lg-16 mx-auto text-left">
+          <p class="text-white mb-4 text-left">Top scenes to look out for in <i>{{ opera_info[x]['name'] }}</i>:</p>
+          <p class="text-white mb-4 text-left">1. {{ top_scenes[x]['track_1'] }} -- <a href="{{ top_scenes[x]['youtube_1'] }}">Check it out on YouTube!</a><br>2. {{ top_scenes[x]['track_2'] }} -- <a href="{{ top_scenes[x]['youtube_2'] }}">Check it out on YouTube!</a><br>3. {{ top_scenes[x]['track_3'] }} -- <a href="{{ top_scenes[x]['youtube_3'] }}">Check it out on YouTube!</a><br>4. {{ top_scenes[x]['track_4'] }} -- <a href="{{ top_scenes[x]['youtube_4'] }}">Check it out on YouTube!</a><br>5. {{ top_scenes[x]['track_5'] }} -- <a href="{{ top_scenes[x]['youtube_5'] }}">Check it out on YouTube!</a><br><br><br><br><br></p>
           </div>
         {% endfor %}
       </div>
