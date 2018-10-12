@@ -16,7 +16,9 @@ import datetime
 from time import gmtime, strftime
 from sklearn.model_selection import train_test_split
 import os
-
+import seaborn as sns; sns.set()
+import matplotlib
+import numpy as np
 
 # Get data and put in data frame from SQL database
 os.chdir("/Users/katelyons/Documents/Insight/figaro/data")
@@ -74,6 +76,8 @@ df['week'] = df['week'].astype(str).astype(int)
 
 # Get year and month as well
 df['year'],df['month'] = df.date.dt.year, df.date.dt.month
+
+# df.describe()
 
 # Start modeling process
 # A lot of help from here: https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
@@ -158,6 +162,7 @@ test_dates = [str(int(year)) + '-' + str(int(month)) for year, month in zip(year
 test_dates = [datetime.datetime.strptime(date, '%Y-%m') for date in test_dates]
 # Dataframe with predictions and dates
 predictions_data = pd.DataFrame(data = {'date': test_dates, 'prediction': predictions})
+fig = plt.figure(figsize=(10,7))
 # Plot the actual values
 plt.plot(true_data['date'], true_data['actual'], 'b-', label = 'actual')
 # Plot the predicted values
@@ -166,6 +171,20 @@ plt.xticks(rotation = '60');
 plt.legend()
 # Graph labels
 plt.xlabel('Date'); plt.ylabel('Popularity Score'); plt.title('Actual and Predicted Values');
+plt.savefig('plot.png')
+
+
+
+# true_data['score'] = true_data['actual']
+# predictions_data['score'] = predictions_data['prediction']
+# true_data['values'] = "actual"
+# predictions_data['values'] = "prediction"
+# true_data2 = true_data[['date','score','values']]
+# predictions_data2 = predictions_data[['date','score','values']]
+#
+# seaborn_graph = pd.concat([true_data2,predictions_data2])
+# # Make a better graph with seab orn
+# ax = sns.scatterplot(x="date", y="score", hue ="values", data=seaborn_graph)
 
 
 # How to use a model to predict new stuff:
@@ -251,6 +270,7 @@ rf.fit(train_features, train_labels);
 
 # Use the forest's predict method on the test data
 predictions = rf.predict(test_features)
+predictions_train = rf.predict(train_features)
 # Calculate the absolute errors
 errors = abs(predictions - test_labels)
 # Print out the mean absolute error (mae)
@@ -262,6 +282,9 @@ mape = 100 * (errors / test_labels)
 accuracy = 100 - np.mean(mape)
 print('Accuracy:', round(accuracy, 2), '%.')
 
+len(predictions_train)
+len(predictions)
+
 # NOW PREDICT ON ACTUAL SCORES
 # You have to do to score df the same stuff to get it into an array
 score_df1= score_df.drop('popularity_score', axis = 1)
@@ -272,6 +295,6 @@ new_season["popularity_predictions"] = predictions
 
 # Sort from highest to lowest
 new_season.sort_values('popularity_predictions')
-new_season.to_csv('met_predictions2.csv')
+# new_season.to_csv('met_predictions2.csv')
 
 con.close()
