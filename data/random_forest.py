@@ -101,6 +101,19 @@ features = np.array(features)
 # Split the data into training and testing sets
 train_features, test_features, train_labels, test_labels = train_test_split(features, labels, test_size = 0.25, random_state = 42)
 
+print('Training Features Shape:', train_features.shape)
+print('Training Labels Shape:', train_labels.shape)
+print('Testing Features Shape:', test_features.shape)
+print('Testing Labels Shape:', test_labels.shape)
+
+# Establish a baseline
+# The baseline predictions are what week it is
+baseline_preds = test_features[:, feature_list.index('week')]
+# Baseline errors, and display average baseline error
+baseline_errors = abs(baseline_preds - test_labels)
+print('Average baseline error: ', round(np.mean(baseline_errors), 2))
+
+
 # Import the model we are using
 from sklearn.ensemble import RandomForestRegressor
 # Instantiate model with 1000 decision trees

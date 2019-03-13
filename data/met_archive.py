@@ -78,6 +78,9 @@ df['date'] = date
 print(df)
 
 # Ok, now we have a series of commands we can use on each url to get the information that we want... how do we do it iteratively?
+
+
+# ACTUAL CODE!
 # Iterate through URLs
 pages = []
 dfs = []
@@ -90,13 +93,16 @@ headers = {
 # for i in range(130000, 356995):
 # YOU JUST DID THESE NUMBERS just update them
 # Had to do 500 at a time so that it wouldn't kick me out :O
-for i in range(351795, 352295):
+# Remember for range -- doesn't count end value. range(1,5) is 1,2,3,4
+
+for i in range(351565, 352065): # Won't go to this value, but that is okay, just keep replacing it with old one
+    # Set URL
     url = 'http://69.18.170.204/archives/scripts/cgiip.exe/WService=BibSpeed/fullcit.w?xCID=' + str(i) + '&limit=5000&xBranch=ALL&xsdate=08/01/1940&xedate=09/01/2018&theterm=&x=0&xhomepath=&xhome='
-    pages.append(url)
-    t0 = time.time()
+    pages.append(url) #
+    # t0 = time.time() # Was doing this to not overload their servers, made more sense to just stagger requests manually
 
 for item in pages:
-    page = requests.get(item, headers = headers)
+    page = requests.get(item, headers = headers) # Get html content, tell them who is scraping
     soup = BeautifulSoup(page.text, 'html.parser')
 
     # Identify opera
@@ -107,7 +113,7 @@ for item in pages:
         opera3 = re.sub('{.*?}','', opera2)
         opera4 = re.sub('\[.*?\]','', opera3)
     except:
-        opera = None
+        opera = None # For special entries where we don't have an opera field -- this ensures loop continues and doesn't break
 
     # Turn into list for easier processing
     test = soup.get_text('<br/>', strip=False)
@@ -119,7 +125,7 @@ for item in pages:
         match = re.search(r'\d{2}/\d{1,2}/\d{4}', test)
         date = datetime.strptime(match.group(), '%m/%d/%Y').date()
     except:
-        match = None
+        match = None # If we don't have a date.
 
     # Make list
     def Convert(string):
